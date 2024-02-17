@@ -1,0 +1,207 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is darkblue.
+ *
+ * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+
+
+/* fonts */
+@font-face {
+  font-family: 'work sans';
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 1 999;
+  src: local('Work-Sans'), url('dist/theme/fonts/WorkSans[wght].ttf') format("truetype-variations");
+}
+
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'work sans',-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+$mainColor:#f6edf8;
+$headingFont: $mainFont;
+$headingColor:#f6edf8;
+$headingFontWeight: 800;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor:#1b0425;
+$linkColor:#b300f9;
+$linkColorHover:#f6edf8;
+$selectionBackgroundColor:#f6edf8;
+
+/*
+--bg-color: hsla(202, 85%, 4%, 1);
+--link-color: hsla(215, 100%, 59.6%, 0.9);
+--link-color-hover: hsla(215, 100%, 59.6%, 1);
+--link-color-visited: hsla(255, 100%, 69.4%, 0.96);
+--snow-bg-color: hsla(202, 85%, 8%, 1);
+--snow-bg-color-light: hsla(202, 85%, 12%, 1);
+--text-color: hsl(20, 60%, 98%);
+*/
+
+// Change text colors against dark slide backgrounds
+@include dark-bg-text-color(#fff);
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+.reveal strong{
+  font-weight: 900;
+}
+
+.reveal ol{
+    &.steps{
+        margin-top: 1em;
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        li{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+}
+.step-icon{ font-size: 2em; }
+.step-name{ font-size: 0.4em; }
+
+mark{
+  background-color: $linkColor;
+  color: $mainColor;
+}
+
+// mark{
+//   position: relative;
+//   background-color: transparent;
+// }
+// 
+// mark:before{
+//   content: "";
+//   background-color: pink;
+//   width: 100%;
+//   height: 1em;
+//   position: absolute;
+//   z-index: -1;
+//   filter: url(#marker-shape);
+//   left: -0.15em;
+//   top: 0.1em;
+//   padding: 0 0.15em;
+// }
+
+#ikigai {
+    width: 50vh;
+       
+    path {
+      stroke: #2a2734;
+      stroke-width: .5;
+    }
+    path.love {
+      fill: #ffff99;
+    }
+    path.love:hover {
+      fill: #ffff80;
+    }
+    path.needs {
+      fill: #ff9999;
+    }
+    path.needs:hover {
+      fill: #ff8080;
+    }
+    path.money {
+      fill: #9999ff;
+    }
+    path.money:hover {
+      fill: #8080ff;
+    }
+    path.skills {
+      fill: #99ff99;
+    }
+    path.skills:hover {
+      fill: #80ff80;
+    }
+    path.mission {
+      fill: #ffcc99;
+    }
+    path.mission:hover {
+      fill: #ffbf80;
+    }
+    path.vocation {
+      fill: #cc99cc;
+    }
+    path.vocation:hover {
+      fill: #c488c4;
+    }
+    path.profession {
+      fill: #99cccc;
+    }
+    path.profession:hover {
+      fill: #88c4c4;
+    }
+    path.passion {
+      fill: #ccff99;
+    }
+    path.passion:hover {
+      fill: #bfff80;
+    }
+    path.delight {
+      fill: #e6e699;
+    }
+    path.delight:hover {
+      fill: #e1e185;
+    }
+    path.excitement {
+      fill: #e6b3b3;
+    }
+    path.excitement:hover {
+      fill: #e0a0a0;
+    }
+    path.comfort {
+      fill: #b3b3cc;
+    }
+    path.comfort:hover {
+      fill: #a4a4c2;
+    }
+    path.satisfaction {
+      fill: #b3e6b3;
+    }
+    path.satisfaction:hover {
+      fill: #a0e0a0;
+    }
+    path.ikigai {
+      fill: #fff;
+    }
+    path.ikigai:hover {
+      fill: #f2f2f2;
+    }
+    text {
+      text-anchor: middle;
+      alignment-baseline: middle;
+      font-size: 5px;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+    text.small {
+      font-size: 4px;
+      font-weight: 400;
+      text-transform: none;
+    }
+    .lvl-3 text {
+      font-size: 2.5px;
+      font-weight: 200;
+      font-style: italic;
+      text-transform: none;
+    }
+}
