@@ -30,7 +30,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --background-color: #1b0425;
+  --background-color: black;
   --main-font: work sans, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   --main-font-size: 40px;
   --main-color: #f6edf8;
@@ -49,15 +49,15 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --heading3-size: 1.55em;
   --heading4-size: 1em;
   --code-font: monospace;
-  --link-color: #b300f9;
+  --link-color: #f90094;
   --link-color-hover: #f6edf8;
   --selection-background-color: #f6edf8;
   --selection-color: #fff;
 }
 
 .reveal-viewport {
-  background: #1b0425;
-  background-color: #1b0425;
+  background: black;
+  background-color: black;
 }
 
 .reveal {
@@ -307,7 +307,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * LINKS
  *********************************************/
 .reveal a {
-  color: #b300f9;
+  color: #f90094;
   text-decoration: none;
   transition: color 0.15s ease;
 }
@@ -320,7 +320,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal .roll span:after {
   color: #fff;
-  background: #7c00ad;
+  background: #ad0067;
 }
 
 /*********************************************
@@ -336,7 +336,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 }
 
 .reveal a:hover .r-frame {
-  border-color: #b300f9;
+  border-color: #f90094;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
 }
 
@@ -344,7 +344,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #b300f9;
+  color: #f90094;
 }
 
 /*********************************************
@@ -352,7 +352,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #b300f9;
+  color: #f90094;
 }
 
 /*********************************************
@@ -360,7 +360,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 @media print {
   .backgrounds {
-    background-color: #1b0425;
+    background-color: black;
   }
 }
 .reveal strong {
@@ -389,7 +389,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 }
 
 mark {
-  background-color: #b300f9;
+  background-color: #f90094;
   color: #f6edf8;
 }
 
