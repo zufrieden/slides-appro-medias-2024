@@ -1,4 +1,4 @@
-# M50-1/2 Gutknecht Maxime - Approfondissement de soutils d'analyse de Google
+# M50-1/2 Gutknecht Maxime - Approfondissement des outils d'analyse de Google
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
