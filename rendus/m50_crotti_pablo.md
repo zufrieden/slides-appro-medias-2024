@@ -10,17 +10,19 @@ _Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante
 
 ### Contexte
 
-_J'ai choisi ce sujet spécifique pour me préparer au développement de mon TB chez IntuitSens, où je dois créer une plateforme en ligne pour l’analyse de risques et l’élaboration de plans d'urgence. L'utilisation de Next.js s'aligne avec les besoins du TB pour une application web performante et SEO-friendly, tandis que Tailwind CSS et DaisyUI faciliteront la création d'une interface utilisateur attrayante et réactive.
+J'ai choisi ce sujet spécifique pour me préparer au développement de mon TB chez IntuitSens, où je dois créer une plateforme en ligne pour l’analyse de risques et l’élaboration de plans d'urgence. L'utilisation de Next.js s'aligne avec les besoins du TB pour une application web performante et SEO-friendly, tandis que Tailwind CSS et DaisyUI faciliteront la création d'une interface utilisateur attrayante et réactive._
 
 ## État initial
 
-_Ma connaissance actuelle en Next.js et Tailwind CSS est basique, et je n'ai pas encore travaillé avec DaisyUI. Cette situation nécessite une auto-formation ciblée pour atteindre un niveau de compétence qui soutiendra le développement de mon TB._
+Ma connaissance actuelle en Next.js et Tailwind CSS est basique, et je n'ai pas encore travaillé avec DaisyUI. Cette situation nécessite une auto-formation ciblée pour atteindre un niveau de compétence qui soutiendra le développement de mon TB.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+- **Spécifique :** Développer une application de gestion financière utilisant Next.js, intégrée avec Tailwind CSS et DaisyUI.
+- **Mesurable :** L'application doit permettre la saisie, le suivi, et l'analyse des dépenses mensuelles.
+- **Atteinable :** Acquérir les compétences en Next.js, Tailwind CSS, et DaisyUI nécessaires au développement de l'application.
+- **Relevant :** Le projet soutiendra directement les objectifs de mon TB.
+- **Temporellement défini :** Compléter l'application pour le 24 février 23h59.
 
 ## Démarche
 
