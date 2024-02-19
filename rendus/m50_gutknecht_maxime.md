@@ -44,7 +44,7 @@ Révision & Rapport (5 heures) : Construction du rapport Final, révision des co
 1. Quelles sont les principales fonctionnalités de Google Search Console et comment peuvent-elles aider mon site web à améliorer son référencement et sa visibilité dans les résultats de recherche ?
 2. Quelles sont les principales fonctionnalités de Google Analytics et comment peuvent-elles aider mon site web à améliorer son analyse et sa performance en ligne ?
 3. Comment utiliser à la fois Google Analytics et Google Search Console pour optimiser le référencement de mon site web (utilisation cross plateforme) ?
-4. Quels sont les avantages et inconvénients des outils Google Analytics et Search console par rapport aux outils des concurrants.
+4. Quels sont les avantages et inconvénients des outils Google Analytics et Search console par rapport aux outils des concurrants ?
 5. En quoi l'intégration et l'utilisation conjointe de Google Analytics et Google Search Console peuvent-elles contribuer à une meilleure compréhension de la performance en ligne d'un site web et à des décisions plus éclairées en matière de marketing numérique et de référencement ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
