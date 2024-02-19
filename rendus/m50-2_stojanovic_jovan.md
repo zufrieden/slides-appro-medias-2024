@@ -24,7 +24,7 @@ _Expliquez comment vous allez valider l'atteinte des objectifs._
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 48h disponibles pour le cours ?_
+_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
 
 ## 5 questions
 
