@@ -19,17 +19,33 @@ j'utilise de temps a autres ces outils, mais de façon très basique, Sur google
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+- Développer une expertise spécifique en analyse des données avec Google analytics en suivant des cours en ligne ou des tutoriels spécialisés en un temps donné de 36h.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+- Augmenter le trafic organique de mon site web www.Griffon-Concept.ch d'environ 15% en 36h de formation
+
+- Augmenter le taux de prise de contact sur mon site web www.griffon-concept.ch durant les 36h de formation
+
+- Obtenir une certification Google analytics en 36h
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Évaluation initiale (2 heures) : Faire le point sur mes connaissances actuelles de Google Analytics et Google Search Console. Indentification de mes lacunes et les domaines où je peux m'améliorer.
+
+Formation (12 heures) : Recherche et suivi de formations en lignes sur Google Analytics et Google Search Console
+
+Pratique et exploration (11 heures) : Exploration de Google analytics, Test des connaissances acquises en réel avec les données de mon site web
+
+Approfondissement (6 heures) : Approfondissement de mes connaisances dans le sujet, lecture d'articles sur les outils de Google, analyse approfondie etc...
+
+Révision & Rapport (5 heures) : Construction du rapport Final, révision des concepts clés, réponse aux questions etc...
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les principales fonctionnalités de Google Search Console et comment peuvent-elles aider mon site web à améliorer son référencement et sa visibilité dans les résultats de recherche ?
+2. Quelles sont les principales fonctionnalités de Google Analytics et comment peuvent-elles aider mon site web à améliorer son analyse et sa performance en ligne ?
+3. Comment utiliser à la fois Google Analytics et Google Search Console pour optimiser le référencement de mon site web (utilisation cross plateforme) ?
+4. Quels sont les avantages et inconvénients des outils Google Analytics et Search console par rapport aux outils des concurrants.
+5. En quoi l'intégration et l'utilisation conjointe de Google Analytics et Google Search Console peuvent-elles contribuer à une meilleure compréhension de la performance en ligne d'un site web et à des décisions plus éclairées en matière de marketing numérique et de référencement ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
