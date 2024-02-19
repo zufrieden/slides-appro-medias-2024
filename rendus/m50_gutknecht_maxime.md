@@ -6,15 +6,16 @@
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Je souhaite approfondir mes connaissances avec les outils d'analyse de Google, Les deux outils sur lesquels je souhaite me pencher sont "Google Analytics" et "Google Search console".
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+J'ai choisi ce sujet car je crée de temps en temps des sites webs pour des clients et j'utilise ces outils, mais de façon très basiques. Je sais que ce sont des outils très complexes qui permettent des analyses très approfondies et utiles pour les sites webs. 
+La connaissance approfondie de ces outils me sera très utile pour mon TB, car je vais faire mon TB sur le développement d'une stratégie digitale afin d'augmenter les ventes d'un site e-commerce pour une brasserie de bière. Ces outils me seront utiles afin d'analyser en premier lieu quels sont les problèmes liés a ce e-commerce et ensuite de pouvoir définir des solutions a appliquer et par la suite de pouvoir mesurer les résultats obtenus. je souhaite donc pour cela devenir un expert de Google analytics et search console.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+j'utilise de temps a autres ces outils, mais de façon très basique, Sur google analytics je regarde uniquement le nombre de trafic, le type d'appareil et d'ou il provient et sur la Search console je regarde uniquement ou en est l'état d'indexation de mes pages. Je ne connais encore pas grand chose de ces outils. Je vais donc rechercher des formations en ligne sur ces outils que je pourrais suivre afin de développer mes connaissances sur ces derniers. Je suis très motivé a en apprendre plus sur ces outils afin d'ajouter ces compétences à mon bagage.
 
 ## Objectifs
 
