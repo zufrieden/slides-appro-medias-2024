@@ -2,7 +2,7 @@
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est ... ux/ui gg
 
 **_Décrire le sujet_**
 
