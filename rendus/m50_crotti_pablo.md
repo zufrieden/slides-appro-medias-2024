@@ -4,9 +4,7 @@
 
 ## Mon sujet d'étude est l'utilisation de Next.js, Tailwind CSS, et DaisyUI pour développer une application de gestion financière.
 
-**_Décrire le sujet_**
-
-Le sujet de mon auto-formation est le développement d'une application de gestion financière personnelle utilisant le framework Next.js, enrichi par l'intégration de Tailwind CSS pour le stylisme et DaisyUI pour les composants UI. Cette application vise à fournir une solution simple mais puissante pour le suivi des dépenses mensuelles, permettant aux utilisateurs de saisir, catégoriser, et analyser leurs dépenses pour mieux gérer leurs finances.
+**Le sujet de mon auto-formation est le développement d'une application de gestion financière personnelle utilisant le framework Next.js, enrichi par l'intégration de Tailwind CSS pour le stylisme et DaisyUI pour les composants UI. Cette application vise à fournir une solution simple mais puissante pour le suivi des dépenses mensuelles, permettant aux utilisateurs de saisir, catégoriser, et analyser leurs dépenses pour mieux gérer leurs finances.**
 
 ### Contexte
 
