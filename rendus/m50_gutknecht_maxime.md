@@ -21,7 +21,7 @@ j'utilise de temps a autres ces outils, mais de façon très basique, Sur google
 
 - Développer une expertise spécifique en analyse des données avec Google analytics en suivant des cours en ligne ou des tutoriels spécialisés en un temps donné de 36h.
 
-- Augmenter le trafic organique de mon site web www.Griffon-Concept.ch d'environ 15% en 36h de formation
+- Augmenter le trafic organique de mon site web www.griffon-concept.ch d'environ 15% en 36h de formation
 
 - Augmenter le taux de prise de contact sur mon site web www.griffon-concept.ch durant les 36h de formation
 
