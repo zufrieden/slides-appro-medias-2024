@@ -6,11 +6,11 @@
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Le sujet de mon auto-formation est le développement d'une application de gestion financière personnelle utilisant le framework Next.js, enrichi par l'intégration de Tailwind CSS pour le stylisme et DaisyUI pour les composants UI. Cette application vise à fournir une solution simple mais puissante pour le suivi des dépenses mensuelles, permettant aux utilisateurs de saisir, catégoriser, et analyser leurs dépenses pour mieux gérer leurs finances.
 
 ### Contexte
 
-J'ai choisi ce sujet spécifique pour me préparer au développement de mon TB chez IntuitSens, où je dois créer une plateforme en ligne pour l’analyse de risques et l’élaboration de plans d'urgence. L'utilisation de Next.js s'aligne avec les besoins du TB pour une application web performante et SEO-friendly, tandis que Tailwind CSS et DaisyUI faciliteront la création d'une interface utilisateur attrayante et réactive._
+J'ai choisi ce sujet spécifique pour me préparer au développement de mon TB chez IntuitSens, où je dois créer une plateforme en ligne pour l’analyse de risques et l’élaboration de plans d'urgence. L'utilisation de Next.js s'aligne avec les besoins du TB pour une application web performante et SEO-friendly, tandis que Tailwind CSS et DaisyUI faciliteront la création d'une interface utilisateur attrayante et réactive.
 
 ## État initial
 
@@ -26,11 +26,17 @@ Ma connaissance actuelle en Next.js et Tailwind CSS est basique, et je n'ai pas 
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- **Semaine 1 :** Recherche et apprentissage de Next.js (12h)
+- **Semaine 2 :** Pratique de Tailwind CSS et exploration de DaisyUI (12h)
+- **Semaine 3 :** Développement de l'application de gestion financière (12h)
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Comment configurer un projet Next.js pour utiliser Tailwind CSS et DaisyUI ?
+2. Quelles sont les pratiques recommandées pour la gestion de l'état dans une application Next.js ?
+3. Comment créer des composants réactifs avec Tailwind CSS et DaisyUI dans Next.js ?
+4. Quelles stratégies adopter pour optimiser les performances d'une application Next.js ?
+5. Comment implémenter l'authentification et la protection des routes dans Next.js ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
