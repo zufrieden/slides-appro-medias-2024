@@ -14,7 +14,7 @@ J'ai choisi ce sujet car il me permettra de maîtriser un outil que je considèr
 
 ## État initial
 
-Actuellement, je n'ai aucune connaissance ni expérience pratique avec l'outil Buffer et l'intelligence artificielle générative dans le contexte d'une stratégie de communication digitale. Mon manque d'expérience oriente mes objectifs vers l'acquisition de compétences de base, impliquant une exploration des fonctionnalités de cet outil.
+Actuellement, je n'ai aucune connaissance ni expérience pratique avec l'outil "Buffer" et l'intelligence artificielle générative dans le contexte d'une stratégie de communication digitale. Mon manque d'expérience oriente mes objectifs vers l'acquisition de compétences de base, impliquant une exploration des fonctionnalités de cet outil.
 
 ## Objectifs
 
