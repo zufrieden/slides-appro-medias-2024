@@ -1,4 +1,4 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-1/2 Aubert Sophie - Exploration et prise en main de l'outil Planable
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
