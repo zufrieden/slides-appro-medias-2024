@@ -1,34 +1,42 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-2 Mendes Gonçalves Daniel - Application mobile en marque blanche
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Le sujet que j'aimerais approfondir est le développement d'application mobile en marque blanche, c'est-à-dire de pouvoir reprendre une application neutre et de pouvoir la personnaliser et rebrander selon les différentes marques de l'entreprise.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+Pour mon travail de Bachelor, je vais devoir créer deux applications mobiles qui ont la même structure, mais des données et couleurs d'interfaces différentes.
+Afin, de ne pas perdre de temps à mettre en place ces différentes fonctionnalités pendant mon travail de Bachelor.
+J'aimerais mettre en place un boilerplate qui me permettra par la suite de pouvoir directement travailler sur des fonctionnalités métiers.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+J'ai déjà créé une application mobile simple avec [React Native](https://reactnative.dev/) et [React Native Paper](https://reactnativepaper.com/) (une librairie UI Material Design), mais jamais d'application avec une structure modulaire et customisable. Je vais donc devoir me pencher sur des concepts techniques avancés.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs._
-
+- Le boilerplate permet de customiser le thème des composants UI de base.
+- Le boilerplate permet de builder automatiquement 2 applications différentes avec un logo et un nom différent.
+- La structure de dossier permet la séparation du code commun, le code de l'application A et de l'application B.
+- Chaque partie du template contient une documentation technique.
+  
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- Les premières 4 heures vont être consacrées à trouver des sources d'informations qui répondent à mon problème, que ce soit des articles de blog, des tutoriels Youtube, des exemples de repos GitHub, etc.
+- Ensuite, 4 heures pour me faire un modèle/schéma sur la meilleure approche à prendre (peut-être une combinaison des différentes solutions trouvées). 
+- 24 heures seront allouées pour mettre en place la solution technique.
+- Les 4 dernières heures seront utilisées pour documenter le template.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Comment garantir que les composants UI dans le boilerplate sont réellement réutilisables et peuvent être facilement personnalisés pour s'adapter aux besoins de différentes marques ?
+2. Quelles sont les étapes nécessaires pour configurer le boilerplate afin qu'il puisse générer automatiquement deux applications distinctes avec des thèmes, des logos et des noms de marque différents ?
+3. Comment organiser la structure de dossier du boilerplate pour assurer une séparation claire entre le code commun et les spécificités de chaque application ?
+4. Quels éléments inclure dans la documentation technique du boilerplate pour m'assurer qu'elle est complète et utile pour les développeurs qui utiliseront ce boilerplate à l'avenir ?
+5. Comment gérer et différencier les appels à la base de données entre les deux applications mobiles ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
