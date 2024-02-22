@@ -30,11 +30,11 @@ _Attention à formuler des objectifs SMART._
 
 _Expliquez comment vous allez valider l'atteinte des objectifs._
 
-Spécifique : Identifier et évaluer les meilleurs outils d’IA spécifiques pour le développement de stratégies de communication
-Mesurable : Evaluer la pertinence et l’efficacité de 10 outils d’IA liés aux stratégies de communication, en se basant sur des critères définis, comme la facilité d’utilisation, les fonctionnalités et les résultats obtenus.
-Atteignable : Utiliser des ressources en ligne, des publications académiques et des témoignages d’experts pour recueillir des informations sur les divers outils disponibles.
-Réaliste : En se basant sur un nombre restreint d’outils, je pourrais mener une analyse assez approfondie sur les performances et les fonctionnalités des outils.
-Temporellement défini : Terminer la phase de découverte, d'analyse et de sélection des meilleurs outils dans les 36h mises à disposition pour le cours.
+Spécifique : Identifier et évaluer les meilleurs outils d’IA spécifiques pour le développement de stratégies de communication <br/>
+Mesurable : Evaluer la pertinence et l’efficacité de 10 outils d’IA liés aux stratégies de communication, en se basant sur des critères définis, comme la facilité d’utilisation, les fonctionnalités et les résultats obtenus. <br/>
+Atteignable : Utiliser des ressources en ligne, des publications académiques et des témoignages d’experts pour recueillir des informations sur les divers outils disponibles. <br/>
+Réaliste : En se basant sur un nombre restreint d’outils, je pourrais mener une analyse assez approfondie sur les performances et les fonctionnalités des outils. <br/>
+Temporellement défini : Terminer la phase de découverte, d'analyse et de sélection des meilleurs outils dans les 36h mises à disposition pour le cours.<br/>
 Je vais valider l’atteinte de mes objectifs en respectant le temps mis à disposition, en étant méthodique et en trouvant une façon de rechercher, d’analyser et évaluer les outils d’IA. Mes objectifs seront validés si j’aurais réussi à sélectionner les meilleurs outils d’IA pour les stratégies de communication.
 
 
@@ -48,10 +48,10 @@ Les étapes sont tout d’abord une phase de renseignement et de recherche, qui 
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-Comment être efficace dans ses recherches d’outils IA ?
-Quelle marche-à-suivre adopter pour tester et évaluer tous les outils de la même manière ?
-A l’aide de quels critères choisissez-vous un outil plutôt qu’un autre ?
-Comment utiliser les outils sélectionnés ?
+Comment être efficace dans ses recherches d’outils IA ? <br/>
+Quelle marche-à-suivre adopter pour tester et évaluer tous les outils de la même manière ? <br/>
+A l’aide de quels critères choisissez-vous un outil plutôt qu’un autre ? <br/>
+Comment utiliser les outils sélectionnés ? <br/>
 Quels sont les outils d’IA qui sont les plus adaptés pour une stratégie de communication ?
 
 
