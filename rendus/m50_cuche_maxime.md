@@ -29,7 +29,7 @@ En résumé, mon niveau actuel de connaissances et de pratique nécessite une d�
 
 _Attention à formuler des objectifs SMART._
 
-Objectif spécifique: Acquérir une compréhension approfondie des technologies de biométrie veineuse et des principes de conception d'interfaces utilisateur dans ce domaine.
+Objectif spécifique: Acquérir une compréhension approfondie des technologies de biométrie et des principes de conception d'interfaces utilisateur dans ce domaine.
 
 Mesurable: Visionner au moins 5 vidéos spécialisées sur la biométrie et l'UX, lire 8 articles en ligne pertinents et réaliser 5 tutoriels pratiques pour développer des compétences techniques.
 
@@ -37,7 +37,7 @@ Atteignable: Allouer au moins 5 heures par semaine à l'étude et à la pratique
 
 Réaliste: Établir un plan d'étude détaillé, en identifiant les ressources disponibles et en fixant des objectifs réalistes pour chaque semaine.
 
-Temporellement défini: Atteindre un niveau de compréhension satisfaisant dans les trois mois suivants, en évaluant régulièrement mes progrès.
+Temporellement défini: Atteindre un niveau de compréhension satisfaisant dans les 2 mois suivants, en évaluant régulièrement mes progrès.
 
 _Expliquez comment vous allez valider l'atteinte des objectifs._
 
@@ -45,8 +45,7 @@ _Expliquez comment vous allez valider l'atteinte des objectifs._
 
 Application pratique: Créer des prototypes d'interfaces utilisateur pour la plateforme de gestion de scanners biométriques et les présenter à ma mentor pour obtenir des retours sur la qualité de mon travail.
 
-Feedback de la mentor: Solliciter des retours de ma mentor sur mes compétences et mes progrès, en lui demandant de m'évaluer sur ce que j'ai déjà réalisé et en lui fournissant des exemples concrets de mes travaux.
-
+Feedback de ma mentor: Solliciter des retours de ma mentor sur mes compétences et mes progrès, en lui demandant de m'évaluer sur ce que j'ai déjà réalisé et en lui fournissant des exemples concrets de mes travaux.
 
 ## Démarche
 
@@ -60,14 +59,15 @@ _Quelles étapes et comment allez-vous répartir l'investissement des 36h dispon
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-Quels sont les principaux principes de conception d'interfaces utilisateur dans le domaine de la biométrie veineuse?
+Quels sont les principaux principes de conception d'interfaces utilisateur dans le domaine de la biométrie ?
 
 Comment les technologies de biométrie veineuse diffèrent-elles des autres méthodes d'authentification biométrique telles que la reconnaissance faciale ou l'empreinte digitale?
+
 Quelles sont les meilleures pratiques pour optimiser l'expérience utilisateur dans le développement d'une plateforme de gestion de scanners biométriques?
 
 Quels sont les défis spécifiques à prendre en compte lors de la conception d'une interface utilisateur pour une technologie biométrique?
 
-Comment évalueriez-vous l'efficacité d'une interface utilisateur dans un contexte de biométrie veineuse, et quelles seraient vos recommandations pour l'améliorer
+Comment évalueriez-vous l'efficacité d'une interface utilisateur dans un contexte de biométrie veineuse, et quelles seraient vos recommandations pour l'améliorer?
 
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
