@@ -24,7 +24,6 @@ Pour l’instant mes connaissances dans le sujet sont limitées et je n'ai pas d
 
 En résumé, mon niveau actuel de connaissances et de pratique nécessite une démarche d'auto-formation axée sur l'apprentissage approfondi des concepts, la recherche de bonnes pratiques et l'expérience pratique pour atteindre mes objectifs dans ce domaine.
 
-
 ## Objectifs
 
 _Attention à formuler des objectifs SMART._
@@ -37,7 +36,7 @@ Atteignable: Allouer au moins 5 heures par semaine à l'étude et à la pratique
 
 Réaliste: Établir un plan d'étude détaillé, en identifiant les ressources disponibles et en fixant des objectifs réalistes pour chaque semaine.
 
-Temporellement défini: Atteindre un niveau de compréhension satisfaisant dans les 2 mois suivants, en évaluant régulièrement mes progrès.
+Temporellement défini: Atteindre un niveau de compréhension satisfaisant dans le mois suivant, en évaluant régulièrement mes progrès.
 
 _Expliquez comment vous allez valider l'atteinte des objectifs._
 
@@ -50,9 +49,13 @@ Feedback de ma mentor: Solliciter des retours de ma mentor sur mes compétences 
 ## Démarche
 
 _Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+
 Étape 1 : Planification et Organisation (4 heures)
+
 Étape 2 : Acquisition des Connaissances (20 heures)
+
 Étape 3 : Application Pratique (8 heures)
+
 Étape 4 : Évaluation et Réflexion (4 heures)
 
 ## 5 questions
