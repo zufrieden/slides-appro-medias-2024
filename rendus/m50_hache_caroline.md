@@ -42,7 +42,7 @@ A ce jour, le concept de User Flow a été évoqué en 2e année lors du cours d
 2. En quoi un User Flow est-il important ?
 3. Puis-je expliquer synthétiquement les règles d'un User Flow ?
 4. Quelles sont les étapes pour créer User Flow efficace ?
-5. Quels sont les outils informatiques pour créer des User Flow
+5. Quels sont les outils informatiques pour créer des User Flow ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
