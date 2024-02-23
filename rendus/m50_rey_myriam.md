@@ -1,6 +1,6 @@
 # ApproMedia
 
-# M50-1/2 MYRIAM REY - BRANDING
+# M50-2 MYRIAM REY - BRANDING
 
 # 
 
