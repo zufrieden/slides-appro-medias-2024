@@ -14,7 +14,9 @@ _Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante
 
 _Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
 
-La biométrie est un domaine qui m'est encore assez flou et je pense que d'effectuer une pré-analyse sur la conception d'interfaces dans ce domaine pourrait grandement m'aider. Mon TB portera sur l'interface et l'expérience utilisateur d'une plateforme de gestion de scanners. Cette démarche me permettra de mieux appréhender les exigences spécifiques de l'UX dans le contexte de la biométrie, ce qui facilitera la conception d'une interface utilisateur optimale pour mon travail de Bachelor.
+La biométrie est un domaine qui m'est encore assez flou et je pense que d'effectuer une pré-analyse sur la conception d'interfaces dans ce domaine pourrait grandement m'aider. Mon TB portera sur l'interface et l'expérience utilisateur d'une plateforme de gestion de scanners. 
+
+Cette démarche me permettra de mieux appréhender les exigences spécifiques de l'UX dans le contexte de la biométrie, ce qui facilitera la conception d'une interface utilisateur optimale pour mon travail de Bachelor.
 
 ## État initial
 
