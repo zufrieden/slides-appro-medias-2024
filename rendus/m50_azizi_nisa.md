@@ -1,4 +1,4 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-2 AZIZI NISA - WORDPRESS & PLUGINS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
@@ -8,7 +8,7 @@ Utilisation de WordPress et des plugins disponibles pour l'optimisation d'un sit
 
 ### Contexte
 
-J'ai choisi ce sujet car il est directement lié à mon Travail de Bachelor, qui porte sur l'amélioration des performances d'un site e-commerce. Ce sujet offre l'avantage de me familiariser avec les outils essentiels pour optimiser un site web, ce qui sera bénéfique pour la réalisation de mon TB.
+J'ai choisi ce sujet car il est directement lié à mon Travail de Bachelor, qui porte sur l'amélioration des performances d'un site e-commerce. Ce sujet offre l'avantage de me familiariser avec les outils essentiels pour optimiser un site web, ce qui sera bénéfique pour la réalisation de mon TB. 
 
 ## État initial
 
