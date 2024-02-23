@@ -1,34 +1,44 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
-
+# M50-2 Delgado Miranda Ricardo - Les interactions sur Figma
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Les interacitions sur des maquettes Figma high-fidelity.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+Le rendu principal de mon Travail de Bachelor étant une maquette high fidelity de site web, maîtriser cet outil me permettra d'être beaucoup plus efficace et de concentrer mes efforts sur l'UI et non pas sur l'apprentissage de Figma. J'ai choisi plus précisément les interacitons car c'est une composante qu'on a peu exploré en cours et avec laquelle je ne suis pas du tout à l'aise, voire que je ne connais pas.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Malgré quelques heures d'utilisation du logiciel, je n'ai pas ou peu exploré cet aspect des maquettes. Mes connaissances sont donc proches du zéro. 
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+Objectif 1 : Maîtriser au minimum 5 interactions sur Figma avant le rendu final.
+Validation : Effectuer les 5 interactions sans aide extérieure.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+Objectif 2 : Connaître les interactions courantes et les contextes d'utilisation de ces dernières dès la première semaine.
+Validation : Nommer ces interactions et être capable de citer leurs utilisations
+
+Objectif 3 : Être capable d'intégrer ces interactions à une maquette high-fidelity à un stade avancé.
+Validation : Reprendre une des maquettes crées en cours et y intégrer les interactions nécessaires
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Semaine 1 (8h) : Lire la documentation, lire des articles et regarder des tutos en ligne pour approfondir mes connaissances sur le sujet.
+
+Semaine 2-3 (16h) : Prise en main de l'outil et pratique des interactions les plus utilisées et courantes.
+
+Semaine 4 (8h) : Approfondissement sur des interactions plus spécifiques à certains contextes et moins courantes.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Comment créer une transition d'écran fluide entre deux artboards dans Figma ?
+2. Suis-je capable d'expliquer la différence entre les interactions de survol et les interactions de clic dans Figma et de savoir quand les utiliser ?
+3. Quels sont les principaux avantages de l'utilisation des composants interactifs dans la conception sur Figma ?
+4. Comment puis-je simuler le défilement vertical ou horizontal d'une page dans un prototype Figma ?
+5. Puis-je décrire le processus pour créer une animation de chargement personnalisée pour une application mobile dans Figma, en utilisant des composants réutilisables ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
