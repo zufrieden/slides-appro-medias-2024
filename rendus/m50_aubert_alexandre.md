@@ -1,20 +1,18 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-1/2 AUBERT ALEXANDRE - BENCHMARKETING
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
+## Maîtrise du Benchmarketing
 
-## Mon sujet d'étude est ...
+### Description 
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+L'objectif principal sera d'explorer les différentes facettes du benchmarketing, de comprendre comment collecter et analyser des données pertinentes pour évaluer les performances du marché, les pratiques concurrentielles, et les tendances émergentes. 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+J'ai choisi ce sujet, car depuis le premier semestre du Bachelor, nous avons pris conscience de l'importance d'un benchmarketing lors de l'analyse de l'état actuel d'un marché. Cependant, nous n'avons jamais approfondi ce sujet ni même concrètement exploré à quoi pourrait ressembler un benchmarketing complet. Étant donné que mon Travail de Bachelor consistera en la réalisation d'une stratégie en marketing digital pour un ski & bike shop à Leysin, il me semble crucial, lors de la pré-étude du TB, de réaliser un benchmarketing pertinent et complet. Cela permettra de comprendre le marché de l'entreprise, d'offrir au client une vision précise des pratiques en vigueur et de générer des idées à intégrer dans notre stratégie finale.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+À vrai dire, je n'ai actuellement que très peu de connaissances sur le sujet, mis à part la définition de ce qu'est le benchmarketing et son utilité dans un projet tel que mon Travail de Bachelor. Cependant, il s'agit d'un sujet très bien documenté, et je n'ai aucun doute quant à la validation de mes objectifs ainsi qu'au respect de la démarche prévue. 
 
 ## Objectifs
 
@@ -30,24 +28,4 @@ _Quelles étapes et comment allez-vous répartir l'investissement des 36h dispon
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-# RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
-## Retour sur l'état initial
-
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
-
-## Réponses aux 5 questions
-
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
-
-## Investissement
-
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
-
-## Réflexion sur la méthode d'auto-formation
-
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
-
-## Conclusion
-
-_Quelles leçons avez-vous apprises et pourquoi ?_
