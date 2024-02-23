@@ -24,19 +24,19 @@ Actuellement, je possède des connaissances de base en WordPress, ayant déjà c
        
 ## Démarche
 
-**Recherche des plugins (6 heures)** : Effectuer une recherche approfondie en ligne pour trouver au moins 5 plugins WordPress populaires pour l'e-commerce.
+**Recherche des plugins (8 heures)** : Effectuer une recherche approfondie en ligne pour trouver au moins 5 plugins WordPress populaires pour l'e-commerce.
 
-**Analyse des fonctionnalités (4 heures)** : Examiner les fonctionnalités principales de chaque plugin : gestion des produits, paiements, expédition, etc.
+**Analyse des fonctionnalités (8 heures)** : Examiner les fonctionnalités principales de chaque plugin : gestion des produits, paiements, expédition, etc.
 
 **Évaluation des avis et retours (4 heures)** : Lire les avis et retours d'utilisateurs sur des plateformes telles que WordPress.org, forums de développeurs, et blogs spécialisés.
 
 **Étude de la compatibilité (3 heures)** : Vérifier la compatibilité des plugins avec les versions actuelles de WordPress et avec les principaux thèmes e-commerce.
 
-**Comparaison des performances (3 heures)** : Rechercher des articles ou études comparatives sur les performances de chaque plugin en termes de vitesse de chargement et d'optimisation SEO.
+**Comparaison des performances (4 heures)** : Rechercher des articles ou études comparatives sur les performances de chaque plugin en termes de vitesse de chargement et d'optimisation SEO.
 
-**Sélection des meilleurs plugins (2 heures)** : Basé sur les informations recueillies, choisir les 2 ou 3 plugins qui semblent les plus adaptés aux besoins d'un site web e-commerce.
+**Sélection des meilleurs plugins (4 heures)** : Basé sur les informations recueillies, choisir les plugins qui semblent les plus adaptés aux besoins d'un site web e-commerce.
 
-**Documentation des résultats (4 heures)** : Créer un tableau récapitulatif des fonctionnalités, avis, compatibilité et performances de chaque plugin sélectionné.
+**Documentation des résultats (5 heures)** : Créer un tableau récapitulatif des fonctionnalités, avis, compatibilité et performances de chaque plugin sélectionné.
 
 ## 5 questions
 
