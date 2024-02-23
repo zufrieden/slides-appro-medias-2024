@@ -4,7 +4,7 @@
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
+**Élaboration d'une stratégie de communication**
 
 _Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
 
