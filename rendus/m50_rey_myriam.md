@@ -1,6 +1,6 @@
 # ApproMedia
 
-# M50-1/2 MYRIAM REY - SUJET_ETUDE
+# M50-1/2 MYRIAM REY - BRANDING
 
 # 
 
