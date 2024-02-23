@@ -23,8 +23,21 @@ Quelles implications pour vos objectifs et démarches pour cette auto-formation 
 2. Être capable d'établir un User Flow : Élaborer un User Flow intégral pour un projet, qu'il soit réel ou fictif, en appliquant les principes étudiés et le soumettre à l'évaluation de deux experts en User Flows pour obtenir une note moyenne d'au moins 5/6, le tout après avoir acquis les connaissances nécessaires et avant le 22 mars 2024.
 
 ## Démarche
+### Objectif 1 : Connaître les règles d'un User Flow (15 heures)
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- **Recherche et étude (10 heures)** : 2 heures par source pour étudier les principes de création des User Flows à partir de 5 sources variées.
+
+- **Élaboration de la fiche récapitulative (4 heures)** : Synthétiser les informations en une fiche récapitulative claire et concise.
+
+- **Révision et ajustements (1 heure)** : Finaliser la fiche récapitulative en intégrant les ajustements nécessaires.
+
+### Objectif 2 : Être capable d'établir un User Flow (21 heures)
+
+- **Application des principes et création (12 heures)** : Utiliser les connaissances acquises et la CheatSheet pour concevoir les User Flows pour le projet spécifique choisi.
+
+- **Peaufinage et révision (5 heures)** : Affiner les User Flow créé, en améliorant la logique et la fluidité du parcours utilisateur.
+
+- **Préparation pour l'évaluation et intégration des feedbacks (4 heures)** : Préparer le support pour faire tester les User Flow, discussion des points de frictions avec les testeurs·euses et intégrer les feedbacks pour améliorer le User Flow.
 
 ## 5 questions
 
