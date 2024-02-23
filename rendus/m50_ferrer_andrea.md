@@ -1,34 +1,51 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-1/2 Ferrer Andrea - SUJET_ETUDE
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
-
+Les spécificités de l’UX pour l'e-commerce.
+ 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+J'ai décidé de me tourner vers ce sujet car c'est une des directions que je vais devoir prendre lors de mon TB, en plus du marketing et de le communication. L'entreprise pour laquelle je vais réaliser ce travail peine à vendre ses produits sur sa nouvelle plateforme e-commerce. L'aspect technique de ce travail se situera donc dans l'UX.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Aujourd'hui, le niveau de connaissances est au niveau de ce que nous avons pu voir lors de nos différents cours liés à l'UX. Ce domaine m'intéréssant plus que les autres, il m'arrive également de regarder des vidéos ou articles qui y sont liés. Cependant, je n'ai pas de connaissances spéciifiques pour les règles d'UX liées au e-commerce.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+Acquérir une compréhension approfondie des spécificités de l'UX pour l'e-commerce d'ici un mois, en consacrant 36 périodes de cours, afin de pouvoir appliquer efficacement ces connaissances lors de mon Travail de Bachelor.
 
 ## Démarche
 
 _Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
 
+### Les étapes:
+- Fixer un objectif (1h)
+- Recherchez des ressources pédagogiques (4h):
+  - Articles
+  - Vidéos
+  - Cours en ligne
+- Trier les ressources (2h)
+- Lire ou voir les ressources (10h)
+- Pratiquer sur un projet fictif ou personnel (16h)
+- Etablir une veille (1h)
+- Rapport final (2h)
+
+
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Expliquez en quoi consiste l'optimisation de l'UX dans le contexte de l'e-commerce et donnez les 3 principes les plus importants à respecter dans ce contexte.
+
+2. Quels sont les principaux facteurs à prendre en compte lors de la conception d'une interface utilisateur pour un site e-commerce afin d'assurer une navigation intuitive et une expérience utilisateur agréable ?
+
+3. Quels sont les points à absolument éviter lors de la conception d'une interface pour un site e-commerce ?
+
+4. Donnez 3 types de tests réalisables en UX pour un site e-commerce.
+
+5. Quelles sont les meilleures pratiques pour concevoir un processus de paiement agréable pour l'utilisateur sur un site de commerce électronique ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
