@@ -6,7 +6,7 @@
 
 ### Contexte
 
-'ai choisi ce sujet car il est directement lié à mon Travail de Bachelor, qui porte sur la conception d'un site d'e-commerce pour une entreprise locale de cosmétique. En explorant l'utilisation de Wix comme CMS, je cherche à comprendre ses avantages et ses limitations pour mon projet de TB. Cela me permettra d'acquérir des compétences techniques pertinentes et directement applicables.
+J'ai choisi ce sujet car il est directement lié à mon Travail de Bachelor, qui porte sur la conception d'un site d'e-commerce pour une entreprise locale de cosmétique. En explorant l'utilisation de Wix comme CMS, je cherche à comprendre ses avantages et ses limitations pour mon projet de TB. Cela me permettra d'acquérir des compétences techniques pertinentes et directement applicables.
 
 ## État initial
 
