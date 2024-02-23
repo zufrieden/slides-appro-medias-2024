@@ -87,6 +87,8 @@ En ce qui concerne le graphisme, la démarche sera similaire. Dans le cas ou je 
 
 J’aimerais également trouver un ou deux cas pratique ou exercice qui me permette d’expérimenter et ainsi valider les éléments précédemment appris. 
 
+Le temps à invstir sera réparti avec plus de précision une fois les deux étapes de recherche effectué. Je pourrai en effet mieux estimer le temps d'apprentissage nécessaire pour chaque ressources, et établir un programme d'étude plus détaillé. Dans tous les cas, je pense consacrer initialement entre 2 et 3 heures à la recherche de ressources, cours et tutoriels pour les deux axes de mon projet d'étude.
+
 ## 
 
 ## 5 questions
