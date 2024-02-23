@@ -4,23 +4,23 @@
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+le concept de "User Flow" dans le cadre d'une réalisation d’un prototype d’interface graphique d’une application mobile visant aux utilisateur·trice·x à formuler des feedbacks constructifs à l’aide d’outils informatiques.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+Tout d'abord, j'ai choisi ce sujet, car  il me permet de visualiser tous les chemins possibles que peut prendre un·e utilisateur·rice, et donc d'identifier les pages et les actions associé aux parcours. De plus, la création de User Flow permet de détecter des problèmes avant même les premières lignes de codes et également de créer des parcours logique, rapide et fluide. Finalement, travaillant avec diverses personnes de contextes différents (HEIG-VD, HEIA-FR, Entreprise mandante), le User Flow permet d'aligner tout le monde sur la même vision du projet et de le valider ensemble.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+A ce jour, le concept de User Flow à été évoqué en 2e année lors du cours de concept UI. Je ne connais pas réellement les règles et les niveaux de détails existants d'un User Flow. De plus, n'ayant pas pratiqué cet outils, il m'est difficile de réaliser l'utilité concrète et les impacts que peut avoir un bon / mauvais user Flow lors de la phase de conception d'un projet.
+
+Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+1. Connaître les règles d'un User Flow : Se familiariser avec les principes de création des User Flows par l'étude de 5 sources variées et l'élaboration d'une fiche récapitulative qui sera jugée utile par au moins deux tiers des évaluateurs, à compléter avant le 4 mars 2024.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+2. Être capable d'établir un User Flow : Élaborer un User Flow intégral pour un projet, qu'il soit réel ou fictif, en appliquant les principes étudiés et le soumettre à l'évaluation de deux experts en User Flows pour obtenir une note moyenne d'au moins 5/6, le tout après avoir acquis les connaissances nécessaires et avant le 22 mars 2024.
 
 ## Démarche
 
