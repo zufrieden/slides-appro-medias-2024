@@ -2,7 +2,7 @@
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
-## Mon sujet d'étude est l'utilisation de Wix comme CMS pour la création et la gestion d'un site d'e-commerce.
+## disclaimer : (mon sujet de TB n'est pas encore validé à 100%, mais en bonne voie, il y a tout de même un petit risque que je ne travail pas sur ce sujet.) Mon sujet d'étude est l'utilisation de Wix comme CMS pour la création et la gestion d'un site d'e-commerce.
 
 ### Contexte
 
