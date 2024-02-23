@@ -47,6 +47,16 @@ Pour atteindre mes objectifs, il faut que je passe au minimum deux heures par se
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
+1. Quels sont les différents types de données de base en Python et comment les définis-tu ?
+
+2. Comment fonctionnent les structures de contrôle de flux (if-else, boucles) en Python ? 
+
+3. Quelle est la différence entre une méthode et une fonction en Python ? Donne des exemples pour illustrer cette différence.
+
+4. Qu'est-ce qu'une bibliothèque en Python et comment l'importer dans un script ? Donne des exemples de bibliothèques couramment utilisées et leurs utilisations.
+
+5. Comment s'utilise les gestionnaires de contexte (context managers) en Python ? Donne un exemple d'utilisation d'un gestionnaire de contexte intégré et explique son utilité.
+
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
 ## Retour sur l'état initial
