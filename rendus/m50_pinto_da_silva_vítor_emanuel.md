@@ -1,34 +1,44 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-1/2 Pinto Da Silva Vitor Emanuel - Analyse des outils no-code d'un point de vue UX
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
+## ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
-## Mon sujet d'étude est ...
+### Mon sujet d'étude est l'étude des outils no-code d'un point de vue UX
 
-**_Décrire le sujet_**
+Approfondissement de mes connaissances des outils no-code et de la possibilité de développer ou non des environnements qui sont user-friendly.
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+#### Contexte
 
-### Contexte
+Pour le moment, je ne possède pas concrètement un Travail de Bachelor. Cependant, les entreprises susceptibles de m'accueillir utilisent toutes les deux des outils comme Shopify ou encore WordPress. Voulant ajouter une composante UX lors de mon TB, j'aimerais pouvoir décortiquer les possibilités que ces outils proposent afin d'être le plus pertinent possible quant à mes éventuelles solutions proposées. Il m'a d'ailleurs été proposé par mon enseignant répondant d'effectuer une étude de la sorte.
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+### État initial
 
-## État initial
+Pour le moment, je n'ai eu affaire à WordPress que lors de notre cours de Marketing en première et en deuxième année. Cependant, mes connaissances sont maigres et la composante UX n'était pas mise en avant. Me considérant alors comme "inculte" sur le sujet, j'aimerais élargir mes connaissances afin de pouvoir avoir un avis critique concernant ces outils qui, à mon sens, sont de plus en plus démocratisés.
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+### Objectifs
 
-## Objectifs
+**Objectifs SMART :** Réussir, au bout de 36 heures, à fournir une analyse critique des outils no-code d'un point de vue d'un UX designer.
 
-_Attention à formuler des objectifs SMART._
+Je compte réaliser un rapport qui liste les différents outils no-code, leurs avantages, désavantages, et qui explique dans quels cas il serait judicieux de les adopter. J'aimerais par ailleurs pouvoir le faire lire à des collègues afin d'obtenir leur avis critique sur un tel rapport.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+### Démarche
 
-## Démarche
+1. Chercher quels sont les outils no-code les plus populaires actuellement.
+2. Faire une liste des avantages et désavantages pour chacun de ces outils.
+3. Mettre en place un système de veille concernant l'UX et les outils no-code.
+4. Rédiger un rapport concernant mon expérience autour de ces outils.
+5. Faire lire mon rapport à des collègues IM.
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+### 5 questions
 
-## 5 questions
+1. Quels sont les critères UX à considérer lors du choix d'une plateforme no-code et comment peuvent-ils influencer ce choix ?
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+2. Quelles sont les différences majeures en termes de flexibilité UX et de personnalisation entre ces outils ? Lequel serait le plus approprié pour un projet e-commerce souhaitant fournir une expérience utilisateur unique ?
+
+3. Comment est-ce que ces outils facilitent ou limitent le processus d'itération basé sur les retours des utilisateurs ?
+
+4. Quelles innovations apportent les outils no-code au design d'un site web ou d'une boutique en ligne ?
+
+5. Quels outils d'analyse peuvent être mis en place afin de récolter des données à analyser dans l'objectif d'améliorer l'expérience utilisateur ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
