@@ -18,9 +18,14 @@ Actuellement, j’ai des connaissances très basiques en analyse de l’UX que j
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+_Objectif 1 :_ 
+Acquérir une compréhension approfondie des principes et des méthodes d’analyse de l’expérience utilisateur appliquées spécifiquement aux site web, en utilisant des ressources en lignes et des études de cas.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+_Objectif 2 :_
+Consacrer les 36 heures allouées à ce projet pour approfondire mes connaissances sur le sujet que j’ai choisi, en réalisant un calendrier et une liste des concepts à explorer et à expérimenter. 
+
+_Objectif 3 :_
+Développer des compétences avancées dans l’utilisation d’outils d’analyse de l’expérience utilisateur pour évaluer la performance d’un site web, afin de pouvoir appliquer ces compétences de manière efficace dans mon travail de bachelor.
 
 ## Démarche
 
