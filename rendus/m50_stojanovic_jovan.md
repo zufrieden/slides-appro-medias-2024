@@ -16,11 +16,11 @@ Actuellement, je possède des connaissances de base en création de sites web, m
 
 ### Comprendre en profondeur les fonctionnalités offertes par Wix pour la création et la gestion d'un site d'e-commerce :
 
-- **Analyse détaillée des fonctionnalités de Wix :** Je vais explorer chaque fonctionnalité de Wix spécifiquement conçue pour la création et la gestion d'un site d'e-commerce, en utilisant les ressources disponibles telles que la documentation officielle, les tutoriels en ligne, et les forums de support. Je vais m'assurer de comprendre en profondeur comment chaque fonctionnalité fonctionne et comment elle peut être utilisée de manière optimale dans un contexte d'e-commerce.
+- **Validation :** Je vais explorer chaque fonctionnalité de Wix spécifiquement conçue pour la création et la gestion d'un site d'e-commerce, en utilisant les ressources disponibles telles que la documentation officielle, les tutoriels en ligne, et les forums de support. Je vais m'assurer de comprendre en profondeur comment chaque fonctionnalité fonctionne et comment elle peut être utilisée de manière optimale dans un contexte d'e-commerce.
 
 ### Évaluer les avantages et les inconvénients de l'utilisation de Wix par rapport à d'autres CMS pour un projet d'e-commerce :
 
-- **Comparaison approfondie avec d'autres CMS :** Je vais effectuer une analyse comparative approfondie entre Wix et d'autres CMS populaires pour l'e-commerce tels que Shopify, WooCommerce, Magento, etc. Je vais passer en revue les fonctionnalités, les performances, la flexibilité de conception, la facilité d'utilisation, la scalabilité, et d'autres aspects pertinents pour évaluer les avantages et les inconvénients de chaque plateforme.
+- **Validation :** Je vais effectuer une analyse comparative approfondie entre Wix et d'autres CMS populaires pour l'e-commerce tels que Shopify, WooCommerce, Magento, etc. Je vais passer en revue les fonctionnalités, les performances, la flexibilité de conception, la facilité d'utilisation, la scalabilité, et d'autres aspects pertinents pour évaluer les avantages et les inconvénients de chaque plateforme.
 
 ## Démarche
 
