@@ -6,19 +6,19 @@
 
 **_Décrire le sujet_**
 
-_Figma est une plateforme de conception d'interfaces utilisateur basée sur le cloud, qui permet aux équipes de collaborer en temps réel. Elle offre des outils de prototypage, de design graphique et de création d'animations, le tout dans un environnement intuitif et accessible via un navigateur web. Elle permet de rendre des maquettes fonctionnelles rapidement et à bas prix. Il est simple de montrer un projet sur Figma à un client qui comprendra beaucoup mieux nos idées et là où l'on veut l'emmener._
+_ Figma est une plateforme de conception d'interfaces utilisateur basée sur le cloud, qui permet aux équipes de collaborer en temps réel. Elle offre des outils de prototypage, de design graphique et de création d'animations, le tout dans un environnement intuitif et accessible via un navigateur web. Elle permet de rendre des maquettes fonctionnelles rapidement et à bas prix. Il est simple de montrer un projet sur Figma à un client qui comprendra beaucoup mieux nos idées et là où l'on veut l'emmener._
 
 ### Contexte
 
-_J'ai choisi Figma comme sujet d'étude pour mon Travail de Bachelor car il est largement utilisé dans l'industrie du design et du développement web. Comprendre en profondeur son fonctionnement et ses fonctionnalités me permettra d'améliorer mes compétences en conception d'interfaces utilisateur, ce qui est essentiel pour la réussite de mon TB qui est dans le dommaine de l'UX._
+_ J'ai choisi Figma comme sujet d'étude pour mon Travail de Bachelor car il est largement utilisé dans l'industrie du design et du développement web. Comprendre en profondeur son fonctionnement et ses fonctionnalités me permettra d'améliorer mes compétences en conception d'interfaces utilisateur, ce qui est essentiel pour la réussite de mon TB qui est dans le dommaine de l'UX._
 
 ## État initial
 
-_J'ai une connaissance de base de Figma, ayant utilisé la plateforme pour des projets simples auparavant. Je suis familière avec les concepts fondamentaux tels que la création de cadres, les calques, les composants, et les bases du prototypage. Cependant, je n'ai pas exploré en détail les fonctionnalités avancées ni les meilleures pratiques de collaboration._
+_ J'ai une connaissance de base de Figma, ayant utilisé la plateforme pour des projets simples auparavant. Je suis familière avec les concepts fondamentaux tels que la création de cadres, les calques, les composants, et les bases du prototypage. Cependant, je n'ai pas exploré en détail les fonctionnalités avancées ni les meilleures pratiques de collaboration._
 
 ## Objectifs
 
-_1) Maîtriser les fonctionnalités avancées de Figma, y compris les composants intelligents, les styles, et les plugins.
+_ 1) Maîtriser les fonctionnalités avancées de Figma, y compris les composants intelligents, les styles, et les plugins.
       Mesurable: Créer un projet complexe utilisant ces fonctionnalités et le partager avec des collègues pour obtenir des retours.
       Atteignable: Suivre des tutoriels en ligne, pratiquer régulièrement et lire des forums de discussion pour résoudre les problèmes rencontrés.
       Relevant: Ces compétences sont cruciales pour améliorer mon efficacité dans la conception d'interfaces utilisateur et pour répondre aux exigences de mon TB.
@@ -32,7 +32,7 @@ _1) Maîtriser les fonctionnalités avancées de Figma, y compris les composants
 
 ## Démarche
 
-_1) Exploration des fonctionnalités avancées de Figma (30 heures):
+_ 1) Exploration des fonctionnalités avancées de Figma (30 heures):
     Suivre des tutoriels en ligne sur les composants intelligents, les styles, les plugins, etc. (11 heures)
     Créer un projet pour mettre en pratique les concepts appris. (14 heures)
     Lire des forums de discussion pour résoudre les problèmes rencontrés. (5 heures)
@@ -44,10 +44,10 @@ _1) Exploration des fonctionnalités avancées de Figma (30 heures):
 
 ## 5 questions
 
-_1) Comment créer et utiliser efficacement des composants intelligents dans Figma ?
-2) Quels sont les avantages des styles dans Figma et comment les utiliser de manière optimale ?
-3) Quels sont les plugins les plus utiles pour les designers utilisant Figma, et comment les intégrer dans son flux de travail ?
-4) Quelles sont les meilleures pratiques pour organiser efficacement ses fichiers et projets dans Figma ?
+_ 1) Comment créer et utiliser efficacement des composants intelligents dans Figma ?  
+2) Quels sont les avantages des styles dans Figma et comment les utiliser de manière optimale ?  
+3) Quels sont les plugins les plus utiles pour les designers utilisant Figma, et comment les intégrer dans son flux de travail ?  
+4) Quelles sont les meilleures pratiques pour organiser efficacement ses fichiers et projets dans Figma ?  
 5) Comment fonctionne la collaboration en temps réel dans Figma, et quelles sont ses limites potentielles ?_
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
