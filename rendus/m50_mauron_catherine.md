@@ -7,12 +7,15 @@
 **_Décrire le sujet_**
 
 _Le sujet choisi porte sur la gestion de projet à l'aide de l'application Notion. Notion est un outil polyvalent reconnu et fréquemment employé dans divers domaines professionnels et académiques. Notion offre une palette étendue de fonctionnalités, allant de la gestion de tâches à la création de bases de données, de la prise de notes à la collaboration en ligne._
+
 _Je compte l’employer afin de créer un environnement idéal pour lister les tâches liées à mon Travail de Bachelor et y obtenir une vue d’ensemble temporelle, définir leur état d’avancement ("commencé", "en cours", "terminé") et prendre des notes pour la rédaction du rapport de ce travail._
+
 _Par ailleurs, bien que Notion jouisse d'une reconnaissance étendue, il m'est encore peu familier, représentant ainsi une opportunité d'apprentissage significative, tant sur le plan technique qu'organisationnel. En prenant en main cette application, je compte non seulement évaluer la pertinence de son utilisation dans le cadre de mon Travail de Bachelor, mais également structurer de manière plus claire mes idées et mes tâches au sein d'un environnement numérique dédié._ 
 
 ### Contexte
 
 _Mon Travail de Bachelor, intitulé « Apprentissage dans la construction : quelles stratégies de marketing 360° pour atteindre et convaincre deux publics-cibles, les jeunes et leurs parents ? », se concentre principalement sur des domaines tels que le marketing digital, l'expérience utilisateur (UX) et la gestion de projet. Cette étude se déroulera au sein d'une Fédération axée dans le domaine de la construction localisée dans le canton de Vaud._
+
 _Mon choix s'est dirigé vers Notion pour plusieurs motifs. En premier lieu, cette application incarne un outil novateur susceptible de considérablement faciliter la gestion et l'organisation de mes activités liées au Travail de Bachelor, notamment en ce qui concerne la gestion de projet, une composante de mon projet d’étude. L'exploration approfondie des diverses fonctionnalités de Notion vise à me doter d'une maîtrise pratique de ce logiciel, optimisant ainsi mon efficacité dans la gestion des tâches, la prise de notes et la collaboration avec les parties prenantes impliquées. Ainsi, je pourrais y présenter ma vision auprès de l’entreprise lors de la pré-étude de manière visuelle et structurée, facilitant ainsi les discussions et les échanges avec les membres de l'équipe._
 
 ## État initial
