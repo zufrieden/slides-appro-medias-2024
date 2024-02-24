@@ -4,7 +4,7 @@
 
 ### Description 
 
-L'objectif principal sera d'explorer les différentes facettes du benchmarketing, de comprendre comment collecter et analyser des données pertinentes pour évaluer les performances du marché, les pratiques concurrentielles, et les tendances émergentes. 
+L'objectif principal sera d'explorer les différentes facettes du benchmarketing, de comprendre comment collecter et analyser des données pertinentes pour évaluer les performances du marché, les pratiques concurrentielles et les tendances émergentes. 
 
 ### Contexte
 
@@ -16,16 +16,31 @@ J'ai choisi ce sujet, car depuis le premier semestre du Bachelor, nous avons pri
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+1. D'ici le 22 mars 2024, je m'engage à identifier et répertorier trois sources de référence solides qui fournissent des informations détaillées sur les bonnes pratiques en matière de benchmarketing.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+2. Avant le 22 mars 2024, je m'efforcerai d'identifier et d'énumérer trois outils en ligne pertinents qui faciliteront la collecte de données nécessaire à l'évaluation des performances du marché, des pratiques concurrentielles, et des tendances émergentes.
+
+3. Je dois rechercher et documenter trois exemples de benchmarketing déjà réalisés, avant le 22 mars 2024.
+
+4. Je dois rédiger une méthodologie complète pour l'élaboration d'un benchmarketing d'ici le 22 mars 2024, garantissant ainsi une approche claire et détaillée pour la réalisation de cette analyse comparative.
+
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- Recherche d'un sujet et rédaction du rendu 1/2 : 2 heures
+- Documentation sur le sujet choisi : 6 heures
+- Tri des informations trouvées : 3 heures
+- Recherche et tests de trois outils en ligne pertinents : 7 heures
+- Recherche et documentation de trois exemples de benchmarketing déjà réalisés : 7 heures
+- Rédaction d'une méthodologie complète : 9 heures
+- Rédaction du rendu 2/2 : 2 heures
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quel est le contenu et quelles sont les caractéristiques distinctives des sources que j'ai identifiées et répertoriées?
+2. Comment ai-je évalué la pertinence des trois outils en ligne que j'ai identifiés pour la collecte de données en benchmarketing?
+3. Est-ce que je peux partager trois exemples concrets de benchmarketing que j'ai découverts et documentés?
+4. Comment ces exemples pourraient-ils influencer la stratégie en marketing digital que je m'apprête à élaborer pour mon Travail de Bachelor?
+5. En décrivant la méthodologie complète que j'ai rédigée, comment expliquer qu'elle assure une approche claire et détaillée pour la réalisation d'une analyse comparative en benchmarketing ?
 
 
