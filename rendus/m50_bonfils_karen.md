@@ -19,16 +19,16 @@ _J'ai une connaissance de base de Figma, ayant utilisé la plateforme pour des p
 ## Objectifs
 
 _1) Maîtriser les fonctionnalités avancées de Figma, y compris les composants intelligents, les styles, et les plugins._  
-      _Mesurable: Créer un projet complexe utilisant ces fonctionnalités et le partager avec des collègues pour obtenir des retours._  
-      _Atteignable: Suivre des tutoriels en ligne, pratiquer régulièrement et lire des forums de discussion pour résoudre les problèmes rencontrés._  
-      _Relevant: Ces compétences sont cruciales pour améliorer mon efficacité dans la conception d'interfaces utilisateur et pour répondre aux exigences de mon TB._  
-      _Temporellement défini: Atteindre cet objectif d'ici la fin du cours._
+      _**Mesurable** : Créer un projet complexe utilisant ces fonctionnalités et le partager avec des collègues pour obtenir des retours._  
+      _**Atteignable** : Suivre des tutoriels en ligne, pratiquer régulièrement et lire des forums de discussion pour résoudre les problèmes rencontrés._  
+      _**Relevant** : Ces compétences sont cruciales pour améliorer mon efficacité dans la conception d'interfaces utilisateur et pour répondre aux exigences de mon TB._  
+      _**Temporellement défini** : Atteindre cet objectif d'ici la fin du cours._
 
 _2) Apprendre à utiliser les fonctionnalités de collaboration en temps réel de Figma pour travailler efficacement avec d'autres membres de mon équipe._  
-      _Mesurable: Organiser une session de conception en temps réel avec des collègues et évaluer la facilité d'utilisation et l'efficacité de la collaboration._  
-      _Atteignable: Partager mes expériences et poser des questions aux utilisateurs expérimentés._  
-      _Relevant: La collaboration est essentielle pour la réussite de mon TB, où je travaillerai en équipe sur des projets de conception complexes._  
-      _Temporellement défini: Réaliser cette session de conception en temps réel avant la fin du cours._
+      _**Mesurable** : Organiser une session de conception en temps réel avec des collègues et évaluer la facilité d'utilisation et l'efficacité de la collaboration._  
+      _**Atteignable** : Partager mes expériences et poser des questions aux utilisateurs expérimentés._  
+      _**Relevant** : La collaboration est essentielle pour la réussite de mon TB, où je travaillerai en équipe sur des projets de conception complexes._  
+      _**Temporellement défini** : Réaliser cette session de conception en temps réel avant la fin du cours._
 
 ## Démarche
 
