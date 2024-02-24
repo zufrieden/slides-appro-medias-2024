@@ -1,34 +1,47 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-2 FROELICHER CASSANDRE - JAVASCRIPT_AVANCÉ_ET_FRAMEWORKS_JS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Le sujet de mon étude est l'approfondissement des connaissances en JavaScript avancé et la comparaison de différents frameworks JavaScript. Cette démarche vise à acquérir des compétences préliminaires avant de commencer directement le développement de mon Travail de Bachelor lié au développement web.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+J'ai choisi ce sujet pour consolider mes bases en JavaScript, explorer ses fonctionnalités avancées, et faire un choix éclairé parmi les frameworks JavaScript disponibles. Cela me permettra d'aborder mon Travail de Bachelor avec une expertise technique solide.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Je possède des connaissances de base en JavaScript et Vue.js. Cependant, mes compétences sont limitées et je souhaite passer à un niveau avancé. Mon expérience pratique se limite à des projets simples. Mon niveau actuel nécessite un renforcement significatif pour être capable de développer des fonctionnalités complexes dans mon Travail de Bachelor. Cela implique que mes objectifs d'auto-formation doivent inclure non seulement l'apprentissage de nouvelles fonctionnalités mais aussi leur application concrète dans des projets plus complexes.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+1. Maîtrise du JavaScript avancé : Acquérir une compréhension approfondie des concepts avancés de JavaScript pour être capable de les appliquer dans des projets de développement web plus complexes.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+    **Validation** : Réaliser des exercices pratiques et des mini-projets mettant en œuvre ces concepts.
+
+2. Comparaison des frameworks JavaScript : Analyser et comparer les principaux frameworks JavaScript (React, Angular, etc.), afin de faire un choix éclairé pour mon Travail de Bachelor.
+
+    **Validation** : Documenter les avantages et inconvénients de chaque framework en fonction des besoins du projet.
+
+3. Approfondissement sur un framework choisi : Sélectionner un framework après la comparaison et approfondir mes connaissances spécifiquement sur celui-ci.
+
+    **Validation** : Réaliser des exercices avancés, explorer des fonctionnalités spécifiques, et peut-être participer à des projets open source utilisant ce framework.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Semaine 1 (10h) : Apprentissage intensif du JavaScript avancé à travers des tutoriels, des lectures, et des exercices pratiques.
+Semaine 2 (8h) : Exploration des frameworks JavaScript. Documentation des avantages et inconvénients de chaque framework.
+Semaine 3 (10h) : Sélection du framework et début de l'approfondissement des connaissances.
+Semaine 4 (8h) : Consolidation des compétences acquises, résolution de problèmes pratiques ou réalisation d'un mini-projet.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+Quels sont les concepts avancés de JavaScript que je maîtrise désormais et que je peux appliquer dans des projets web plus complexes ?
+Quel framework JavaScript est le mieux adapté pour mon Travail de Bachelor, basé sur la comparaison effectuée, et pourquoi ?
+Quels sont les avantages et inconvénients documentés de chaque framework, et comment ont-ils influencé mon choix ?
+Quelles leçons clés ai-je apprises en explorant les fonctionnalités avancées de JavaScript et en comparant les frameworks ?
+Quelles sont les nouvelles compétences acquises lors de l'approfondissement sur le framework choisi, et comment pourrais-je les appliquer dans mes projets futurs, y compris mon Travail de Bachelor ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
