@@ -23,9 +23,10 @@ Pour ce qui est des recherches et tests, nous avons effectué divers tests pour 
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+-Regarder 4 vidéos
+-Lire 6 articles
+-Tester des appels basiques sur les divers calendriers
+-(Tester une méthodede recherche utilisateur sur un petit échantillon de personne
 
 ## Démarche
 
@@ -34,6 +35,10 @@ Pour les 2 points il s'agira principalement de recherche, les spécificités des
 ## 5 questions
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+-Quels sont les avantages et désavantagess des agenda/calendrier en ligne ?
+-Lequel est le plus adapté à ma problèmatique ?
+
+
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
