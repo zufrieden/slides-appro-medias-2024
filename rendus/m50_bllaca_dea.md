@@ -1,34 +1,47 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-1/2 BLLACA DEA - SUJET_ETUDE
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude
+L'optimisation de l'accompagnement marketing chez eSMART Technologies SA à travers l'analyse du marché immobilier et la préparation d'entretiens clients.
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Ce sujet vise à améliorer l'accompagnement marketing de eSMART Technologies en analysant les tendances du marché immobilier et en préparant des entretiens pertinents avec les clients issus de 4 milieux: promotion immobilières, investisseurs, entreprises de construction/d'ingnénierie, et les régies/gérances. Cette approche technique permettra de mieux répondre aux besoins des clients de l'entreprise et d'optimiser les stratégies de marketing par la suite.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+J'ai choisi ce sujet pour son importance cruciale dans le développement de mon Travail de Bachelor chez eSMART Technologies. En comprenant les tendances du marché immobilier et en préparant des entretiens avec les clients, je pourrai proposer des recommandations marketing pertinentes qui auront un impact direct sur la réussite de mon TB et sur les performances de l'entreprise.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+J'ai une connaissance de base en marketing au niveau B2B et B2C, mais je dois approfondir mes compétences dans l'analyse du marché immobilier et la préparation d'entretiens clients. Cela nécessitera une démarche méthodique et une forte implication dans la recherche et la pratique.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+1. Analyser en profondeur les tendances du marché immobilier et de la PropTech.
+2. Identifier les besoins spécifiques des clients de eSMART Technologies en matière d'accompagnement marketing.
+3. Préparer des entretiens ciblés avec les clients pour recueillir des informations précieuses sur leurs attentes et leurs défis.
+4. Développer des recommandations marketing personnalisées et efficaces en intégrant les résultats de l'analyse du marché et des entretiens clients.
+5. Rédiger un rapport final présentant les conclusions de l'étude et les recommandations pour l'entreprise.
 
 _Expliquez comment vous allez valider l'atteinte des objectifs._
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+1. Analyse du marché immobilier et de la PropTech (8h)
+2. Préparation des guides d'entretiens avec les clients (8h)
+3. Réalisation des entretiens avec les clients (8h)
+4. Analyse des données recueillies et rédaction des recommandations (8h)
+5. Rédaction du rapport final (4h)
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les tendances émergentes dans le marché de l'immobilier et de la PropTech?
+2. Quels sont les principaux besoins des clients de eSMART Technologies en matière d'accompagnement marketing?
+3. Quels sont les défis rencontrés par les clients dans la mise en œuvre des solutions eSMART?
+4. Quelles stratégies de marketing seraient les plus efficaces pour répondre aux besoins des clients identifiés?
+5. Comment mesurer l'impact des recommandations marketing sur les performances de l'entreprise?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
