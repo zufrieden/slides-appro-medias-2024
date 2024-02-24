@@ -3,11 +3,9 @@
 # ETAT INITIAL ET OBJECTIFS
 ## Mon sujet d'étude
 
-**Mise en place d’un accompagnement marketing (co-marketing) selon les tendances et enjeux de l’immobilier et les besoins des clients de eSMART Technologies SA_**
+**Mise en place d’un accompagnement marketing (co-marketing) selon les tendances et enjeux de l’immobilier et les besoins des clients de eSMART Technologies SA**
 
 Ce projet vise à élaborer une stratégie d'accompagnement marketing, notamment à travers le co-marketing, en alignement avec les tendances et enjeux du marché immobilier, afin de répondre aux besoins spécifiques des clients de eSMART Technologies SA.
-
-### Contexte
 
 J'ai choisi ce sujet en raison de son importance stratégique pour eSMART Technologies SA. En développant une approche marketing adaptée, l'entreprise pourra mieux mettre en valeur ses solutions intelligentes dans un marché immobilier en pleine mutation, renforçant ainsi sa position concurrentielle.
 
@@ -22,8 +20,6 @@ Je dispose d'une bonne connaissance de l'entreprise et de son environnement, en 
 3. Définir une stratégie de co-marketing personnalisée en fonction des besoins spécifiques des différents segments de clients de l'entreprise
 4. Implémenter et tester la stratégie de co-marketing proposée auprès d'un échantillon représentatif de clients
 5. Élaborer un rapport final présentant les conclusions de l'étude et les recommandations pour l'entreprise
-
-_**Expliquez comment vous allez valider l'atteinte des objectifs.**_
 
 Pour valider l'atteinte des objectifs fixés, plusieurs méthodes seront mises en œuvre. Tout d'abord, une analyse approfondie des tendances du marché de l'immobilier et de la PropTech sera effectuée en étudiant des rapports sectoriels et des publications spécialisées. En parallèle, une enquête sera menée auprès des clients actuels de eSMART pour évaluer l'efficacité de l'accompagnement marketing actuel. Les données recueillies permettront de définir une stratégie de co-marketing personnalisée, en analysant les meilleures pratiques de l'industrie. Cette stratégie sera ensuite implémentée et testée auprès d'un échantillon de clients pour mesurer son impact sur les indicateurs clés de performance. Enfin, les résultats seront synthétisés dans un rapport final, où la clarté et la pertinence des recommandations stratégiques seront évaluées.
 
