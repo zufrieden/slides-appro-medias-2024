@@ -38,9 +38,13 @@ Pour les 2 points il s'agira principalement de recherche, les spécificités des
 ## 5 questions
 
 -Quels sont les avantages et désavantagess des agenda/calendrier en ligne ?
+
 -Lequel est le plus adapté à ma problèmatique ?
+
 -Est-ce que j'arrive à faire des requête vers l'api et à fetch des informations ?
+
 -Une des méthodes de recherche est-elle viable pour tester une maquette web ?
+
 -Quelles méthodes sont viables pour obtenir des informations démographique sur un grand échantillon de personne ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
