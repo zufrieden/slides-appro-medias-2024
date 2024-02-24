@@ -32,15 +32,15 @@ _2) Apprendre à utiliser les fonctionnalités de collaboration en temps réel d
 
 ## Démarche
 
-_1) Exploration des fonctionnalités avancées de Figma (30 heures):  
-    Suivre des tutoriels en ligne sur les composants intelligents, les styles, les plugins, etc. (11 heures)  
-    Créer un projet pour mettre en pratique les concepts appris. (14 heures)  
-    Lire des forums de discussion pour résoudre les problèmes rencontrés. (5 heures)  
+_1) Exploration des fonctionnalités avancées de Figma (30 heures):_  
+    _Suivre des tutoriels en ligne sur les composants intelligents, les styles, les plugins, etc. (11 heures)_  
+    _Créer un projet pour mettre en pratique les concepts appris. (14 heures)_  
+    _Lire des forums de discussion pour résoudre les problèmes rencontrés. (5 heures)_  
    
-2) Formation à la collaboration en temps réel (6 heures):  
-    Suivre des tutoriels spécifiques sur les fonctionnalités de collaboration de Figma. (2 heures)  
-    Organiser une session de conception en temps réel avec des collègues pour mettre en pratique la collaboration. (2 heure)  
-    Recueillir des retours d'expérience et ajuster mes méthodes de travail en conséquence.(2 heures)_
+_2) Formation à la collaboration en temps réel (6 heures):_  
+    _Suivre des tutoriels spécifiques sur les fonctionnalités de collaboration de Figma. (2 heures)_  
+    _Organiser une session de conception en temps réel avec des collègues pour mettre en pratique la collaboration. (2 heure)_  
+    _Recueillir des retours d'expérience et ajuster mes méthodes de travail en conséquence.(2 heures)_
 
 ## 5 questions
 
