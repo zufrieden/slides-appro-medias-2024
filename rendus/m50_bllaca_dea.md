@@ -43,24 +43,4 @@ _Expliquez comment vous allez valider l'atteinte des objectifs._
 4. Quelles stratégies de marketing seraient les plus efficaces pour répondre aux besoins des clients identifiés?
 5. Comment mesurer l'impact des recommandations marketing sur les performances de l'entreprise?
 
-# RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
-
-## Retour sur l'état initial
-
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
-
-## Réponses aux 5 questions
-
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
-
-## Investissement
-
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
-
-## Réflexion sur la méthode d'auto-formation
-
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
-
-## Conclusion
-
-_Quelles leçons avez-vous apprises et pourquoi ?_
+**RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59**
