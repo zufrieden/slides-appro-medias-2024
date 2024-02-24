@@ -1,7 +1,6 @@
 # M50-1 BLLACA DEA - ACCOMPAGNEMENT MARKETING SELON TENDANCES DU MARCHE
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
-
+# ETAT INITIAL ET OBJECTIFS
 ## Mon sujet d'étude
 
 **Mise en place d’un accompagnement marketing (co-marketing) selon les tendances et enjeux de l’immobilier et les besoins des clients de eSMART Technologies SA_**
