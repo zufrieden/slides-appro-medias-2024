@@ -24,8 +24,11 @@ Pour ce qui est des recherches et tests, nous avons effectué divers tests pour 
 ## Objectifs
 
 -Regarder 4 vidéos
+
 -Lire 6 articles
+
 -Tester des appels basiques sur les divers calendriers
+
 -(Tester une méthodede recherche utilisateur sur un petit échantillon de personne
 
 ## Démarche
