@@ -16,32 +16,32 @@ Je possède des connaissances de base en JavaScript et Vue.js. Cependant, mes co
 
 ## Objectifs
 
-1. Maîtrise du JavaScript avancé : Acquérir une compréhension approfondie des concepts avancés de JavaScript pour être capable de les appliquer dans des projets de développement web plus complexes.
+1. **Maîtrise du JavaScript avancé** : Acquérir une compréhension approfondie des concepts avancés de JavaScript pour être capable de les appliquer dans des projets de développement web plus complexes.
 
     **Validation** : Réaliser des exercices pratiques et des mini-projets mettant en œuvre ces concepts.
 
-2. Comparaison des frameworks JavaScript : Analyser et comparer les principaux frameworks JavaScript (React, Angular, etc.), afin de faire un choix éclairé pour mon Travail de Bachelor.
+2. **Comparaison des frameworks JavaScript** : Analyser et comparer les principaux frameworks JavaScript (React, Angular, etc.), afin de faire un choix éclairé pour mon Travail de Bachelor.
 
     **Validation** : Documenter les avantages et inconvénients de chaque framework en fonction des besoins du projet.
 
-3. Approfondissement sur un framework choisi : Sélectionner un framework après la comparaison et approfondir mes connaissances spécifiquement sur celui-ci.
+3. **Approfondissement sur un framework choisi** : Sélectionner un framework après la comparaison et approfondir mes connaissances spécifiquement sur celui-ci.
 
     **Validation** : Réaliser des exercices avancés, explorer des fonctionnalités spécifiques, et peut-être participer à des projets open source utilisant ce framework.
 
 ## Démarche
 
-Semaine 1 (10h) : Apprentissage intensif du JavaScript avancé à travers des tutoriels, des lectures, et des exercices pratiques.
-Semaine 2 (8h) : Exploration des frameworks JavaScript. Documentation des avantages et inconvénients de chaque framework.
-Semaine 3 (10h) : Sélection du framework et début de l'approfondissement des connaissances.
-Semaine 4 (8h) : Consolidation des compétences acquises, résolution de problèmes pratiques ou réalisation d'un mini-projet.
+- **Semaine 1 (10h)** : Apprentissage intensif du JavaScript avancé à travers des tutoriels, des lectures, et des exercices pratiques.
+- **Semaine 2 (8h)** : Exploration des frameworks JavaScript (ainsi que les tendances). Documentation des avantages et inconvénients de chaque framework.
+- **Semaine 3 (10h)** : Sélection du framework et début de l'approfondissement des connaissances.
+- **Semaine 4 (8h)** : Consolidation des compétences acquises, résolution de problèmes pratiques ou réalisation d'un mini-projet.
 
 ## 5 questions
 
-Quels sont les concepts avancés de JavaScript que je maîtrise désormais et que je peux appliquer dans des projets web plus complexes ?
-Quel framework JavaScript est le mieux adapté pour mon Travail de Bachelor, basé sur la comparaison effectuée, et pourquoi ?
-Quels sont les avantages et inconvénients documentés de chaque framework, et comment ont-ils influencé mon choix ?
-Quelles leçons clés ai-je apprises en explorant les fonctionnalités avancées de JavaScript et en comparant les frameworks ?
-Quelles sont les nouvelles compétences acquises lors de l'approfondissement sur le framework choisi, et comment pourrais-je les appliquer dans mes projets futurs, y compris mon Travail de Bachelor ?
+- Quels sont les concepts avancés de JavaScript que je maîtrise désormais et que je peux appliquer dans des projets web plus complexes ?
+- Quel framework JavaScript est le mieux adapté pour mon Travail de Bachelor, basé sur la comparaison effectuée, et pourquoi ?
+- Quels sont les avantages et inconvénients documentés de chaque framework, et comment ont-ils influencé mon choix ?
+- Quelles leçons clés ai-je apprises en explorant les fonctionnalités avancées de JavaScript et en comparant les frameworks ?
+- Quelles sont les nouvelles compétences acquises lors de l'approfondissement sur le framework choisi, et comment pourrais-je les appliquer dans mes projets futurs, y compris mon Travail de Bachelor ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
