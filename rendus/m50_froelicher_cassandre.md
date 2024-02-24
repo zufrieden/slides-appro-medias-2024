@@ -16,15 +16,15 @@ Je possède des connaissances de base en JavaScript et Vue.js. Cependant, mes co
 
 ## Objectifs
 
-1. **Maîtrise du JavaScript avancé** : Acquérir une compréhension approfondie des concepts avancés de JavaScript pour être capable de les appliquer dans des projets de développement web plus complexes.
+1. **Maîtrise du JavaScript avancé** : Acquérir une compréhension approfondie des concepts avancés de JavaScript pour être capable de les appliquer dans des projets de développement web plus complexes, avant le  22 mars 2024.
 
     **Validation** : Réaliser des exercices pratiques et des mini-projets mettant en œuvre ces concepts.
 
-2. **Comparaison des frameworks JavaScript** : Analyser et comparer les principaux frameworks JavaScript (React, Angular, etc.), afin de faire un choix éclairé pour mon Travail de Bachelor.
+2. **Comparaison des frameworks JavaScript** : Analyser et comparer les principaux frameworks JavaScript (React, Angular, etc.), afin de faire un choix éclairé pour mon Travail de Bachelor, avant le 10 mars 2024.
 
     **Validation** : Documenter les avantages et inconvénients de chaque framework en fonction des besoins du projet.
 
-3. **Approfondissement sur un framework choisi** : Sélectionner un framework après la comparaison et approfondir mes connaissances spécifiquement sur celui-ci.
+3. **Approfondissement sur un framework choisi** : Sélectionner un framework après la comparaison et approfondir mes connaissances spécifiquement sur celui-ci, avant le 22 mars 2024.
 
     **Validation** : Réaliser des exercices avancés, explorer des fonctionnalités spécifiques, et peut-être participer à des projets open source utilisant ce framework.
 
