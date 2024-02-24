@@ -1,34 +1,48 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-1/2 MURIER CINDY - GSAP
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude porte sur GSAP (GreenSock Animation Platform)
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Mon objectif est d'explorer les fonctionnalités de GSAP afin d’acquérir une base solide dans cette bibliothèque JavaScript reconnue pour la création d'animations web dynamiques et interactives. GSAP offre une gamme étendue de fonctionnalités permettant de concevoir des animations fluides, des transitions élégantes et des interactions utilisateur engageantes.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
+J’ai choisi ce sujet en raison de son importance pour mon Travail de Bachelor (TB) qui consiste au développement d’un dispositif numérique de balade augmentée pour un musée. J'ai opté pour l'étude de GSAP afin d'enrichir l'expérience utilisateur de mon dispositif numérique. De plus, GSAP est compatible avec Vue.js, un framework que je maîtrise déjà.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Je possède des connaissances de base en JavaScript et en programmation web, mais je n'ai pas encore exploré GSAP. Bien que je comprenne certains concepts des animations web, je dois encore apprendre à mettre en œuvre des animations avec GSAP.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART._
+***Objectif 1*** : Acquérir les compétences pour créer des animations fluides et des transitions élégantes avec GSAP en développant au moins trois animations différentes d'ici le 22 mars 2024.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs._
+***Objectif 2*** : Créer un projet d'animation utilisant GSAP, incluant des animations UI, pour démontrer une compréhension approfondie de GSAP et de son application dans différents contextes d'ici le 22 mars 2024.
+
+***Objectif 3*** : Intégrer GSAP avec succès dans un projet Vue.js existant en comprenant et en appliquant les principes d'intégration entre GSAP et Vue.js pour créer des animations fluides et des transitions interactives d'ici le 22 mars 2024.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+***Recherche et exploration*** : Consacrer 6 heures à la recherche de tutoriels, de guides et de ressources sur GSAP en ligne.
+
+***Formation pratique*** : Allouer 20 heures à la pratique active de la création d'animations avec GSAP, suivant les tutoriels et expérimentant différentes fonctionnalités.
+
+***Intégration dans un projet*** : Réserver 10 heures pour intégrer les animations GSAP dans un projet et les tester dans un environnement réel.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les principales fonctionnalités offertes par GSAP pour la création d'animations web ?
+
+2. Comment pouvez-vous intégrer GSAP dans un projet Vue.js existant ?
+
+3.	Quels sont les principaux avantages de l'utilisation des animations GSAP par rapport aux animations CSS traditionnelles ?
+
+4.	Comment pouvez-vous contrôler la vitesse, l'opacité et d'autres propriétés des éléments avec GSAP ?
+
+5.	Quelles sont les meilleures pratiques pour optimiser les performances des animations GSAP et assurer une expérience utilisateur fluide ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
