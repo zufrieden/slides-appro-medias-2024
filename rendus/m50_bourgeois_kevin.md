@@ -10,7 +10,7 @@
 
 _Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?_
 
-**"J'ai choisi ce sujet, car en mettant l'accent sur la recherche et l'analyse des besoins des clients, je pourrai fournir des insights précieux qui aideront Afric'An Sima à mieux adapter ses services aux demandes spécifiques des commerces afros sur le marché suisse. De plus, cela va également m'aider à mieux cibler mes efforts sur la partie "communication" de mon travail de bachelor.**
+**J'ai choisi ce sujet, car en mettant l'accent sur la recherche et l'analyse des besoins des clients, je pourrai fournir des insights précieux qui aideront Afric'An Sima à mieux adapter ses services aux demandes spécifiques des commerces afros sur le marché suisse. De plus, cela va également m'aider à mieux cibler mes efforts sur la partie "communication" de mon travail de bachelor.**
 
 ## État initial
 
