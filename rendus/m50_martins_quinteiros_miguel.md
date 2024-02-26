@@ -8,7 +8,6 @@ Le développement d'une application React Native qui permet de lire des tags NFC
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? 
 J'ai décidé de faire mon étude sur une application React Native car cela me permet de prendre de l'avance sur mon TB.
 En effet, ce dernier consiste à concevoir et à développer une application native/hybride pour l'entreprise qu'est GlobalID.
 
