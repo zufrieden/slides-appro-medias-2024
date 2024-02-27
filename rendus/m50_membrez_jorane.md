@@ -18,7 +18,7 @@ _Actuellement, je n'ai aucune expérience ni connaissance pratique dans le domai
 
 ## Objectifs
 
-_Objectif 1 : À la fin d'une formation en ligne et de la participation active sur des forums spécialisés, être capable de démontrer une compréhension approfondie des fonctionnalités de Blender et de maîtriser les bases de ce logiciel d'animation 3D, dans un délai de quatre semaines.
+Objectif 1 : À la fin d'une formation en ligne et de la participation active sur des forums spécialisés, être capable de démontrer une compréhension approfondie des fonctionnalités de Blender et de maîtriser les bases de ce logiciel d'animation 3D, dans un délai de quatre semaines.
 
 Objectif 2 : Dans un délai de quatre semaines, créer une documentation personnalisée pour l'utilisation efficace du logiciel Blender, en identifiant et en organisant de manière claire les éléments essentiels, afin de maximiser l'efficacité lors de la pratique et de faciliter la référence ultérieure.
 
@@ -28,7 +28,7 @@ _Pour valider l'atteinte de mes objectifs, je prévois de réaliser une premièr
 
 ## Démarche
 
-_Pour atteindre mes objectifs, je vais répartir les 36 heures disponibles de la manière suivante :
+Pour atteindre mes objectifs, je vais répartir les 36 heures disponibles de la manière suivante :
 
 Semaine 1 (9 heures) : 
 Je consacrerai environ 3 heures à explorer des tutoriels et des cours disponibles sur des plateformes telles que YouTube et Udemy pour me familiariser avec les bases de Blender. Je passerai également 3 heures à consulter des documentations et des guides dédiés à Blender pour comprendre les fonctionnalités de base du logiciel. Pendant les 3 heures restantes, je m'inscrirai et participerai activement à des forums spécialisés pour poser des questions, partager mes progrès et obtenir des conseils d'autres utilisateurs expérimentés.
