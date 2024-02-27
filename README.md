@@ -1,1 +1,1 @@
-# Approfondissement Média - HEIG-VD - COMEM - Marc Friederich
+# Approfondissement Média - HEIG-VD - COMEM - Jorane Membrez
