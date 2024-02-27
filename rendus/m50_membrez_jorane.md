@@ -6,7 +6,7 @@
 
 **_Décrire le sujet_**
 
-_Le sujet de ce projet se concentre sur l'animation 3D avec l'outil Blender. Avec la demande croissante pour les animations 3D sur le marché, l'intégration de cette technologie va considérablement enrichir mon parcours immersif au sein du Théâtre du Passage de Neuchâtel. Blender a toujours suscité mon intérêt, et ce travail de Bachelor me donne l'opportunité de transformer cette curiosité en une compétence développée.
+Le sujet de ce projet se concentre sur l'animation 3D avec l'outil Blender. Avec la demande croissante pour les animations 3D sur le marché, l'intégration de cette technologie va considérablement enrichir mon parcours immersif au sein du Théâtre du Passage de Neuchâtel. Blender a toujours suscité mon intérêt, et ce travail de Bachelor me donne l'opportunité de transformer cette curiosité en une compétence développée.
 
 ### Contexte
 
