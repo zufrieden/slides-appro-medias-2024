@@ -43,11 +43,11 @@ En suivant cette démarche, je pourrai tirer le meilleur parti des 36 heures dis
 
 ## 5 questions
 
-_1. Ai-je réussi à animer un objet en utilisant les principes fondamentaux de l'animation 3D dans Blender ?
+1. Ai-je réussi à animer un objet en utilisant les principes fondamentaux de l'animation 3D dans Blender ?
 2. Est-ce que je suis capable de créer des mouvements fluides et naturels dans mon animation ?
 3. Ma documentation me permet-elle de comprendre et de reproduire efficacement les différentes étapes de création d'une animation 3D dans Blender ?
 4. Est-ce que je peux expliquer les techniques et les outils que j'ai utilisés pour réaliser mon animation ?
-5. Ai-je une compréhension claire des principes de base de l'animation 3D, tels que la gestion des courbes d'animation et la manipulation des objets dans l'espace tridimensionnel ?_
+5. Ai-je une compréhension claire des principes de base de l'animation 3D, tels que la gestion des courbes d'animation et la manipulation des objets dans l'espace tridimensionnel ?
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
