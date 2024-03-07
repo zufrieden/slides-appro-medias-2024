@@ -58,7 +58,7 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
   ```sh
   npx create-next-app mon-projet-next
   ```
-  J'ai remplacé mon-projet-next par le nom de mon choix pour le projet. Une fois la création terminée, je me suis dirigé vers le répertoire de mon projet :
+  J'ai remplacé `mon-projet-next` par le nom de mon choix pour le projet. Une fois la création terminée, je me suis dirigé vers le répertoire de mon projet :
   ```sh
   cd mon-projet-next
   ```
@@ -71,9 +71,9 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
    ```sh
   npx tailwindcss init -p
   ```
-  Cela a généré deux fichiers de configuration à la racine de mon projet : tailwind.config.js et postcss.config.js.
+  Cela a généré deux fichiers de configuration à la racine de mon projet : `tailwind.config.js` et `postcss.config.js`.
 #### 3.  Configuration de Tailwind CSS pour Next.js
-  J'ai ouvert le fichier tailwind.config.js pour m'assurer qu'il était configuré pour purger correctement les fichiers CSS en production. Par défaut, la configuration devrait ressembler à cela :
+  J'ai ouvert le fichier `tailwind.config.js` pour m'assurer qu'il était configuré pour purger correctement les fichiers CSS en production. Par défaut, la configuration devrait ressembler à cela :
    ```sh
    module.exports = {
     content: [
@@ -87,8 +87,37 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
   }
   ```
 #### 4. Utilisation de Tailwind CSS dans mon projet
-  Pour utiliser Tailwind CSS, j'ai modifié le fichier ´./styles/globals.css´ pour inclure les directives de base de Tailwind :
+  Pour utiliser Tailwind CSS, j'ai modifié le fichier `./styles/globals.css` pour inclure les directives de base de Tailwind :
+  ```sh
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  ```
+#### 5. Installation de DaisyUI
+  Ensuite, j'ai installé DaisyUI, un plugin pour Tailwind CSS qui fournit de nombreux composants d'interface utilisateur :
+  ```sh
+  npm install daisyui
+  ```
 
+#### 6. Configuration de DaisyUI
+  J'ai ajouté DaisyUI à la liste des plugins dans mon fichier `tailwind.config.js` :
+  ```sh
+  module.exports = {
+    // ...
+    plugins: [require('daisyui')],
+  }
+  ```
+
+#### 7. Utilisation de DaisyUI dans mon projet
+  Avec DaisyUI configuré, j'ai pu commencer à utiliser ses composants dans mes fichiers TSX. Par exemple, j'ai créé une carte simple :
+  ```sh
+  <div className="card w-96 bg-base-100 shadow-xl">
+    <div className="card-body">
+      <h2 className="card-title">Hello, world!</h2>
+      <p>Ceci est un exemple de carte utilisant Tailwind CSS et DaisyUI.</p>
+    </div>
+  </div>
+  ```
 
 ### 2. Quelles sont les pratiques recommandées pour la gestion de l'état dans une application Next.js ?
 ### 3. Comment créer des composants réactifs avec Tailwind CSS et DaisyUI dans Next.js ?
