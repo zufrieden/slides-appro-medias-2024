@@ -43,8 +43,36 @@ Ma connaissance actuelle en Next.js et Tailwind CSS est basique, et je n'ai pas 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
 ## Réponses aux 5 questions
+### 1. Comment configurer un projet Next.js pour utiliser Tailwind CSS et DaisyUI ?
+Voici comment j'ai configuré mon projet Next.js pour utiliser Tailwind CSS et DaisyUI. Ce processus me permet d'accélérer le développement des interfaces utilisateurs de mes applications web.
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+> [!NOTE]
+> L'installation de base de Next.js offre la possibilité d'inclure Tailwind CSS directement (je ne l'ai pas inclus lors de ma première installation).
+
+**Prérequis**
+Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon système. C'est une étape essentielle car tous les outils que j'utilise sont basés sur Node.js.
+
+
+1. **Création de mon projet Next.js**
+J'ai commencé par créer un nouveau projet Next.js. Pour ce faire, j'ai ouvert mon terminal et exécuté la commande suivante :
+```sh
+npx create-next-app mon-projet-next
+```
+J'ai remplacé mon-projet-next par le nom de mon choix pour le projet. Une fois la création terminée, je me suis dirigé vers le répertoire de mon projet :
+```sh
+cd mon-projet-next
+```
+2. **Installation de Tailwind CSS**
+Pour intégrer Tailwind CSS dans mon projet, j'ai exécuté la commande suivante :
+```sh
+npm install -D tailwindcss postcss autoprefixer
+```
+
+### 2. Quelles sont les pratiques recommandées pour la gestion de l'état dans une application Next.js ?
+### 3. Comment créer des composants réactifs avec Tailwind CSS et DaisyUI dans Next.js ?
+### 4. Quelles stratégies adopter pour optimiser les performances d'une application Next.js ?
+### 5. Comment implémenter l'authentification et la protection des routes dans Next.js ?
+
 
 ## Investissement
 
