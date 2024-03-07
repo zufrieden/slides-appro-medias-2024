@@ -86,6 +86,8 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
     plugins: [],
   }
   ```
+#### 4. Utilisation de Tailwind CSS dans mon projet
+  Pour utiliser Tailwind CSS, j'ai modifié le fichier ´./styles/globals.css´ pour inclure les directives de base de Tailwind :
 
 
 ### 2. Quelles sont les pratiques recommandées pour la gestion de l'état dans une application Next.js ?
