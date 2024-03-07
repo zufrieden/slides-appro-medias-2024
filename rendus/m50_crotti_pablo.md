@@ -121,15 +121,39 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
 
 ### 2. Quelles sont les pratiques recommandées pour la gestion de l'état dans une application Next.js ?
 Gérer l'état dans une application Next.js est crucial pour créer une expérience utilisateur fluide et interactive. Voici les pratiques recommandées que j'utilise pour la gestion de l'état dans mon projet Next.js :
+
 #### 1. Utiliser le contexte React pour l'état global
   Pour les données qui doivent être accessibles à travers de nombreux composants, j'utilise l'API Context de React. Cela me permet de passer l'état global sans avoir à propager les props à travers chaque niveau de mon arbre de composants.
 - **Création d'un contexte :** Je crée un contexte pour stocker l'état global de mon application, tel que les préférences de l'utilisateur ou les données d'authentification.
 - **Fournisseur de contexte :** J'encapsule mon application ou les parties de celle-ci qui nécessitent un accès à l'état global dans un fournisseur de contexte.
-- **Utilisation de useContext :** Dans les composants qui ont besoin d'accéder à l'état global, j'utilise le hook useContext pour consommer le contexte sans avoir besoin de props intermédiaires.
+- **Utilisation de `useContext` :** Dans les composants qui ont besoin d'accéder à l'état global, j'utilise le hook useContext pour consommer le contexte sans avoir besoin de props intermédiaires.
+
+#### 2.  Utilisation de useState et useReducer pour l'état local
+  Pour l'état local qui concerne uniquement un composant ou ses enfants directs, j'utilise les hooks `useState` et `useReducer`.
+
+- **`useState` :** Parfait pour gérer des états simples comme des booléens, des chaînes ou des nombres.
+- **`useReducer` :** Mieux adapté pour gérer un état plus complexe ou interdépendant, car il offre plus de contrôle sur les transitions d'état.
+
+#### 3. Gestion de l'état du formulaire avec React Hook Form ou Formik
+  Pour les formulaires, j'opte pour des bibliothèques comme React Hook Form ou Formik. Elles simplifient la gestion de l'état des formulaires, la validation et la soumission, réduisant ainsi le code boilerplate et améliorant les performances.
+
+#### 4.  Gérer l'état de l'authentification avec NextAuth.js
+  Pour l'authentification et la gestion des sessions, j'utilise NextAuth.js. Cette bibliothèque s'intègre parfaitement à Next.js et offre des stratégies d'authentification prêtes à l'emploi avec peu de configuration.
+
+#### 5. Utiliser SWR ou React Query pour la gestion de l'état du serveur
+
+  Pour gérer l'état lié aux données asynchrones, comme le chargement des données d'une API, j'utilise SWR ou React Query. Ces bibliothèques me permettent de simplifier la gestion du cache, la revalidation des données et le refetching.
+
+- **SWR :** Particulièrement utile avec les APIs REST ou GraphQL, SWR gère automatiquement le caching, la revalidation et le loading.
+- **React Query :** Offre des fonctionnalités similaires à SWR mais avec une approche légèrement différente et plus de contrôles sur la gestion des requêtes et des états.
+
+#### 6. Optimiser les performances avec `useMemo` et `useCallback`
+  Pour éviter des rendus inutiles et optimiser les performances de mon application, j'utilise `useMemo` et `useCallback` lorsque je manipule des données coûteuses en termes de calculs ou que je passe des callbacks aux composants enfants.
 
 ### 3. Comment créer des composants réactifs avec Tailwind CSS et DaisyUI dans Next.js ?
 ### 4. Quelles stratégies adopter pour optimiser les performances d'une application Next.js ?
 ### 5. Comment implémenter l'authentification et la protection des routes dans Next.js ?
+
 
 
 ## Investissement
