@@ -123,9 +123,9 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
 Gérer l'état dans une application Next.js est crucial pour créer une expérience utilisateur fluide et interactive. Voici les pratiques recommandées que j'utilise pour la gestion de l'état dans mon projet Next.js :
 #### 1. Utiliser le contexte React pour l'état global
   Pour les données qui doivent être accessibles à travers de nombreux composants, j'utilise l'API Context de React. Cela me permet de passer l'état global sans avoir à propager les props à travers chaque niveau de mon arbre de composants.
-    - **Création d'un contexte :** Je crée un contexte pour stocker l'état global de mon application, tel que les préférences de l'utilisateur ou les données d'authentification.
-    - **Fournisseur de contexte :** J'encapsule mon application ou les parties de celle-ci qui nécessitent un accès à l'état global dans un fournisseur de contexte.
-    - **Utilisation de useContext :** Dans les composants qui ont besoin d'accéder à l'état global, j'utilise le hook useContext pour consommer le contexte sans avoir besoin de props intermédiaires.
+- **Création d'un contexte :** Je crée un contexte pour stocker l'état global de mon application, tel que les préférences de l'utilisateur ou les données d'authentification.
+- **Fournisseur de contexte :** J'encapsule mon application ou les parties de celle-ci qui nécessitent un accès à l'état global dans un fournisseur de contexte.
+- **Utilisation de useContext :** Dans les composants qui ont besoin d'accéder à l'état global, j'utilise le hook useContext pour consommer le contexte sans avoir besoin de props intermédiaires.
 
 ### 3. Comment créer des composants réactifs avec Tailwind CSS et DaisyUI dans Next.js ?
 ### 4. Quelles stratégies adopter pour optimiser les performances d'une application Next.js ?
