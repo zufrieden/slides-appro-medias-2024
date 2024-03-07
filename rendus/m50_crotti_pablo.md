@@ -67,6 +67,26 @@ Avant de commencer, j'ai vérifié que Node.js était bien installé sur mon sys
   ```sh
   npm install -D tailwindcss postcss autoprefixer
   ```
+  Puis, j'ai initialisé Tailwind CSS et PostCSS en exécutant :
+   ```sh
+  npx tailwindcss init -p
+  ```
+  Cela a généré deux fichiers de configuration à la racine de mon projet : tailwind.config.js et postcss.config.js.
+#### 3.  Configuration de Tailwind CSS pour Next.js
+  J'ai ouvert le fichier tailwind.config.js pour m'assurer qu'il était configuré pour purger correctement les fichiers CSS en production. Par défaut, la configuration devrait ressembler à cela :
+   ```sh
+   module.exports = {
+    content: [
+      "./pages/**/*.{js,ts,jsx,tsx}",
+      "./components/**/*.{js,ts,jsx,tsx}"
+    ],
+    theme: {
+      extend: {},
+    },
+    plugins: [],
+  }
+  ```
+
 
 ### 2. Quelles sont les pratiques recommandées pour la gestion de l'état dans une application Next.js ?
 ### 3. Comment créer des composants réactifs avec Tailwind CSS et DaisyUI dans Next.js ?
