@@ -38,3 +38,37 @@ Pour valider l'atteinte des objectifs fixés, plusieurs méthodes seront mises e
 3. Quels sont les besoins spécifiques des différents segments de clients de l'entreprise en termes d'accompagnement marketing?
 4. Quelle stratégie de co-marketing serait la plus pertinente pour répondre aux besoins des clients et renforcer la position de eSMART Technologies SA sur le marché?
 5. Quels sont les résultats de l'implémentation de la stratégie de co-marketing auprès d'un échantillon de clients, et quelle est son impact sur leur perception de l'entreprise?
+
+# RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
+
+## Retour sur l'état initial
+
+Mes attentes étaient centrées sur la nécessité d'élaborer une stratégie de co-marketing efficace pour eSMART Technologies SA, en m'alignement avec les tendances du marché immobilier et sur les besoins de nos clients cibles. J'était plutôt confiante dans ma vision de l'entreprise et de son environnement, en tant que responsable marketing, mais je reconnais également la nécessité d'approfondir mes compétences pour élaborer une stratégie innovante et qui marche. J'ai fixé des objectifs plutôt clairs pour analyser les tendances du marché, évaluer l'efficacité de l'accompagnement marketing actuel, définir une stratégie de co-marketing personnalisée, implémenter et tester cette stratégie, et enfin rédiger un rapport final présentant les conclusions et recommandations pour l'entreprise.
+
+## Réponses aux 5 questions
+
+1. **Quelles sont les tendances émergentes dans le marché de l'immobilier et de la PropTech, et comment peuvent-elles être exploitées dans une stratégie de co-marketing?**
+   Les tendances émergentes dans le marché immobilier incluent la demande croissante de solutions intelligentes et durables, et surtout numériques. On observe une préférence accrue pour les nouvelles constructions dans des écoquartiers durables, avec des plus en plus gros parcs immobiliers mixants les lots en PPE et locatifs. Les labels écoresponsables tels que Minergie sont devenus un réel attrait pour les projets immobiliers, témoignant de l'importance croissante de la durabilité pour les acheteurs et les investisseurs. Ces tendances offrent des opportunités pour eSMART Technologies SA de développer des partenariats avec des entreprises proposant des solutions complémentaires axées sur la durabilité et l'efficacité énergétique, renforçant ainsi sa proposition de valeur dans une stratégie de co-marketing.
+
+2. **Quelle est l'efficacité de l'accompagnement marketing actuel de eSMART Technologies SA selon les retours des clients?**
+   L'évaluation de l'efficacité de l'accompagnement marketing actuel a révélé que les clients reconnaissent la qualité des produits de eSMART. Cependant, ils ont exprimé le besoin d'un soutien plus personnalisé dans leur utilisation. À ce jour, eSMART Technologies offre comme accompagnement marketing des flyers promotionnels, des manuels d’utilisation, des articles sur les réalisations des clients publiés sur le site web, ainsi que des publications diverses sur les canaux de communication tels que LinkedIn. Les retours des clients soulignent l'importance d'améliorer la qualité du support client et de rendre les ressources de support plus accessibles.
+
+3. **Quels sont les besoins spécifiques des différents segments de clients de l'entreprise en termes d'accompagnement marketing?**
+  
+
+4. **Quelle stratégie de co-marketing serait la plus pertinente pour répondre aux besoins des clients et renforcer la position de eSMART Technologies SA sur le marché?**
+  
+
+5. **Quels sont les résultats de l'implémentation de la stratégie de co-marketing auprès d'un échantillon de clients, et quelle est son impact sur leur perception de l'entreprise?**
+
+## Investissement
+
+_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+
+## Réflexion sur la méthode d'auto-formation
+
+_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+
+## Conclusion
+
+_Quelles leçons avez-vous apprises et pourquoi ?_
