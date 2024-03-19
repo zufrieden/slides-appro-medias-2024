@@ -53,20 +53,47 @@ En suivant cette démarche, je pourrai tirer le meilleur parti des 36 heures dis
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L'écart entre mes attentes initiales, les objectifs fixés, et la réalité de cette auto-formation est considérable. Malgré mon enthousiasme initial pour l'animation 3D avec Blender, j'ai rapidement constaté que le logiciel était bien au-dessus de mon niveau de compétence actuel. Mon manque d'expérience dans le dessin et la perspective 3D a rendu la maîtrise de Blender particulièrement difficile.
+
+Après avoir suivi plusieurs tutoriels sur les bases de Blender ainsi que des tutoriels pour la conceptualisation d'objets plus avancés, j'ai réalisé que les objectifs que je m'étais fixés ne seraient pas atteints dans le délai escompté. Cependant, je refuse de me laisser décourager. Malgré les nombreuses heures passées à essayer de comprendre et d'utiliser Blender, j'ai finalement décidé qu'il serait plus judicieux de changer de stratégie et de me tourner vers l'animation 2D.
+
+J'ai donc entrepris de suivre les tutoriels de base proposés par Adobe Animate afin de comprendre les fondamentaux de ce logiciel. Après avoir assimilé ces concepts de base, j'ai exploré davantage mes connaissances en regardant des tutoriels sur YouTube. Bien que j'aie réussi à comprendre les animations de base, j'ai néanmoins identifié le dessin comme ma principale lacune. En effet, dans le domaine de l'animation, une maîtrise des bases du dessin est essentielle pour obtenir des résultats de qualité, ce qui constitue un défi pour moi étant donné mon niveau limité dans ce domaine.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Ai-je réussi à animer un objet en utilisant les principes fondamentaux de l'animation 3D dans Blender ? Je n'ai malheureusement pas réussi à animer un objet en utilisant les principes fondamentaux de l'animation 3D dans Blender, en raison de la complexité du logiciel et de mon manque de prérequis. 
+2. Est-ce que je suis capable de créer des mouvements fluides et naturels dans mon animation ? La création de mouvements fluides et naturels dans mon animation était également hors de ma portée, étant donné mon niveau d'expérience limité.
+3. Ma documentation me permet-elle de comprendre et de reproduire efficacement les différentes étapes de création d'une animation 3D dans Blender ? Ma documentation est effectivement bien préparée et organisée de manière à guider efficacement les différentes étapes de création d'une animation 3D dans Blender. Ainsi, une fois que j'aurai comblé mes lacunes en dessin et que j'aurai acquis des compétences solides en animation 2D, je serai en mesure de revenir à Blender et de reprendre là où je me suis arrêté.
+4. Est-ce que je peux expliquer les techniques et les outils que j'ai utilisés pour réaliser mon animation ? Effectivement, j'ai saisi le fonctionnement des outils que j'ai déjà utilisés dans Blender, mais je ne parviens pas encore à les exploiter pleinement. Toutefois, je comprends leur utilité. De plus, je suis en connaissance des raccourcis clavier qui permettent de gagner un temps considérable lors de la manipulation du logiciel.
+5. Ai-je une compréhension claire des principes de base de l'animation 3D, tels que la gestion des courbes d'animation et la manipulation des objets dans l'espace tridimensionnel ? Bien que j'aie acquis une certaine maîtrise dans la manipulation des objets dans l'espace tridimensionnel, mes connaissances restent encore limitées en ce qui concerne la gestion des courbes d'animation.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Mes 36 heures étaient initialement dédiées exclusivement à Blender. Cependant, au fur et à mesure de mes progrès, j'ai rapidement pris conscience que mes compétences actuelles ne me permettraient pas d'atteindre les objectifs fixés dans ce laps de temps. J'ai donc dû réévaluer mon approche et décider de me concentrer sur des outils plus accessibles pour moi.
+
+**Répartition des 36 heures :**
+
+| Rédaction de l’état initiale et des objectifs | 2h |
+| --- | --- |
+| Installation et lancement de Blender | 30min |
+| Tutos de démarrage et des outils Blender | 5h |
+| Exercices de base de Blender | 4h |
+| Création d’un personnage | 5h |
+| Ecriture documentation | 30min |
+| Installation et lancement de Animate | 30min |
+| Tutos de démarrage et des outils d’Animate | 3h |
+| Tutos personnage | 3h |
+| Exercices de base Animate | 5h |
+| Ecriture documentation | 2h |
+| Rédaction du rapport finale | 2h30 |
+
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+J'ai constaté que l’approche de l’auto-formation offre une grande flexibilité et autonomie dans l'apprentissage. On peut choisir le rythme qui nous convient le mieux, ainsi que les sujets spécifiques sur lesquels se concentrer. De plus, les ressources en ligne sont souvent gratuites ou peu coûteuses, ce qui rend l'auto-formation accessible. En tant qu'apprenant autonome, il peut être difficile de savoir par où commencer ou quelles ressources choisir, ce qui peut entraîner une perte de temps et d'énergie.
+
+Enfin, j'ai noté que l'auto-formation peut être limitée par le niveau de compétence initial de l'apprenant. Si les prérequis ne sont pas bien maîtrisés, il peut être difficile de progresser efficacement dans un domaine complexe. Cela souligne l'importance de connaître ses propres limites et de s'adapter en conséquence, comme je l'ai fait en réorientant mes efforts vers des outils plus accessibles pour moi. Mais c’est vrai que l'encadrement d'un enseignant peut nous aider à réaliser plus tôt que certaines étapes préliminaires doivent être priorisées avant d'aborder des aspects plus avancés.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+Cette expérience m'a enseigné l'importance de choisir des outils et des méthodes d'apprentissage adaptés à mon niveau de compétence actuel. Bien que mon exploration de Blender n'ait pas été couronnée de succès, elle m'a permis de mieux comprendre mes propres limites et de réorienter mes efforts vers des solutions plus appropriées, telles qu'Animate de Adobe pour l'animation 2D. De plus, je sais que pour progresser dans ce domaine, il faut que je me concentre aussi sur le dessin en général pour pouvoir bien comprendre le fonctionnement des animations. Je suis convaincue que cette expérience me servira de leçon précieuse dans mes futurs projets d'apprentissage et de développement professionnel. Bien que je ressente une certaine déception pour cette auto-formation, je suis fière de ne pas avoir abandonné et d'avoir réussi à rebondir sur un autre logiciel, même si celui-ci reste tout aussi complexe. Cette expérience me servira assurément de leçon précieuse dans mes futurs projets d'apprentissage et de développement professionnel.
