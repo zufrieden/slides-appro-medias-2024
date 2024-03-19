@@ -53,7 +53,7 @@ La mise en oeuvre de ce projet n'a pas été facile, il m'a fallu beaucoup d'aut
 
 J'ai donc encore un peu de temps pour le reste de mes objectifs que j'ai fixé jusqu'au début du travail de bachelor. 
 
-Bien que j'aie réussi à suivre quelques cours en ligne, le changement de plateforme - de Coursera à Codecademy - a entraîné un écart par rapport à mes attentes initiales. Initialement, j'avais prévu de suivre les cours sur Coursera, mais j'ai opté pour Codecademy, ce qui a modifié légèrement la structure des cours et l'approche pédagogique.
+Bien que j'aie réussi à suivre quelques cours en ligne, le changement de plateforme - de Coursera à [Codecademy]([url](https://www.codecademy.com/)) - a entraîné un écart par rapport à mes attentes initiales. Initialement, j'avais prévu de suivre les cours sur Coursera, mais j'ai opté pour Codecademy, ce qui a modifié légèrement la structure des cours et l'approche pédagogique.
 
 ## Réponses aux 5 questions
 
@@ -70,6 +70,7 @@ Bien que j'aie réussi à suivre quelques cours en ligne, le changement de plate
       exécuté.
     - Les boucles permettent d'exécuter un bloc d'instructions plusieurs fois. Les boucles les plus couramment utilisées sont for et while.
 3. En Python, une fonction est un bloc de code réutilisable qui effectue une tâche spécifique. Une méthode est similaire à une fonction, mais elle est définie à l'intérieur d'une    classe et est appelée sur une instance de cette classe. Par exemple :
+```
    # fonction
     def additionner(a, b):
     return a + b
@@ -81,11 +82,13 @@ Bien que j'aie réussi à suivre quelques cours en ligne, le changement de plate
 
     objet = MaClasse()
     resultat = objet.multiplier(3, 4)  # Appel de la méthode sur l'objet
-4. Une bibliothèque en Python est un ensemble de modules contenant des fonctions et des types de données prédéfinis. Pour l'importer dans un script, on utilise l'instruction        import. Des exemples de bibliothèques couramment utilisées sont :
+```
+
+5. Une bibliothèque en Python est un ensemble de modules contenant des fonctions et des types de données prédéfinis. Pour l'importer dans un script, on utilise l'instruction        import. Des exemples de bibliothèques couramment utilisées sont :
     - numpy pour le calcul numérique.
     - pandas pour la manipulation et l'analyse de données.
     - etc.
-5. Les gestionnaires de contexte en Python sont utilisés avec l'instruction with pour garantir l'exécution correcte des ressources. Un exemple d'utilisation est avec un fichier :
+6. Les gestionnaires de contexte en Python sont utilisés avec l'instruction with pour garantir l'exécution correcte des ressources. Un exemple d'utilisation est avec un fichier :
    with open('fichier.txt', 'r') as f:
    contenu = f.read()
 
