@@ -48,10 +48,56 @@ _Quelles étapes et comment allez-vous répartir l'investissement des 36h dispon
 ## Retour sur l'état initial
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Je suis assez contnet de mon autoforamtion, pour m'autoformer à ce sujet j'ai lu quelque livre assez globaux sur le marketing, la communcication et le seo. Je me demandais au début si je devais pas plutot suivre un cours assez précis sur le sujet sur udemy mais au final j'ai préferé lire des livres assez larges et devenir plus spéfique, peut-être suivre une formation udemy par la suite.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Quelles sont les meilleures pratiques pour optimiser le référencement d'un site web et comment peuvent-elles être appliquées spécifiquement à Medigam pour augmenter sa visibilité en ligne ?
+         **Recherche de mots-clés pertinents** :
+         - Identifier les mots-clés pertinents liés à l'industrie médicale, aux équipements médicaux et aux besoins des clients B2B.
+         - Utiliser des outils de recherche de mots-clés tels que Google Keyword Planner, SEMrush ou Ahrefs pour trouver des mots-clés à fort potentiel.
+      
+      **Optimisation du contenu** :
+         - Créer du contenu de qualité et informatif sur les produits médicaux, les guides d'utilisation, les comparaisons de produits, etc.
+         - Intégrer naturellement les mots-clés dans le contenu, mais éviter le bourrage de mots-clés.
+      
+      **Optimisation technique** :
+         - S'assurer que votre site est convivial pour les moteurs de recherche en utilisant une structure de site claire, des URL conviviales, une balise de titre et de méta-description pertinente pour chaque page.
+         - Améliorer la vitesse de chargement du site en optimisant les images, en utilisant la mise en cache et en réduisant les scripts inutiles.
+      
+      **Backlinks de qualité** :
+         - Obtenir des liens de qualité provenant de sites pertinents et autoritaires de l'industrie médicale. Cela peut être réalisé grâce à des collaborations avec des partenaires, des publications d'invités, etc.
+      
+      **Optimisation mobile** :
+         - S'assurer que votre site est entièrement responsive et offre une expérience utilisateur optimale sur les appareils mobiles, car de plus en plus de recherches sont effectuées sur ces appareils.
+      
+      **Utilisation des médias sociaux** :
+         - Partager du contenu pertinent sur les réseaux sociaux pour attirer l'attention et générer des liens vers votre site.
+         - Rejoindre des groupes ou des forums pertinents où les professionnels de la santé se rassemblent pour partager vos contenus et établir votre autorité.
+      
+      **Optimisation locale** :
+         - Inscrire votre entreprise sur Google My Business et d'autres annuaires locaux pertinents pour améliorer votre visibilité dans les recherches locales.
+      
+      **Suivi et analyse** :
+         - Utiliser des outils d'analyse comme Google Analytics pour suivre le trafic sur votre site, les comportements des utilisateurs et identifier les opportunités d'amélioration.
+      
+      Pour Medigam spécifiquement, vous pourriez appliquer ces conseils de la manière suivante :
+      
+      - Publier régulièrement du contenu informatif sur les produits médicaux et les dernières avancées dans le domaine médical sur votre blog.
+      - Créer des pages de produits optimisées avec des descriptions détaillées, des images de haute qualité et des avis clients.
+      - Partager des études de cas ou des témoignages de clients satisfaits pour renforcer votre crédibilité.
+      - Collaborer avec des influenceurs ou des experts de l'industrie médicale pour obtenir des backlinks de qualité.
+      - Utiliser les médias sociaux pour partager des informations utiles, des promotions spéciales et des mises à jour sur les produits.
+      - Organiser des webinaires ou des événements en ligne pour éduquer vos clients potentiels sur l'utilisation des équipements médicaux.
+      - Suivre attentivement les tendances du marché et adapter votre stratégie de référencement en conséquence pour rester compétitif.
+      
+
+
+
+
+2. Qelle sont les différentes technique de site building et laquelle serait la plus logique dans mon projet ?
+
+## Pourquoi WordPress pourrait être la meilleure option pour mon projet :
 
 ## Investissement
 
