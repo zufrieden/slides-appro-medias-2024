@@ -24,6 +24,13 @@ Opérationnelles: Mettre en place une automatisation administrative grâce à l'
 _Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
 
 ## 5 questions
+1. Quelles sont les meilleures pratiques pour optimiser le référencement d'un site web et comment peuvent-elles être appliquées spécifiquement à Medigam pour augmenter sa visibilité en ligne ?
+2. Qelle sont les différentes technique de site building et laquelle serait la plus logique dans mon projet ?
+3. Comment les différentes plateformes de médias sociaux peuvent-elles être utilisées de manière efficace pour promouvoir les produits de Medigam et interagir avec les clients potentiels ?
+4. Quels sont les indicateurs clés de performance (KPI) utilisés dans l'analyse des campagnes marketing numériques, et comment peuvent-ils être interprétés pour évaluer le succès des initiatives de Medigam ?
+5. Quelles sont les stratégies les plus efficaces pour surveiller en temps réel les performances d'un site e-commerce, et comment ces données peuvent-elles être utilisées pour ajuster les stratégies de marketing et d'optimisation de Medigam ?
+6. Comment peut-on évaluer l'impact des campagnes marketing mises en place pour Medigam et quelles sont les mesures à prendre pour améliorer continuellement leur efficacité ?
+
 ## Démarche pour répondre aux questions
 1. **Formation sur le développement web avancé et SEO/SEA**
    - Semaines 1-2: Formation sur le seo/sea actuel
