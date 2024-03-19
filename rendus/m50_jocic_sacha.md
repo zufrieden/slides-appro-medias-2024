@@ -183,12 +183,13 @@ Je suis assez contnet de mon autoforamtion, pour m'autoformer à ce sujet j'ai l
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Ayant lu 3 livre durant mes temps libre dans le train je pense avoir passé environs 10h par livre, avec quelque vidéo youtube a coté quand je ne comprenanais pas certains points, je pensais que ça allait me prendre bcp moins de temps pour lire un livre et je voulais en lire plus du plus certain livre parlaient de sujet assez similaire ce qui a créer de la redondonce dans mes acquis.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
-
-## Conclusion
+Alors je pense que l'autoformation à énormément de bienfait, on avance quand on veut et au rythme qu'on veut sans stress (sans les intéllos qui vont à 200 km/h ou les gens qui ont de la peine et qui vont à 3km/h). On peut se former plus spécifiquement à ce que l'on veut et quand on veux. Ayant pas mal d'expérience en formation autodidacte j'adore cela. Concernat la technique d'autoformation que j'ai effectué pour ce cours (lecture de 3 livres) elle m'a permis d'avoir un regard général, j'aurais aimé avoir plus de temps et ajouter une formation udemy à tout cela.
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
+Il n'est pas toujours facile de commencer à réviser en autodidacte car on va beaucoup procrastiner au début mais une fois qu'on ai lancer cela va très bien. 
+Ma technique pour ne pas avoir la flemme de commencer était de me dire que je devais lire minimum 5 minutes par trajet de train et au final une fois que c'est 5 minutes étaient finir le 90% du temps je continuais tout le trajet.
+Trouver ce que l'on veut apprendre et comment l'on veut l'apprendre m'as aussi pris pas mal de temps au début, j'ai l'impression d'avoir pris 1/3 de mon temps pour trouver quoi faire et avec quoi 
