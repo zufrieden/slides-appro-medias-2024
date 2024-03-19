@@ -89,9 +89,11 @@ Bien que j'aie réussi à suivre quelques cours en ligne, le changement de plate
     - pandas pour la manipulation et l'analyse de données.
     - etc.
 6. Les gestionnaires de contexte en Python sont utilisés avec l'instruction with pour garantir l'exécution correcte des ressources. Un exemple d'utilisation est avec un fichier :
+```
    with open('fichier.txt', 'r') as f:
    contenu = f.read()
 
+```
 ## Investissement
 
 Initialement, j'avais prévu de consacrer environ 3 à 4 heures par semaine à suivre des cours en ligne sur Coursera. Cependant, en optant pour Codecademy, j'ai fini par passer environ 2 heures par semaine sur la plateforme, en raison de sa méthodologie d'apprentissage différente. Bien que j'aie respecté le temps prévu pour écrire la documentation, j'ai passé moins de temps que prévu sur la création du script Python, l'utilisant plutôt pour renforcer mes connaissances à travers des exercices pratiques sur Codecademy.
