@@ -69,7 +69,7 @@ _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessai
 
 1.	Quels sont les principaux éléments de la gamification et comment peuvent-ils être appliqués aux programmes de fidélité ?
 
-La gamification comprend des éléments tels que les points, les badges, les niveaux, les récompenses, les défis, les classements, les échanges entre les utilisateurs et la personnalisation du profil. Ces éléments peuvent être intégrés dans les programmes de fidélité pour inciter les utilisateurs à s'engager davantage et à rester fidèles à l'application.
+La gamification comprend des éléments tels que les points, les badges, les niveaux, les récompenses, les défis, les classements, les échanges entre les utilisateurs et la personnalisation du profil (exemple: https://www.youtube.com/watch?v=yXrnCb57sZU). Ces éléments peuvent être intégrés dans les programmes de fidélité pour inciter les utilisateurs à s'engager davantage et à rester fidèles à l'application.
 
 2.	Quelles sont les différences entre les programmes de fidélité traditionnels et les programmes de fidélité gamifiés en termes d'engagement des utilisateurs ?
 
@@ -102,3 +102,5 @@ L'auto-formation m'a permis de progresser de manière significative dans la comp
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
+
+Cette expérience d'auto-formation m'a permis d'acquérir une compréhension approfondie de la manière dont la gamification peut améliorer l'engagement des utilisateurs sur une application mobile à travers des programmes de fidélité. J'ai appris à concevoir et à intégrer des mécanismes de jeu dans de tels programmes, ainsi qu'à évaluer leur impact sur l'engagement et la fidélité des utilisateurs. Bien que j’ai pu rencontrer des défis en cours de route, cette expérience m'a permis de développer des compétences précieuses dans le domaine de l'UX design et de la fidélisation des utilisateurs. Pour mon travail de bachlor, cela me permettra de directement mettre en pratique pendant ma pré-étude en allant encore plus loin dans le domaine de la gamification dans un programme de fidélité.
