@@ -91,6 +91,7 @@ J’ai constaté lors de cette auto-formation que j’ai sous-estimé la charge 
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
 
+
 Cette expérience m'a permis de comprendre l'importance de la planification et de l'organisation dans une auto-formation. J'ai également réalisé l'importance de rester flexible et adaptable face aux imprévus. Et finalement, j'ai acquis de nouvelles compétences dans la recherche, l'analyse et la sélection d'outils d'IA, ce qui m’aidera énormément pour mon travail de bachelor.
 
 
