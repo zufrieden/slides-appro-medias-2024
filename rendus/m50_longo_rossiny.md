@@ -61,6 +61,8 @@ _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nou
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+Lorsque j'ai commencé cette auto-formation, mes attentes étaient de comprendre en profondeur les principes de la gamification et comment je pourrai l’ appliquer dans un programme de fidélité, comment concevoir un programme de fidélité gamifié, d'expliquer comment la gamification peut apporter une autre dimension à un programme de fidélité, d'évaluer l'impact potentiel de la gamification sur l'engagement et la fidélité des utilisateurs, et enfin, de réaliser une ébauche de conception de programme de fidélité gamifié. Mes objectifs étaient formulés de manière SMART et j'avais prévu une répartition du temps sur 36 heures pour atteindre ces objectifs.
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
