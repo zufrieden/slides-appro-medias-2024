@@ -39,6 +39,10 @@ Comment sécuriser les données utilisateur traitées par le chatbot ?
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+Au début de cette auto-formation, j'étais quelque peu préoccupé par la complexité des Natural Language Understanding (NLU) et de LUIS, craignant que leur maîtrise ne soit hors de ma portée. Toutefois, grâce à la lecture approfondie d'articles et à des discussions éclairantes avec M. Hess(mon mentor), j'ai réalisé que l'élément crucial dans le maniement de ces technologies réside dans la compréhension et la gestion efficace des bases de données disponibles. 
+
+De plus, bien que j'aie initialement pensé que LUIS était la seule option viable pour mes besoins, mes recherches m'ont ouvert à un éventail plus large de possibilités, notamment à des solutions open source comme Rasa. Cette découverte a non seulement élargi mon éventail d'outils disponibles mais a également enrichi ma compréhension des différentes manières d'aborder le traitement du langage naturel dans le cadre de projets d'auto-formation.
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
