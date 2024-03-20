@@ -97,6 +97,8 @@ J'ai investi un total de 36 heures dans cette auto-formation, réparties comme p
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+L'auto-formation m'a permis de progresser de manière significative dans la compréhension et l'application de la gamification dans les programmes de fidélité. Cependant, j'ai également rencontré des défis, notamment dans l'acquisition de compétences techniques spécifiques et dans la conception d'un programme de fidélité gamifié de manière efficace. L'avantage principal de l'auto-formation est dans la flexibilité et la liberté de pouvoir travailler à son propre rythme, mais cela nécessite également une discipline et une bonne organisation pour atteindre les objectifs fixés pour ne pas s’éparpiller.
+
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
