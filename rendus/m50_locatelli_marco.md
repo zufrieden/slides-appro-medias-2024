@@ -61,18 +61,36 @@ Quels sont les outils d’IA qui sont les plus adaptés pour une stratégie de c
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+Dans un premier temps, je m'attendais à consacrer du temps à la recherche et à l'analyse des outils d'IA spécifiques à la communication. Mes objectifs étaient clairs : identifier et évaluer les meilleurs outils, en me basant sur des critères précis comme la facilité d'utilisation et les fonctionnalités. Cependant, la réalité de cette auto-formation n’a pas été la même par rapport à mes attentes initiales. En effet, je m’attendais à trouver rapidement des outils et les utiliser facilement pour en retirer des infos importantes mais ça ne s’est pas passé exactement comme ça. La recherche était longue et beaucoup de ces outils étaient payants ce qui a compliqué ma recherche. Mais j’ai quand même réussi à m’en sortir et en retirer des bénéfices.
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+
+1.	Comment être efficace dans ses recherches d’outils IA ? Il est essentiel de définir des critères de recherche précis en fonction des besoins spécifiques en communication. Utiliser des ressources en ligne, consulter des publications académiques et des témoignages d'experts peuvent guider efficacement la recherche. Je me suis aussi renseigné auprès de mes proches pour savoir s’ils connaissaient quelques outils et grâce à mes collègues surtout, j’ai pu trouver des bons outils et des bon tips.
+2.	Quelle marche-à-suivre adopter pour tester et évaluer tous les outils de la même manière ? Établir un protocole d'évaluation qui inclue des critères comme la performance, les fonctionnalités à disposition et la pertinence pour les objectifs de communication. Il est également important de prendre des notes détaillées pour comparer les résultats de manière équitable. Même si pas tous les outils s’utilisaient de la même manière, j’ai réussi à les comparer plus ou moins avec la même grille d’évaluation.
+3.	À l’aide de quels critères choisissez-vous un outil plutôt qu’un autre ? Les critères de sélection doivent être alignés avec les objectifs de communication, tels que la capacité à générer du contenu pertinent, à analyser les données ou à interagir avec le public cible. Il est aussi important de se baser sur la fiabilité, la sécurité et le coût de chaque outil.
+4.	Comment utiliser les outils sélectionnés ? Une fois les outils sélectionnés, je me suis tout d’abord familiarisé avec ces derniers. J’ai parcouru chaque fonctionnalité et ai essayé d’en ressortir les points positifs et négatifs. L’analyse des outils n’était pas compliquée mais le test des outils en revanche oui, car beaucoup de ces dernières étaient payants, donc j’ai dû renoncer à certains outils.
+5.	Quels sont les outils d’IA qui sont les plus adaptés pour une stratégie de communication ? .
+Suite à mes recherches voici le site qui en est ressorti le plus utile et performant selon moi. Il s’agit ai.enigma.swiss qui est un site ou l’on peut créer notre stratégie de communication et qui nous donne des outils tels que des outils pour la publicité, tout ce qui est lié au neuromarketing, le story telling, la stratégie en général, le contenu marketing, le SEO, etc. Un outil très varié et très enrichissant qui peut permettre de créer une stratégie marketing. Certes il ne permettra pas de créer une stratégie de A à Z, mais il aide énormément.
+
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+De base, j'avais prévu de consacrer environ 4 à 5 heures à la recherche, 25 heures à la phase de test et d'analyse, et le reste du temps à la sélection des meilleurs outils. Cependant, j'ai constaté que la phase de recherche a pris plus de temps que prévu en raison du nombre de ressources en ligne et de publications académiques. Par conséquent, j'ai dû ajuster mon emploi du temps pour m'assurer de consacrer suffisamment de temps à chaque étape du processus.
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+J’ai constaté lors de cette auto-formation que j’ai sous-estimé la charge de travail et pensait que la recherche des outils n’allait pas prendre trop de temps et que les outils pouvaient être utilisés de manière libre et lors de cette formation j’ai constaté plusieurs freins comme le coût des logiciels et la difficulté à trouver des outils spécifiques à ma recherche. En ce qui concerne l’évaluation des outils, il n’a pas été facile de juger ces derniers sachant que chacun avait des fonctionnalités différentes. Au final, je pense que ma méthode était assez bien car j’ai pu comparer chaque outil selon des critères spécifiques.
+
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
+
+Cette expérience m'a permis de comprendre l'importance de la planification et de l'organisation dans une auto-formation. J'ai également réalisé l'importance de rester flexible et adaptable face aux imprévus. Et finalement, j'ai acquis de nouvelles compétences dans la recherche, l'analyse et la sélection d'outils d'IA, ce qui m’aidera énormément pour mon travail de bachelor.
+
+
