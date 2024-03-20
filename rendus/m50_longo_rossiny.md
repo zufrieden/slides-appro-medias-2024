@@ -91,6 +91,8 @@ Les défis potentiels incluent la conception de mécanismes de jeu pertinents et
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+J'ai investi un total de 36 heures dans cette auto-formation, réparties comme prévu dans les différentes étapes mentionnées précédemment. Cependant, j'ai constaté que j'ai dû consacrer plus de temps que prévu à certaines étapes, notamment dans le développement des compétences techniques nécessaires et dans la conception du programme de fidélité gamifié. Cela impliquait non seulement de comprendre comme mettre en œuvre les mécanismes de jeu, mais aussi de schématiser les intégrations de manière cohérente pour l'expérience utilisateur globale de l'application mobile. Cela a nécessité une réflexion approfondie sur la manière de rendre l'expérience ludique tout en restant pertinente et attrayante pour les utilisateurs ciblés.
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
