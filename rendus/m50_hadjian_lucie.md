@@ -88,13 +88,13 @@ Avantage: Offre un contrôle complet sur le budget, les enchères et les paramè
 
 Désavantage: Nécessite un investissement financier pour diffuser des annonces
 
-1. **Comment choisir l'outil de marketing numérique le plus approprié en fonction des objectifs de sa campagne ?**
+2. **Comment choisir l'outil de marketing numérique le plus approprié en fonction des objectifs de sa campagne ?**
 
 Afin de déterminer les outils marketing à utiliser pour une campagne, il est essentiel dans un premier temps d’établir les objectifs SMART de cette dernière ainsi que de connaître son public cible. Ainsi il sera possible d’évaluer les divers canaux sur lesquels il est pertinent de réaliser du contenu publicitaire. Une fois cela réalisé, il y aura un travail de recherche nécessaire afin de connaître les outils pertinents à utiliser selon le canal de diffusion choisi. 
 
 Il est par la suite essentiel de comprendre le fonctionnement du tarif, mais également comment fonctionne l’/les outil(s) sélectionnés, y’a t’il divers type de formats et si tel est le cas quels sont leur spécificités. Ainsi, il sera possible d’établir la meilleure manière d’atteindre les objectifs de la campagne. 
 
-1. **Quels sont les principaux indicateurs de performance à suivre pour évaluer l'efficacité d'une campagne numérique ?**
+3. **Quels sont les principaux indicateurs de performance à suivre pour évaluer l'efficacité d'une campagne numérique ?**
 
 Il existe de nombreux indicateurs de performance qui eux aussi sont à définir avant de se lancer dans le lancement de la campagne. J’ai décidé d’en étudier quelques uns afin de les connaître et de réaliser un choix judicieux lorsque je devrai choisir les plus appropriés à la campagne en lien avec mon travail de bachelor. 
 
@@ -116,11 +116,11 @@ Taux de conversion= ( Nombre total de visiteurs/Nombre de conversions)×100%
 
 - **Positionnement dans les moteurs de recherche** : Pour les campagnes de référencement (SEO), il est important de suivre les positions de vos mots-clés dans les résultats de recherche afin de mesurer l'impact de votre stratégie de référencement.
 
-1. Comment définir un budget à allouer à un outil de marketing numérique en fonction de ses objectifs?
+4. Comment définir un budget à allouer à un outil de marketing numérique en fonction de ses objectifs?
 
 Le budget à allouer dépend de plusieurs facteurs, notamment la taille de l’entreprise, l’audience qu’elle souhaite cibler, ses objectifs et d’autres éléments indépendants de chaque cas. Il n’y a pas réellement de budget type, cependant, il est possible de réadapter le budget initial au cours de l’utilisation des outils marketing. Si la campagne YouTube Ads fonctionne bien par exemple, il est possible d’ajouter plus de budget afin de promouvoir d’avantage la publicité. Une flexibilité est alors à prendre en compte. 
 
-1. **De quelle manière la publicité vidéo peut elle être mise en avant grâce aux outils de marketing numérique?**  
+5. **De quelle manière la publicité vidéo peut elle être mise en avant grâce aux outils de marketing numérique?**  
 
 Il y a plusieurs outils destiné à la publicité vidéo, le premier d’entre eux que j’ai exploré c’est YouTube Ads. Cela fait partie de l’outil Google Ads, son fonctionnement est alors similaire. L’idée c’est de promouvoir du contenu sur la plateforme YouTube considéré comme étant le deuxième plus grand réseau social avec 2,5 milliard d’utilisateurs en 2023. Cela peut être un bon moyen moyen et la diffusion se fait sous diverses formes, je les ai explorées.
 
