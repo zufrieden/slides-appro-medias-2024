@@ -84,7 +84,33 @@ k         **Recherche de mots-clés pertinents** :
       
 
 
+# Qelle sont les différentes technique de site building et laquelle serait la plus logique dans mon projet ?
 
+## Construction de site statique :
+
+Les sites statiques sont généralement construits à l'aide de HTML, CSS et parfois un peu de JavaScript.
+Ils sont rapides à charger car ils ne nécessitent pas de traitement côté serveur à chaque requête.
+Les générateurs de sites statiques populaires incluent Jekyll, Hugo et Gatsby.
+
+## Construction de site dynamique avec un CMS :
+
+Utilisation d'un système de gestion de contenu (CMS) comme WordPress, Joomla, Drupal, etc.
+Permet une gestion facile du contenu via une interface conviviale.
+Offre une grande variété de thèmes et de plugins pour étendre les fonctionnalités du site.
+Maintien facile pour des non informaticien
+
+## Développement d'applications web :
+Utilisation de frameworks web comme Django (Python), Ruby on Rails (Ruby), Laravel (PHP), etc.
+Convient pour les sites web nécessitant des fonctionnalités complexes, une interactivité élevée et des bases de données robustes.
+Offre un contrôle total sur le développement du site.
+
+## Construction de site avec des générateurs de site statique basés sur JavaScript :
+Utilisation de frameworks tels que React, Vue.js, Angular, etc., pour la construction de sites web dynamiques.
+Convient pour les applications web nécessitant une interactivité élevée et des mises à jour en temps réel.
+Les générateurs de sites statiques basés sur JavaScript incluent Next.js, Nuxt.js, etc.
+
+## Mon choix
+J'ai choisis d'utiliser le cms wordpres couplé a woocommerce étant donnée que cette méthode va être la plus rapide, étant dans un premier temps un méthode nous évitons d'écrire beaucoup de code, celle ci est beaucoup plus rapide et pour un site qui n'a pas besoin d'être super originale comme celui que je dois construire cette dernière est parfaite. Elle serra également facilement maintenable par l'entreprise une fois que je l'aurais quitté.
 
 
 
@@ -157,6 +183,24 @@ k         **Recherche de mots-clés pertinents** :
 
 4. **Analyse Comparative :** Comparer les performances des campagnes actuelles avec celles des campagnes précédentes ou avec celles de concurrents pour identifier les tendances et les opportunités d'amélioration.
 
+
+
+
+# Surveiller en temps réel les performances d'un site e-commerce et ajuster les stratégies :
+
+## Stratégies de surveillance en temps réel :
+
+1. **Analyse du trafic en temps réel** :
+   - Utiliser des outils d'analyse du trafic comme Google Analytics pour surveiller le nombre de visiteurs, leur provenance et leur comportement.
+
+2. **Surveillance des performances du serveur** :
+   - Utiliser des outils pour surveiller la disponibilité du site, les temps de chargement et les erreurs de serveur.
+
+3. **Suivi des ventes et des conversions** :
+   - Configurer des tableaux de bord pour suivre les ventes et les taux de conversion en temps réel.
+
+4. **Analyse du comportement des utilisateurs** :
+   - Utiliser des outils d'enregistrement de session pour suivre le comportement des utilisateurs et repérer les obstacles à la conversion.
 
 
 
