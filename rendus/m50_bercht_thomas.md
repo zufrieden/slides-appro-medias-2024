@@ -75,19 +75,70 @@ Mon parcours en ingénierie des médias m’a déjà permis de concevoir plusieu
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Mes attentes étaient relativement précises au départ. J'avais depuis longtemps cette envie de me former sur les points que j'ai listés. Je ressentais souvent, dans certains projets que je fais ou lorsque je regarde des vidéos sur le thème de l'UI/UX, que je manquais de compétences sur ces points. Maintenant, j'estime que mes objectifs ont été atteints à 80%. Dans la réalité, je me suis surtout rendu compte que j'ai besoin d'un projet réel pour affiner mes compétences acquises. Je me suis également rendu compte que les plugins sur Figma étaient bien plus utiles que je ne le pensais.
+
+Malgré mes 80% d'objectifs atteints, la conception avancée sur Figma prend du temps et demande davantage de pratique que je n'en ai avec ce cours. En résumé, le bilan réel de cette autoformation est satisfaisant, car j'ai le sentiment d'avoir atteint mes objectifs et d'avoir progressé. Toutefois, cela m'a fait prendre conscience de la puissance d'un outil comme Figma et de tous les facteurs qui déterminent une bonne interface.
+
+
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. **Quelle est l'importance de l'organisation des composants dans Figma et comment cette organisation influence-t-elle l'efficacité du travail en équipe sur un projet de conception web ?**
+L'organisation des composants, c'est comme le rangement d'une caisse à outils. Si chaque outil est a sa place, on perd moins de temps à chercher et on travaille plus efficacement. Donc sur Figma, bien organiser les composants aide l'équipe à :
+     - Trouver rapidement ce dont elle a besoin, comme dans une bibliothèque de manga bien rangée.
+     - Assurer la cohérence du design, évitant les variations inutiles.
+     - Travailler de manière plus fluide
+     - Assurer une interface propre et intuitive (utilisation de titres par exemple)
+
+2. **Quelles informations spécifiques un designer doit-il fournir dans Figma pour assurer une transition fluide du design aux développeurs ?**
+Pour que nos développeurs préférés puissent développer le design facilement, ils ont besoin :
+     - Des spécifications précises (tailles, couleurs, typographies), comme un manuel d'instructions. 
+     - Des détails sur les interactions et animations, expliquant comment les éléments réagissent.
+     - Des assets exportables prêts à l'emploi, comme un kit d'assemblage déjà tout prêt
+     - Au délà de ces besoins, il y a aussi un besoin de discussion. Mon interview a prouvé qu'il faut échanger, se parler. Il ne s'agit pas de faire chacun son travail dans son coin.
+
+3. **Quelles sont les étapes (en résumé) pour créer une animation avec des variables différentes dans un prototype Figma ?**
+
+Pour illustrer, prenons l'exemple d'une animation de bouton qui change de couleur et grandit lorsqu'on passe la souris dessus :
+   1. Commencez par dessiner le bouton dans son état normal. Disons un bouton bleu de taille standard.
+   2. Copiez le bouton et modifiez cette copie pour refléter l'état après animation. Par exemple, changez la couleur en vert et augmentez légèrement la taille.
+   3. Cliquez sur l'icône "Prototype" dans Figma pour passer en mode prototype.
+   4. Sélectionnez votre bouton original, puis, dans le panneau de droite sous "Prototype", choisissez "On Hover" comme déclencheur. Cela signifie que l'animation se déclenchera lorsque le curseur passera sur le bouton.
+   5. Glissez le nœud de connexion (petit cercle) du bouton original vers le bouton modifié pour indiquer que vous voulez passer de l'état normal à l'état animé.
+   6. Toujours dans le panneau "Prototype", choisissez le type d'animation (par exemple, "Ease In" pour un effet doux) et la durée (comme 0,3 seconde pour que ce soit rapide mais visible).
+   7. Utilisez le mode présentation (le petit triangle de lecture en haut à droite) pour voir votre animation en action. Vous devriez voir le bouton changer de couleur et grandir lorsque vous passez la souris dessus.
+   8. C'est fait !
+
+4. **Peux-tu nommer 3 raccourcis clavier dans Figma qui augmentent la productivité de la conception et qui, selon toi, sont peu connus des utilisateurs basiques de Figma ?**
+   - **Maj + G :** Afficher ou non les colonnes pour faire les alignements (gain de temps!)
+   - **Ctrl + R :** Permet de renommer la frame ou l'objet séléctionner (bonne pratique!)
+   - **Ctrl + K :** Permet de redimensionner n'importe quel object en gardant les proportions (le temps que je perdais avant de l'avoir celui-là...)
+
+5. **Quelles sont les bonnes pratiques en termes de nommage des pages et des éléments pour bien organiser les différentes frames ?**
+   - Utilisez des noms qui décrivent clairement l'élément ou la page, comme "Accueil_Bouton_Principal".
+   - Oorganiser les documents et les pages par sujet, cela facilite la navigation et la compréhension, aussi l'équipe de travail.
+
+
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Clairement, ma gestion du temps était mauvaise. D’ailleurs, c’est récurrent dans mes projets. Je n’arrive pas à estimer le temps. D’ailleurs, je ne comprends pas les gens qui y arrivent. C’est tellement difficile d’estimer le temps que je fais rarement les choses de manière isolée. Je suis très vite distrait, même si c’est par de bonnes distractions. Par exemple, si je suis un tutoriel sur les composants dans Figma et que je vois des commentaires qui parlent d’un plug-in complémentaire, je vais d’abord aller lire le commentaire et ouvrir le lien plutôt que de finir la vidéo et faire une chose après l’autre.
+
+Sur les 36h à disposition, j’en ai calculé 20h passées à m’autoformer, en prenant en compte le temps passé pour les rendus, pour la théorie et la présence en classe. Je pense avoir respecté mes 36 heures.
+
+Le gros point noir dans ma réalisation, c’était plutôt la méthode d’autoformation. Ça m’est arrivé plusieurs fois de suivre un guide ou un tutoriel seulement jusqu’à la moitié car je pensais trouver une source plus pertinente, pour après parfois ne rien trouver, et revenir à la source initiale. Je me suis un peu perdu dans mon autoformation et je me rends compte que j’étais trop désorganisé dans ma méthode. À l’avenir, je passerai davantage de temps à étudier ma méthode et les sources d’enseignement utilisées. Je pense qu’1h de plus passée à étudier les sources de formation, c’est 2h de gagnées lors de l’utilisation de la méthode réellement.
+
+
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation, notamment sur des outils comme Figma, offre une bonne flexibilité et permet d'apprendre à son rythme. Cela dit, elle demande une vraie autodiscipline et peut parfois laisser un sentiment de solitude, sans interaction directe avec des formateurs ou des camarades. Par exemple, en apprenant à utiliser les prototypes interactifs sur Figma, j'ai fait face à pas mal de bugs avec mes essais, un processus enrichissant certes, mais parfois lent et sans feedback. En résumé, bien que l'auto-formation ouvre de vastes choix d'apprentissage, car il y a beaucoup de formations disponibles, de plein de manières différentes, elle exige de la motivation et une gestion rigoureuse de son temps d'apprentissage. Je pense que mon profil et ma personnalité manque un peu de cette discipline.
+
+Par exemple, lors de l'apprentissage de l'auto layout sur Figma, j'ai ressenti à la fois la satisfaction de l'autonomie et la frustration liée à l'absence de feedback direct, ce qui a rallongé le processus d'apprentissage. Je manquais aussi de trouver la bonne information sur des détails spécifiques. Un enseignant aurait vraiment été un gain de temps parfois. 
+
+En résumé, l'auto-formation offre une opportunité de personnaliser son apprentissage pour construire la formation "parfaite" pour soi à terme. Mais elle nécessite une gestion proactive de sa formation pour surmonter les défis.
+
+
 
 ## Conclusion
 
