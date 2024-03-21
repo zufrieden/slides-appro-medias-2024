@@ -111,16 +111,13 @@ Les désavantages :
 - Si l'on utilise un modèle, il est difficile de le personnaliser à sa guise comme le changer par exemple
 - Dépendant vis-à-vis des mises à jour de Wix
 
-5. Est-ce que l'hébergement d'un site web Wix peut être réalisé de manière externe à la plateforme, par exemple à l'aide d'Infomaniak ?
-   Si oui, comment cela fonctionne ?
-   Wix propose d'héberger son site web sur une autre plateforme, cette option est accessible directement via le mode création de son site web.
-   Son fonctionnement est simple, il permet de l'exporter sur une autre plateforme. Néanmoins, cela comporte quelques inconvénients, tels que des fonctionnalités 
+4. Est-ce que l'hébergement d'un site web Wix peut être réalisé de manière externe à la plateforme, par exemple à l'aide d'Infomaniak ?
+Si oui, comment cela fonctionne ?
+Wix propose d'héberger son site web sur une autre plateforme, cette option est accessible directement via le mode création de son site web.
+Son fonctionnement est simple, il permet de l'exporter sur une autre plateforme. Néanmoins, cela comporte quelques inconvénients, tels que des fonctionnalités 
 qui ne seront pas transférées ou la dégradation du design du site web.
-   
-   Si non, que propose la plateforme Wix comme alternative ?
-   ...
 
-7. Est-ce que Wix propose des outils d'analyse pour les performances et l'optimisation du site web ?
+5. Est-ce que Wix propose des outils d'analyse pour les performances et l'optimisation du site web ?
 Oui, Wix propose des outils d'analyse pour les performances et l'optimisation du site web.
 
 Voici la liste des outils :
@@ -128,17 +125,42 @@ Wix Analytics : permet d'obtenir des données détaillées sur le trafic du site
 SEO Wiz : permet d'optimiser leur site pour les moteurs de recherche (SEO)
 Wix Heatmaps : permet d'obtenir des cartes de chaleur de Wix sur les zones de d'un site web où les visiteurs interagissent le plus
 
-Au-delà de ces outils directement disponibles sur Wix, il est possible par exemple d'intégrer des outils d'analyse tierce comme Google Analytics.
+Au-delà de ces outils directement disponibles sur Wix, il est possible, par exemple, d'intégrer des outils d'analyse tierce comme Google Analytics.
 
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+Tout d'abord, j'ai réussi à respecter plus ou moins les 36 heures qui étaient liées à ce cours, avec quelques modifications en cours de route.
+Au départ, mes heures de travail étaient organisées de cette manière là : 6h de documentation, 10h de vidéo, 16h de création du site web et 4h de rapport. 
+Au final, mon temps passé sur ce cours a été relativement différent, comme s'en suit : 5h de documentation, 8h de vidéo, 20h de création du site web et 3h de rédaction du rapport. 
+
+J'ai finalement passé plus de temps dans la création du site web, car je souhaitais tester plusieurs variantes et explorer au maximum l'outil afin de le reprendre en main avant mon travail de Bachelor. De plus, les objectifs que j'avais listés ne m'ont pas pris autant de temps que je le pensais, hormis l'objectif sur les performances du site où je n'ai pas réussi à l'atteindre. Les vidéos tutorielles disponibles sur youtube m'ont fait gagner un temps précieux dans l'apprentissage de l'outil, pour atteindre mes objectifs il me fallait parfois qu'une seule vidéo pour obtenir le résultat que j'attendais. Cela m'a donc permis d'utiliser mes heures de disponible pour explorer davantage Wix et ses fonctionnalités.
+
+Je me suis aidé d'un rapide journal de bord, qui m'a permis de suivre mon avancement tout au long de ce cours. De plus, cela m'a également aidé à éviter de dépasser les 36 heures allouées, afin de me retrouver dans une situation de "course contre la montre" et cela m'a motivé à explorer au maximum les fonctionnalités sur Wix.
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+J'ai pu constaté autant d'avantages que d'inconvénients.
+
+Premièrement, la liste des avantages de l'auto-formation :
+- Autonomie dans son travail
+- Pouvoir gérer son temps de travail de manière flexible
+- Avoir la possibilité de revenir sur de la matière rapidement grâce aux vidéos, difficile dans un cours magistral
+
+Deuxièmement, la liste des inconvénients de l'auto-formation :
+- Difficulté à se lancer dans le travail, la prograstination était plus présente que durant les heures de cours magistral
+- Devoir chercher toutes les informations et la documentation nécessaires par soi-même et non pas via une présentation donnée régulièrement pendant un cours
+- Parfois difficile d'organiser son travail
+
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
+Tout d'abord, j'ai appris que se fixer uniquement des objectifs n'était pas suffisant. Il m'arrivait à de nombreuses reprises de ne pas travailler, de perdre du temps à reprendre là où j'en étais dans mon projet et à procrastiner. J'ai donc décidé de me fixer des sous-objectifs pour chaque session de travail afin de mieux exploiter les heures allouées à ce cours.
+
+Ensuite, l'auto-formation est une nouvelle méthode de travail pour moi. J'avais l'habitude d'avoir un cours qui présentait les éléments théoriques avec des exemples concrets et pratiques. Cette fois-ci, plonger seul dans l'apprentissage représente un tout autre fonctionnement. Il faut être capable par soi-même, dans mon cas, de comprendre les bases de Wix, les fonctionnalités avancées et surtout documenter tout cela pour ne pas l'oublier avant le début du travail de Bachelor.
+
+Finalement, j'ai eu l'impression d'apprendre davantage de choses grâce à l'auto-formation. Puisque j'ai pu suivre mon propre rythme tout au long de cette expérience, cela signifie que je pouvais prendre plus de temps pour maîtriser une fonctionnalité et parfois même sauter des chapitres qui me semblaient évidents. Ainsi, j'ai constamment pu adapter mes heures d'apprentissage sans être limité par un plan de cours clairement défini.
