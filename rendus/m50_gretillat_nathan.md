@@ -74,20 +74,16 @@ Finalement, je reprendrai le document précédemment éditer pour le mettre à j
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
-
 Le fait d'avoir choisi un sujet en lien avec mon Ikigaï m'a permis d'être motivé et a renforcé mon implication dans l'exercice. Tout comme mes connaissances théoriques et pratiques en WordPress qui ont constitué une base solide pour démarrer l'auto-formation. Elles m'ont permis de comprendre rapidement les concepts.
 
 ### En revanche...
-**Gestion du temps** : Le planning initial était optimiste. La complexité de certaines tâches et la nécessité de tester différentes solutions ont conduit à un dépassement du temps imparti pour certaines étapes.
+1. **Gestion du temps :** Le planning initial était optimiste. La complexité de certaines tâches et la nécessité de tester différentes solutions ont conduit à un dépassement du temps imparti pour certaines étapes
 
-**Choix des technologies :** La sélection des plugins et autres technologies a été un challenge. Il a fallu du temps pour identifier des solutions compatibles avec WordPress et répondant aux besoins spécifiques du projet.
+2. **Choix des technologies :** La sélection des plugins et autres technologies a été un challenge. Il a fallu du temps pour identifier des solutions compatibles avec WordPress et répondant aux besoins spécifiques du projet
 
-**Validation des idées par l'entreprise :** La confrontation de mes recherches et idées avec le mandant a été essentielle pour garantir l'adéquation avec ses attentes et les ressources de l'entreprise. Cependant, j'aurais pu organiser des contrôles plus fréquents pour limiter les ajustements en fin de parcours.
+3. **Validation des idées par l'entreprise :** La confrontation de mes recherches et idées avec le mandant a été essentielle pour garantir l'adéquation avec ses attentes et les ressources de l'entreprise. Cependant, j'aurais pu organiser des contrôles plus fréquents pour limiter les ajustements en fin de parcours
 
 ## Réponses aux 5 questions
-
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
 ### 1. Quelles sont les principales tendances actuelles en matière de vente de produits locaux ?
 
@@ -112,7 +108,7 @@ _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessai
 
 ### 4. Quelles métriques et indicateurs clés de performance (KPIs) sont à utiliser pour mesurer l'impact des actions mises en place ?
 
-- Nombre de visiteurs uniques, pages vues, durée moyenne des visites, taux de clic, taux de conversion, nombre de partages sur les réseaux sociaux, nombre d'utilisation des codes promos, nombre de nouveaux inscrits à la newsletter, provenance du trafic, chiffre d'affaires, panier moyen, etc.
+Nombre de visiteurs uniques, pages vues, durée moyenne des visites, taux de clic, taux de conversion, nombre de partages sur les réseaux sociaux, nombre d'utilisation des codes promos, nombre de nouveaux inscrits à la newsletter, provenance du trafic, chiffre d'affaires, panier moyen, etc.
 
 ### 5. Quelles sont les meilleures pratiques pour créer une expérience utilisateur optimale sur un site e-commerce ?
 
@@ -124,8 +120,6 @@ _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessai
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
-
 J'ai passé 44h pour ce projet au lieu de 38h comme initialement prévu :
 
 - Recherche et veille : 18h au lieu de 15h (nécessité d'explorer plus d'options pour les technologies)
@@ -136,17 +130,15 @@ J'ai passé 44h pour ce projet au lieu de 38h comme initialement prévu :
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+### L'auto-formation m'a permis
 
-- L'auto-formation m'a permis de gérer mon temps de manière autonome et d'adapter mon apprentissage à mon rythme
-- La nécessité de rechercher et d'évaluer les informations de manière indépendante a renforcé mon sens critique
-- J'ai approfondi mes connaissances en e-commerce, en marketing digital et avec l'utilisation de WordPress
+- De gérer mon temps de manière autonome et d'adapter mon apprentissage à mon rythme
+- De comprendre la nécessité de rechercher et d'évaluer les informations de manière indépendante a renforcé mon sens critique
+- D'approfondir mes connaissances en e-commerce, en marketing digital et sur l'utilisation de WordPress
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-
-Grâce à cette auto-formation j'ai appris :
+### Grâce à cette auto-formation j'ai appris...
 
 - L'importance d'une planification réaliste : Il faut prévoir une marge de manœuvre pour s'adapter aux imprévus
 - La nécessité d'un apprentissage continu : Il est important de maintenir une veille continue pour rester à jour sur les dernières tendances et technologies émergentes
