@@ -62,15 +62,69 @@ _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-form
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+Suite à l'étude réalisée dans le cadre de ce cours, j'ai réalisé que l'outil le plus adapté à ce que je voulais faire était A-Frame et non ThreeJs. La courbe d'apprentissaage d'Aframe étant moin intense que celle de ThreeJs, j'ai opté pour ce framework en vu du temps imparti. Ce choix m'a permis d'augmenter ma productivité grâce à l'abastraction de haut niveau. 
+
+### Q1 Quels avantages spécifiques Spline offre-t-il par rapport à d'autres outils pour créer des animations 3D, et comment peut-on intégrer des animations réalisées avec Spline dans une application web utilisant ThreeJS ?
+Spline se distingue par sa convivialité et son interface intuitive, offrant aux utilisateurs un processus de création et d'animations 3D simplifié. De plus, Spline facilite l'intégration des créations sur différentes plateformes comme webflow ou wordpress ainsi que différent framework come ThreeJs ou React grâce à son outil d'exportation intégré. 
+
+Pour intégrer une création modélisée avec Spline dans une application web utilisant Three.js, il suffit soit, de l'exporter l'animation dans un format compatible avec Three.js, comme glTF ou JSON, ou de simplement utiliser l'outil d'exportation intégré. 
+
+En plus de cela, Spline Spline reçoit également régulièrement des mises à jours de fonctionnalités, comme récemment l'intégration de spline à L'Apple Vision Pro. 
+
+### Q2 Pouvez-vous décrire les étapes essentielles pour créer une scène 3D de base avec Aframe ? Cela inclut la mise en place d'une caméra, l'ajout d'éclairage, ainsi que la création et l'ajout d'objets géométriques dans la scène.
+Pour créer une scène 3D de base avec A-Frame, il faut commencer par inclure la bibliothèque A-Frame dans le document HTML. Ensuite, une balise `<a-scene>` est créée pour définir la scène 3D. À l'intérieur de cette balise, une caméra peut être ajoutée en utilisant la balise `<a-entity>` avec l'attribut `camera`. Par exemple : `<a-entity camera position="0 1.6 0" look-controls></a-entity>`. Cela ajoutera une caméra à la position avec des contrôles de regard pour l'utilisateur.
+
+Ensuite, pour éclairer la scène, des éléments de lumière peuvent être ajoutés. Par exemple, une lumière ambiante peut être ajoutée avec `<a-entity light="type: ambient; color: #BBB"></a-entity>`, ou une lumière directionnelle avec `<a-entity light="type: directional; color: #FFF; intensity: 0.5" position="-1 1 0"></a-entity>`. Ces éléments ajoutent respectivement une lumière ambiante et une lumière directionnelle à la scène.
+
+Enfin, pour ajouter des objets géométriques dans a scène, des éléments géométriques peuvent être intégrés en utilisant des balises `<a-entity>` avec des composants géométriques tels que `geometry` et `material`. Par exemple, pour ajouter un cube, vous pouvez utiliser `<a-entity geometry="primitive: box" material="color: #FF0000"></a-entity>`, ce qui ajoutera un cube rouge par défaut à la scène. Vous pouvez également ajuster la position, la rotation et l'échelle des objets en utilisant les attributs correspondants. En combinant ces étapes, vous pouvez rapidement créer une scène 3D de base avec A-Frame, comprenant une caméra, de l'éclairage et des objets géométriques.
+
+### Q3 Expliquez le concept de géométrie et de matériaux dans le contexte de la modélisation 3D avec Aframe. Comment pouvez-vous appliquer des textures et des couleurs aux objets dans une scène 3D, et quels paramètres pouvez-vous ajuster pour modifier l'apparence visuelle d'un objet ?
+En modélisation 3D avec A-Frame, la géométrie se réfère à la forme et à la structure des objets dans la scène. La géométrie d'un objet peut être définie par des paramètres tels que la taille, la position, la rotation et la forme. D'autre part, les matériaux déterminent l'apparence visuelle des objets dans la scène, y compris leur couleur, leur texture et leurs propriétés de réflexion ou de brillance. A-Frame permet d'appliquer des matériaux aux objets à l'aide du composant `material`. Par exemple, pour appliquer une couleur rouge à un objet, on peut utiliser `material="color: #FF0000"`, et pour appliquer une texture, on peut utiliser `material="src: url(mon_image.png)"`.
+
+Lors de mon projet d'apprantissage, je réalisais simplement la modélisation avec Blender et exportait en format GLB (glTF avec des données binaires). Blender offre une gamme de fonctionnalités pour créer des textures, appliquer des matériaux et ajuster les propriétés visuelles des objets. Une fois la création exportée, il était très facile de l'importer sur Aframe et de l'utiliser à des fins de développement à condition que le mesh n'ait pas trop de triangles. 
+
+### Q4 Quelles sont les principales techniques d'animation disponibles dans Aframe, et comment pouvez-vous les utiliser pour créer des animations interactives ? Pouvez-vous donner un exemple concret d'une animation simple, comme le déplacement le long d'un trajet prédéfini ou la rotation autour d'un axe spécifique ?
+Dans A-Frame, la principale techniques d'animation comprend l'utilisation du composant `animation` pour animer les propriétés des entités, telles que la position, la rotation, l'échelle et les composants de matériaux. Ces animations peuvent être utilisées pour créer des effets visuels dynamiques et interactifs dans une scène 3D.
+
+Dans l'exemple fourni, il s'agit d'un glaçage qui tombe du ciel sur un gâteau, la fonction `animateIcing` utilise le composant `animation` pour animer la position de du grlaçage. Le glaçage est déplacé d'une position initiale à une position spécifique dans la scène, avec une durée d'animation et une fonction d'accélération définies.
+
+```
+        function animateIcing(icing, cake) {
+            //set visible to true 
+            icing.setAttribute('visible', true);
+            icing.setAttribute('animation', {
+                property: 'position',
+                to: { 
+                    x: 1.508, 
+                    y: 1.212, 
+                    z: 0.656 },
+                easing: 'easeInQuad', // Easing function for acceleration
+                dur: 300 // Duration of the animation in milliseconds
+            });
+
+```
+
+Pour créer d'autres types d'animations interactives, il est possible d'utiliser des événements, des fonctions JavaScript et des composants A-Frame tels que `animation`, `cursor`, `event`, `keyboard`, etc. Par exemple, on peut déclencher une animation de rotation lorsque l'utilisateur clique sur un objet, ou faire rebondir un objet lorsqu'il entre en collision avec un autre. Les possibilités sont vastes et dépendent de vos besoins spécifiques et de votre créativité dans la programmation des interactions.
+
+### Q5 Comment pouvez-vous détecter et gérer les interactions utilisateur dans une scène 3D avec Aframe ? Pourriez-vous expliquer succinctement comment implémenter des fonctionnalités telles que le clic sur un objet pour déclencher une action ou le survol d'un objet pour afficher des informations supplémentaires ?
+Pour détecter et gérer les interactions utilisateur dans une scène 3D avec A-Frame, on peut utiliser le composant `event-listener` intégré. Par exemple, pour permettre aux utilisateurs de cliquer sur un objet et déclencher une action, on ajoute le composant `event-listener` à l'objet et l'événement `click`, en lui associant une fonction JavaScript à exécuter lorsque l'événement se produit. Par exemple, on peut définir une fonction `maFonction` qui change la couleur de l'objet lorsqu'il est cliqué. De même, pour gérer le survol d'un objet pour afficher des informations supplémentaires, on peut utiliser l'événement `mouseenter` pour détecter lorsque le curseur de la souris survole l'objet et déclencher une action correspondante, comme l'affichage d'un texte d'information. En bref, c'est comme du javascript vanilla. 
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+Au début, j'avais des craintes quant au timing serré et à ma capacité à apprendre la modélisation 3D pour le web en si peu de temps. Cependant, contrairement à mes attentes initiales, j'ai en fait estimé avoir appris plus que prévu, ce qui est probablement dû à ma décision d'utiliser A-Frame plutôt que Three.js. Cette approche m'a permis de m'adapter plus rapidement au framework et d'accélérer mon processus d'apprentissage. En conséquence, j'ai passé un peu moins de temps que prévu à m'habituer à ce nouvel environnement de développement.
+
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+En ce qui concerne ma méthode d'autoformation, j'ai entièrement appris grâce à des ressources en ligne telles que des tutoriels sur YouTube, la documentation officielle d'A-Frame et des articles disponibles sur Internet. Personnellement, je trouve que c'est une méthode efficace, j'ai toujours appris de cette manière et cela m'a toujours convenu (en ce qui concerne mes projets personnels). J'apprécie le rythme d'apprentissage plus lent mais plus approfondi, qui me permet de bien assimiler les concepts et de les appliquer de manière pratique.
+
+En réfléchissant aux avantages et aux inconvénients de l'auto-formation, j'ai constaté que l'un des principaux avantages est la flexibilité offerte par cette approche. Je peux apprendre à mon propre rythme, en fonction de mes disponibilités et de mes besoins spécifiques. Cependant, cela nécessite également une discipline personnelle pour rester motivé et organisé dans mes efforts d'apprentissage.
 
 ## Conclusion
+Cette auto-formation m'a permis de plonger dans le monde fascinant de la modélisation 3D pour le web, en explorant des outils tels qu'A-Frame et en acquérant des compétences pratiques dans la création d'animations interactives. 
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+J'ai appris à définir des objectifs clairs, à planifier mon temps de manière efficace et à m'adapter aux défis rencontrés en cours de route. 
+En ce qui concerne l'autoformation, je n'ai pas appris grand-chose de nouveau, étant donné que je pratiquais déjà énormément cette méthode. C'est ainsi que j'ai acquis des compétences en React, en modélisation 3D, et bien d'autres domaines.
+
+Cette expérience m'a permis de renforcer mes compétences dans un domaine technique pertinent pour mon travail de Bachelor, tout en développant des compétences en gestion du temps et en auto-formation. Je suis convaincu que ces apprentissages seront précieux dans ma future carrière professionnelle et que je pourrai les appliquer avec succès dans mes projets à venir.
