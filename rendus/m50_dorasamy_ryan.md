@@ -103,6 +103,18 @@ Google Calendar me semble être la meilleur option pour laquelle opter car il es
 ### -Est-ce que j'arrive à faire des requête vers l'api et à fetch des informations ?
 Grâce à la documentation google workspace, j’ai réussi à enregistrer un nouveau rendez-vous ainsi qu’ajouter en description un nom et le type de coiffure qu’il aimerait réaliser. Cependant je n’ai pas réussi à vérifier si une tranche horaire était occupée ou non. Je suis resté bloqué assez longtemps sur cette dernière action et ai essayé de réussir sans aller sur des forums mais uniquement de la documentation.
 
+### -Une des méthodes de recherche est-elle viable pour tester une maquette web ?
+Deux méthodes identifiées peuvent être utilisée pour demander aux utilisateurs de classer différentes fonctionnalités ou éléments du site. Ils faudra cependant commencer par un test utilisateur afin qu’ils puissent effectuer diverses tâches sur le site puis seulement ensuite leur demander de trier ces éléments.
+
+#### Tri des cartes
+Trier différentes manière d’utilisation d’une même fonctionnalité en fonction de ce qui est simple à accomplir pour le client à ce qui l’est moins.
+
+Par exemple : prototyper diverses manière de choisir les filtres dans la boutique puis les faire classer du plus intuitif au moins intuitif.
+
+#### Start, stop, continue
+Cette méthode peut être adaptée de manière à savoir si les clients estiment qu’une partie du site est assez compréhensible et peut donc arrêter d’être développée/améliorée (stop). À l’inverse, si un objectif est compliqué à être atteint il y a trop d’éléments complexe/pas clair et peut être amélioré (continue). Si une partie importante pour le client n’a pas été identifiée (start).
+
+
 
 ## Investissement
 
