@@ -53,6 +53,13 @@ _1) Comment créer et utiliser efficacement des composants intelligents dans Fig
 ## Retour sur l'état initial
 
 _En revenant sur mon état initial, je constate que mes attentes étaient élevées mais réalistes quant aux avantages que je pourrais tirer de l'approfondissement de Figma pour mon Travail de Bachelor. Mes objectifs étaient clairs et alignés avec les exigences de mon TB, visant à maîtriser les fonctionnalités avancées de Figma et à améliorer ma capacité à collaborer efficacement avec d'autres membres de mon équipe. En regardant les premières vidéos, j'ai également constaté que j'ai très vite été plus loin avec l'animation sur Figma. Bien que cette fonctionnalité présente ses limites, elle reste très intéressante et ouvre de nombreuses possibilités créatives. J'ai été fasciné par la manière dont on peut utiliser l'animation pour donner vie aux maquettes et améliorer l'expérience utilisateur. Cependant, j'ai aussi reconnu que l'animation sur Figma a ses propres contraintes et ne peut pas toujours répondre à tous les besoins en matière d'animation complexe. Malgré ces limites, j'ai été motivé à explorer davantage cette fonctionnalité et à découvrir comment l'intégrer de manière efficace dans mes projets de conception. Néanmoins, en dépit de ces découvertes stimulantes, j'ai également rencontré des défis techniques qui ont parfois ralenti ma progression. Mais grâce à ma persévérance et à ma détermination à atteindre mes objectifs, j'ai pu surmonter ces obstacles. Dans l'ensemble, je suis satisfait de mes progrès jusqu'à présent, mais je reconnais également qu'il me reste encore du chemin à parcourir pour atteindre pleinement mes objectifs d'apprentissage._
+_Certains liens intéressants de vidéos explicatives sur Figma : _
+_- https://www.youtube.com/watch?v=P8O78APM17c&ab_channel=Shmeltstudios_
+_- https://www.youtube.com/watch?v=pwlr0vTpRRE&ab_channel=PierrickChevallier%7CPromptAlchemists_
+_- https://www.youtube.com/watch?v=CzhTa6g1bJs&ab_channel=TheCacato%C3%A8sTheory_
+_- https://www.youtube.com/watch?v=8vhhc0J-Mtw&ab_channel=JesseShowalter_
+_- https://www.youtube.com/watch?v=ajfKecCyNOs&ab_channel=Ridd_
+
 
 ## Réponses aux 5 questions
 
@@ -66,9 +73,9 @@ _Une autre caractéristique remarquable des composants intelligents est la capac
 
 Enfin, les composants intelligents peuvent inclure des interactions et des animations, ajoutant ainsi une dimension interactive à mes maquettes et prototypes. Un composant de menu déroulant peut être conçu pour s'ouvrir et se fermer de manière fluide en réponse aux actions de l'utilisateur, offrant ainsi une expérience utilisateur plus dynamique et engageante._
 
-_Les youtubers que j'ai suivi pour ce projet :
- - JessUIdesign ( https://www.youtube.com/@JessUIdesign )
- - mickadoule ( https://www.youtube.com/@mickadoule )_
+_Les youtubers que j'ai suivi pour ce projet :_
+ _- JessUIdesign ( https://www.youtube.com/@JessUIdesign )_
+ _- mickadoule ( https://www.youtube.com/@mickadoule )_
 
 _Quelques vidéos étudiées :_
  _- https://www.youtube.com/watch?v=hYBd0tTs70Q&ab_channel=DesignWithArash_
