@@ -81,8 +81,8 @@ Malgré ses nombreux avantages, la digitalisation représente un défi, car il e
 - **Meilleure image de marque** : L’utilisation des réseaux sociaux et d’autres canaux digitaux donne l’opportunité de partager les valeurs, les initiatives ou les nouveautés d’une entreprise, ce qui contribue à créer une image positive et engageante.
 - **Collaboration et partage de travail instantané** : Les technologies de cloud computing (exemple : Google Cloud, Azure) permettent de travailler conjointement sur des documents et des projets en temps réel, éliminant le besoin d’être en présentiel et améliorer l’efficacité du travail d’équipe
 - **Gestion optimisée** : Les systèmes de gestion intégrés fournissent une vue d'ensemble en temps réel des opérations, de la gestion des stocks à la logistique, permettant une prise de décision rapide qui améliore la performance opérationnelle.
-- **Réduction des coûts** : L’automatisation de certains processus au sein de l’entreprise et l’apport de solutions numériques inédites peuvent réduire considérablement des coûts opérationnels
-- **Analyse de données** : La récolte de données offre des perspectives intéressantes afin d’optimiser les ventes d’un produit ou améliorer la stratégie marketing ou mieux cerner son public-cible avec des études de marché ou d’autres outils numériques.
+- **Réduction des coûts** : L’automatisation de certains processus au sein de l’entreprise et l’apport de solutions numériques inédites peuvent réduire considérablement des coûts opérationnels.
+- **Analyse de données** : La récolte de données offre des perspectives intéressantes afin d’optimiser les ventes d’un produit, améliorer la stratégie marketing ou dnhtgmieux cerner son public-cible avec des études de marché ou d’autres outils numériques.
 - **Développement de compétences** : La digitalisation force les employés à apprendre et développer de nouvelles compétences en technologie qui pourraient être mises à contribution au sein de l’entreprise.
 - **Durabilité** : En réduisant la consommation de papier et en optimisant certains processus, la digitalisation réduit l’empreinte écologique des entreprises
 
