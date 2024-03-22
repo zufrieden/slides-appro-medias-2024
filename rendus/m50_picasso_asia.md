@@ -42,20 +42,50 @@ Il est aussi question de trouver une solution pour gérer l’état général du
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+J’ai apprécié ce projet. Il m’a permis de mettre un pied dans mon TB, un projet que j’ai hâte de faire. J’ai pu avancer à mon rythme, ce qui est très motivant. 
+
+Néanmoins, j’ai réalisé que dès que j’ai eu des semaines remplies, il a été difficile pour moi d’avancer sur le site. Pendant le Crunch Time, je n’ai pas écrit une ligne ou ne serait-ce qu’ouvert le projet. J’ai tellement fait la journée que le soir en rentrant, je dormais juste, j’ai donc pris du retard sur mes objectifs.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Suis-je capable de faire un schéma simple expliquant l’architecture de mon projet ?
+
+   (J’ai modifié la question parce que par écrit elle n’avait pas trop de sens je trouve. On explique pas trop une tel structure à un enfant de 10 ans)
+
+   ![](https://github.com/asiapicasso/slides-appro-medias-2024/src/ecommerce-structure-schema-with-medusa-and-nextjs.png)
+
+
+2. Est-ce que mon site permet-il d’acheter un produit ?
+
+   Oui
+
+
+3. Est-ce que mon site permet-il d’ajouter un produit si nous en avons les droits ?
+
+   Oui
+
+
+4. Ai-je construit un projet qui est extensible à la grandeur de l’entreprise de mon TB ?
+
+   J’ai encore à le déploier et comprendre comment gérer l’état du showroom, mais sinon ce projet est la base parfaite pour mon Travail de Bachelor.
+
+
+5. Puis-je mettre en pause la vente dans mon site déployé ?
+
+   Ce point est encore à explorer, hors cours, mais je pense avoir la réponse avant le début du TB.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J’ai pris un peu plus de temps que prévu pour la création des pages, le temps de me familiariser avec l’outil. Après, j’ai surtout pris du retard sur le cours et je n’ai pas eu le temps de me documenter sur la possibilité de gérer l’état du site/showroom (ouvert ou fermé). J’ai vu, au début de ma veille, que l’outil permettait de le faire, mais je n’ai pas eu le temps d’approfondir le sujet.
+
+Sinon, je suis satisfaite de mon avancée. Je viens de remarquer que je n’ai pas alloué de temps pour le déploiement de mon site web, pour le premier rendu. Je l’ai ajouté en bonus afin de remplir entièrement mes objectifs initiaux.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+J’ai pu avancer à mon rythme. Cela m’a permis de rester tout au long motivé.
+
+En revanche, je pense que c’est une méthode d’enseignement qui ne fonctionne pas en hybride. C’est tout ou rien. Dès qu’on a eu des cours de 8h30 à 16h30, pour moi, il a été impossible de rentrer le soir et d’ajouter du temps de travail à notre horaire fixe.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+Je suis capable de programmer. Je suis capable de faire un projet de programmation en autodidacte. Je souhaite explorer cette piste pour la suite de ma carrière maintenant que je suis plus confiante sur cet aspect.
