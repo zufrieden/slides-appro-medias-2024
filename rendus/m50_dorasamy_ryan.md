@@ -60,7 +60,46 @@ J’ai aussi pu observer que les articles regorgent d’informations plus import
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+-Quels sont les avantages et désavantages des agenda/calendrier en ligne ?
+### Google Calendar
+Avantages :
++ Gratuit
++ Interface simple et intuitive
++ Confirmation mail via Gmail
++ Annuler rendez-vous en ligne via Gmail
++ Envoi de rappels possible
++ Ajout description possible
+Désavantages :
+- Impossible de supprimer plusieurs rendez-vous en une seule fois
+- L’interface de la version code d’intégré fait très vieillot
+  
+### Calendly
+Avantages :
++ Visuellement attractif
++ Mails automatiques
++ Extensions pour navigateurs
+Désavantages :
+- Faible personnalisation
+- App mobile assez limitée
+- Ne pas pouvoir modifier une réservation, forcé de la supprimé et d’en faire une nouvelle
+
+### Square Appointments
+Avantages :
++ Paiement sur la plateforme possible
++ Notifications personnalisable par téléphone et mail.
++ Programme fidélité client
++ Bonne personnalisation UI
+Désavantages :
+- Payant
+
+-Lequel est le plus adapté à ma problématique ?
+Un point auquel je n’avais pas pensé était que ma cliente doit pouvoir ajouter manuellement des rendez-vous de la part de ses clients qui continueront de l’appeler. J’ai donc veillé à ce qu’elle puisse effectuer cette tâche rapidement sur téléphone et sur ordinateur.
+
+Google Calendar me semble être la meilleur option pour laquelle opter car il est très simple et rapide d’ajouter manuellement des rendez-vous. Il propose également une très bonne documentation à l’écrit et en vidéo. Comme il est très connu, il y a beaucoup de personnes qui l’utilisent et qui partagent leur expérience et leurs problèmes par rapport à cet outil sur le web. Cela pourrait fortement m’aider lorsque je devrai me confronter à des problèmes et erreurs.
+
+-Est-ce que j'arrive à faire des requête vers l'api et à fetch des informations ?
+Grâce à la documentation google workspace, j’ai réussi à enregistrer un nouveau rendez-vous ainsi qu’ajouter en description un nom et le type de coiffure qu’il aimerait réaliser. Cependant je n’ai pas réussi à vérifier si une tranche horaire était occupée ou non. Je suis resté bloqué assez longtemps sur cette dernière action et ai essayé de réussir sans aller sur des forums mais uniquement de la documentation.
+
 
 ## Investissement
 
