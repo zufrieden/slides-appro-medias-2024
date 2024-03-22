@@ -56,20 +56,74 @@ Heure 30-36 : Remplir le rapport final.
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Quand j'ai commencé à lire sur mon sujet, je pensais trouver des articles relativement précis sur les IA, les entreprises qui les utilisent et des nouveaux produits à venir.
+
+Or chaque article présentait des points de vue très différents sur le domaine. Certains plus axés sur le domaine de l'ingénierie, d'autres sur des applications qui venaient de sortir ou dès qu'on cherchait à voir ce qui viendrait dans les mois à venir, c'est extrêment vague et il est difficile de s'y fier.
+
+Pour ce qui est de l'auto-formation, je pense que j'ai encore beaucoup à apprendre, car j'ai de la peine à avoir de la discipline là-dedans.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. 
+Les LLM ont des caractéistiques assez variés, allant de leur taille des données, le nombre de paramètres, leur accessibilité via API ou non etc... Le calcul de leur coût varie également.
+
+Si on prend un modèle comme GPT-4, il sera capable de gérer une grande quantité de données et d'information, là où un modèle comme Llama fera peut-être plus d'erreur mais peut-être installer en local et coûtera moins cher.
+
+D'après ce que je lis en ligne, Claude 3 serait un peu plus décevant que ce que j'ai eu de retours de collègues qui ont pu le tester.
+
+2. 
+Il est assez complexe d'avoir les idées claires sur l'année à venir sur les avancées des IA, car celle-ci touche énormément de domaine. Ce que l'on est sûr c'est qu'il ne devrait pas tarder à y avoir des régulations. Si on ne prend que l'Union Européenne, l'AI Act ne devrait pas tarder à être approuver par les 27 dans un à trois mois.
+
+Dans les autres avancées à venir, les IA embarquées devrait voir des améliorations. En effet plusieurs secteurs y voit un avantage d'avenir que ce soit dans des fonctionalités pour nos smartphone, pour des secteurs comme celle de la défense dans le contexte de la guerre en Ukraine et pour la récolte d'information en direct via des drones.
+
+Là où les grandes boîtes possèdent les algorithmes et la puissance de calcul, nous pouvons facilement imaginer les petites entreprises tirer leur épingle du jeu en détournant leur utilisation dans des produits innovants dans des secteurs variés dans lesquelles les GAFAM ou d'autres boîtes ne souhaitent pas forcément se mêler, comme celui cité de la défense, dans des applications pour smartphone ou dans des solutions qui serait plus de niche.
+
+En soit, cela n'a rien de nouveau, mais aucun changement semble se profiler pour les plus petites entreprises dans les mois à venir.
+
+3.
+Les startup et d'autres petites boîtes dans le secteur de l'IA connaissent des limites en terme de calcul et dans la qualité des données qu'elles possèdent. Cela les empêche de concurrencer les grandes entreprises. Pour faire face à cela, elles utilisent des plateformes d'IA-as-a-Service qui leur permettent contre rémunération de profiter de ces ressources.
+
+Nous pourrions également voir apparaître des partenariats avec des institutions académiques et d'autres entreprises offrant un accès à des données et à des ressources de recherche partagées.
+
+En outre, l'exploitation de modèles d'IA open source et pré-entraînés aiderait à réduire les coûts de développement et à accélérer le déploiement de solutions. Les startups se concentrent également sur l'optimisation des modèles pour réduire les besoins en calcul et en stockage, tout en se spécialisant dans des niches spécifiques pour offrir une valeur ajoutée unique.
+
+Ces stratégies permettent aux startups de l'IA de tirer parti de leurs atouts, malgré les défis posés par les limitations techniques et physiques.
+
+4.
+
+On trouve dans les acteurs trois grands pilliers :
+
+ - Les startup qui cherche à apporter des innovations.
+ - Les GAFAM qui financent les startup et finissent par les absorber.
+ - L'État qui financent une partie de la recherche et qui établissent la régulation.
+
+La compétition semble rester entre startup et entre GAFAM, néanmoins cela crée un environnement propre qui permet un développement rapide de nouvelles technologies. On voit également beaucoup de transfert de connaissances et une adaptation aux changements du marché.
+
+5.
+
+Pour les 6 prochains, nous risquons de voir l'arrivée de nouvelles solutions d'IA générative, comme Sora pour la vidéo.
+
+Nous verrons aussi le développement de nouvelle solution de Small Language Models afin de permettre aux IA de tourner sur nos téléphones, comme pour le Galaxy S24 Ultra ou sur d'autres appareils. Cela permettra de rendre les solutions IA plus abordable en terme de coûts pour les entreprises et il pourrait se développer des solutions d'IA adapté à des tâches très précises.
+
+Enfin, nous pouvons attendre des avancées d'IA sur différents aspects, comme le divertissement, la santé et le gain de productivité. Néanmoins, il est difficile de faire une liste précise ou de prédir quel outil aura du succès.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Je pensais passer beaucoup de temps dans ce projet, mais au final, j'ai lu pas mal quand j'ai partagé mon projet, puis un peu chaque semaine pour lire des news sur les IA.
+
+Au final, je n'ai pas chronométré mon temps de travail, mais j'ai dû passer environ entre 20 et 25 heures à lire ou à regarder des vidéos sur le sujet.
+
+Je n'ai pas eu le temps quand le crunch et le projet intégration sont arrivés pour faire certains documents que je voulais préparer pour la date du début du TB. Néanmoins, j'ai acquis beaucoup d'informations qui me reste en tête et qui me permettront de tenir des discussions avec mon chef et les collaborateurs. Je pense me faire un rafraîchissement dans un mois et continuer à suivre l'actualité sur les IA.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Pour les avantages de l'auto-formation, il est vrai que la flexibilité est un plus, que cela m'aurait coûté cher pour suivre un court sur ce domaine et que je pense avoir appris beaucoup seul.
 
+Néanmoins, je préfère une approche un peu plus scolaire avec un enseignant, même si je suis conscient que pour la suite de ma carrière professionnelles, il est nécessaire que j'arrive à acquérir ces connaissances par moi-même, car en tant qu'ingénieur, on est sensé être à la pointe.
+
+Je pense continuer à m'auto-former pour ce genre de question où il n'existe pas vriament de formation et dont les acquis seront sûrement dépasser dans 1 an. Mais si ma future entreprise me permet de suivre des cours, je ne dirais pas non.
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+Durant ce cours, j'ai appris à pratiquer l'auto-apprentissage, néanmoins c'est compliqué d'estimer à quel point, car, précisemment, on travaille seul. J'ai appris à faire des recherches approfondis sur des sujets dont au final je ne connaissais pas tant que ça. Je pense qu'en soit on peut gratter indéfiniment les sujets, car au final il n'y a pas de limite à l'auto-apprentissage, là où un cours donné par un enseignant est cadré et délimité.
+
+J'espère poursuivre là-dedans, mais peut-être dans des secteurs qui m'intéresse un peu plus comme la photo ou la vidéo.
