@@ -51,11 +51,11 @@ Vu que nous avons quatre semaines pour faire cela, je pense que c'est une bonne 
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-Est-ce que j'arrive à faire facilement une check-list de test de tête pour vérifier la bonne communication d'une entreprise ?
-Est-ce que je comprends tous les concepts ou notions quand je discute avec une personne avancée dans le domaine ?
-Est-ce que j'arrive à expliquer aisément et en toute confiance à des novices ou des personnes au niveau intermédiaire ?
-Est-ce que les chiffres de l'entreprise ont augmenté ? (Vérification post-travail)
-Est-ce que les personnes recommandent mes compétences ? (Vérification post-travail)
+Est-ce que j'arrive à faire facilement une check-list de test de tête pour vérifier la bonne communication d'une entreprise ? \
+Est-ce que je comprends tous les concepts ou notions quand je discute avec une personne avancée dans le domaine ? \
+Est-ce que j'arrive à expliquer aisément et en toute confiance à des novices ou des personnes au niveau intermédiaire ? \
+Est-ce que les chiffres de l'entreprise ont augmenté ? (Vérification post-travail) \
+Est-ce que les personnes recommandent mes compétences ? (Vérification post-travail) \
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
