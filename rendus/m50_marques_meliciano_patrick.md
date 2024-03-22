@@ -55,7 +55,7 @@ Est-ce que j'arrive à faire facilement une check-list de test de tête pour vé
 Est-ce que je comprends tous les concepts ou notions quand je discute avec une personne avancée dans le domaine ? \
 Est-ce que j'arrive à expliquer aisément et en toute confiance à des novices ou des personnes au niveau intermédiaire ? \
 Est-ce que les chiffres de l'entreprise ont augmenté ? (Vérification post-travail) \
-Est-ce que les personnes recommandent mes compétences ? (Vérification post-travail) \
+Est-ce que les personnes recommandent mes compétences ? (Vérification post-travail)
 
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
@@ -78,10 +78,10 @@ Je termine en précisant que je n'ai pas trouvé de cours HubSpot vidéo avec qu
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
 Voici les 5 questions écrite plus haut :
-Est-ce que j'arrive à faire facilement une check-list de test de tête pour vérifier la bonne communication d'une entreprise ?
-Est-ce que je comprends tous les concepts ou notions quand je discute avec une personne avancée dans le domaine ?
-Est-ce que j'arrive à expliquer aisément et en toute confiance à des novices ou des personnes au niveau intermédiaire ?
-Est-ce que les chiffres de l'entreprise ont augmenté ? (Vérification post-travail)
+Est-ce que j'arrive à faire facilement une check-list de test de tête pour vérifier la bonne communication d'une entreprise ? \
+Est-ce que je comprends tous les concepts ou notions quand je discute avec une personne avancée dans le domaine ? \
+Est-ce que j'arrive à expliquer aisément et en toute confiance à des novices ou des personnes au niveau intermédiaire ? \
+Est-ce que les chiffres de l'entreprise ont augmenté ? (Vérification post-travail) \
 Est-ce que les personnes recommandent mes compétences ? (Vérification post-travail)
 
 Après m'être documenté et surtout grâce à la formation PDF gratuite de HubSpot intitulée "Comment élaborer un plan de communication ?", qu'ils m'ont donnée en échange de mon adresse professionnelle, donc HEIG-VD pour ma part, et de mes coordonnées (en espèrant qu'ils ne revendent pas), je pense pouvoir répondre par "oui" à cette première question.
