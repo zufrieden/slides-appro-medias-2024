@@ -107,7 +107,7 @@ Cet outil me sera particulièrement utile dans mon template. Une création affin
 
 ### 3. Qu’est-ce qu’une automatisation dans Notion ?
 
-C’est une fonctionnalité qui permet d’écouter des conditions représentées par des déclencheurs, et réaliser une ou plusieurs action(s) si la/les condition(s) sont respectées. Les automatisations peuvent être intégrées aux boutons et aux bases de données.
+C’est une fonctionnalité qui permet d’écouter des conditions représentées par des déclencheurs, et réaliser une ou plusieurs action(s) si la.les condition(s) sont respectées. Les automatisations peuvent être intégrées aux boutons et aux bases de données.
 
 ### 4. Dans quelle mesure les automatisations peuvent-elles être intéressantes pour la création d’un guide et d’un template ?
 
