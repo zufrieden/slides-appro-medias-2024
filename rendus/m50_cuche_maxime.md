@@ -1,4 +1,4 @@
-# M50-1/2 CUCHE Maxime - SUJET_ETUDE
+# M50-1/2 CUCHE Maxime - Analyse approfondies des bonnes pratiques de conception UX/UI en Biométrie
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
