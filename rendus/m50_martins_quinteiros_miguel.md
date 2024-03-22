@@ -123,4 +123,4 @@ Les points importants concernant l'organisation pour le TB sont les suivants:
 - Il faut bien prévoir la stack technologiques et les besoins du projet à l'avance
 - Il faut se former à l'avance pour éviter de perdre du temps par après
 
-L'expérience fût enrichissante et je remercie M. Zufrieden de nous avoir permit d'explorer nos sujets de TB à l'avance afin de mieux s'y préparer ou de prévoir de potentielles difficultés auxquelles on aurait pas pensé sans le faire.
+L'expérience fût enrichissante et je remercie M. Friedrich de nous avoir permit d'explorer nos sujets de TB à l'avance afin de mieux s'y préparer ou de prévoir de potentielles difficultés auxquelles on aurait pas pensé sans le faire.
