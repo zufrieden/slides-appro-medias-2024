@@ -52,7 +52,7 @@ Néanmoins, j’ai réalisé que dès que j’ai eu des semaines remplies, il a 
 
    (J’ai modifié la question parce que par écrit elle n’avait pas trop de sens je trouve. On explique pas trop une tel structure à un enfant de 10 ans)
 
-   ![](https://github.com/asiapicasso/slides-appro-medias-2024/src/ecommerce-structure-schema-with-medusa-and-nextjs.png)
+   ![](https://github.com/asiapicasso/slides-appro-medias-2024/blob/gh-pages/src/ecommerce-structure-schema-with-medusa-and-nextjs.png)
 
 
 2. Est-ce que mon site permet-il d’acheter un produit ?
