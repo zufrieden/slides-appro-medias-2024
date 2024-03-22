@@ -122,6 +122,6 @@ Pour ce qui est de l'autoformation, je la trouve très intéressante, mais cela 
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+_Quelles leçons avez-vous apprises et pourquoi ?_ 
 
 Premièrement, j'avais une fausse idée de ce qu'était un insight, grâce à cet approfondissement, j'ai pu mettre au clair cela. Deuxièmement, Ce qui m'a également marqué c'est que la conception d'insights est, en réalité, un processus qui peut être très long afin de pouvoir perfectionner les learnings des entreprises sur leurs clients. Durant cette autoformation, j'ai appris à naviguer dans le processus parfois complexe de transformation des données brutes en insights exploitables. J'ai surtout compris que les insights sont des ressources très importantes afin de répondre aux besoins des clients. Que ce soit pour innover ou alors pour améliorer la satisfaction des clients/utilisateurs d'une entreprise.
