@@ -1,8 +1,6 @@
-# M50-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M50-2 STOJANOVIC JOVAN - Utilisation de Wix comme CMS pour un site e-commerce
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
-
-## disclaimer : (mon sujet de TB n'est pas encore validé à 100%, mais en bonne voie, il y a tout de même un petit risque que je ne travail pas sur ce sujet.) Mon sujet d'étude est l'utilisation de Wix comme CMS pour la création et la gestion d'un site d'e-commerce.
+# ETAT INITIAL ET OBJECTIFS 
 
 ### Contexte
 
@@ -43,24 +41,37 @@ Actuellement, je possède des connaissances de base en création de sites web, m
 4. Comment évaluer les performances et l'efficacité d'un site d'e-commerce créé sur Wix ?
 5. Quels sont les coûts associés à l'utilisation de Wix pour un site d'e-commerce, et comment se comparent-ils à d'autres solutions ?
 
-# RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
+# RAPPORT FINAL
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+En rétrospective, l'auto-formation que j'ai entreprise pour explorer l'utilisation de Wix comme CMS pour la création et la gestion d'un site d'e-commerce a été une expérience enrichissante mais également exigeante. Initialement, j'avais des attentes claires quant à l'acquisition de compétences techniques pertinentes pour mon projet de Travail de Bachelor (TB) et la compréhension approfondie des fonctionnalités de Wix dans le contexte de l'e-commerce. Cependant, la réalité de cette auto-formation a été confrontée à des contraintes de temps et à des priorités concurrentes, notamment le travail sur un projet de réalité virtuelle (VR) et des périodes de crunch.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. **Quelles sont les principales fonctionnalités offertes par Wix pour la gestion d'un site d'e-commerce ?**
+   Pour répondre à cette question, j'ai pu identifier les fonctionnalités clés de Wix pour l'e-commerce, telles que la gestion des produits, les options de paiement sécurisé, les outils de marketing intégrés, la personnalisation du design, et le suivi des commandes.
+
+2. **Quels sont les avantages et les inconvénients de Wix par rapport à d'autres CMS comme Shopify ou WooCommerce pour un site d'e-commerce ?**
+   Cette analyse comparative a mis en lumière les avantages de Wix en termes de facilité d'utilisation, de design flexible et de coût abordable, mais aussi ses limitations en matière de scalabilité et de personnalisation avancée par rapport à des solutions spécialisées comme Shopify et WooCommerce.
+
+3. **Quelles sont les étapes clés de la création d'un site d'e-commerce sur Wix ?**
+   Les étapes clés comprennent la sélection du bon modèle, la configuration des produits et des paiements, la personnalisation du design, l'optimisation pour les moteurs de recherche (SEO) et la gestion des commandes.
+
+4. **Comment évaluer les performances et l'efficacité d'un site d'e-commerce créé sur Wix ?**
+   Pour évaluer les performances, il est essentiel de surveiller les statistiques de trafic, les taux de conversion, les ventes réalisées et de recueillir les retours des utilisateurs pour identifier les points forts et les domaines à améliorer.
+
+5. **Quels sont les coûts associés à l'utilisation de Wix pour un site d'e-commerce, et comment se comparent-ils à d'autres solutions ?**
+   Les coûts comprennent les frais d'abonnement mensuel, les extensions facultatives et les frais de transaction. Bien que Wix puisse offrir des options plus abordables pour les petites entreprises, des solutions spécialisées peuvent être plus rentables à long terme pour les entreprises en pleine croissance.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Malheureusement, en raison de contraintes de temps dues à d'autres engagements, j'ai pu consacrer environ 22 heures à cette auto-formation, ce qui représente un écart par rapport à l'investissement initial prévu. Les périodes de crunch et d'autres projets m'ont rendu difficile de respecter pleinement le planning établi pour cette étude.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Cette expérience m'a permis de constater à la fois les avantages et les inconvénients de l'auto-formation. Bien que j'aie pu acquérir des connaissances utiles sur l'utilisation de Wix pour l'e-commerce, la discipline nécessaire pour maintenir un engagement constant a été entravée par d'autres priorités et contraintes de temps.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+En conclusion, cette auto-formation m'a fourni des connaissances précieuses sur les capacités de Wix pour la création de sites d'e-commerce, ainsi qu'une compréhension plus large des défis liés à la gestion du temps et des priorités dans un environnement chargé de projets. Bien que je n'aie pas pu atteindre tous mes objectifs initiaux, cette expérience m'a permis de développer des compétences en gestion de projet et en résolution de problèmes, ce qui sera précieux dans mes futures entreprises tout en me permettant de m'informer et d'apprendre davatange sur le CMS Wix.
