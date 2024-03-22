@@ -137,4 +137,5 @@ Cependant, le point négatif majeur est que quand on est bloqué il peut se pass
 ## Conclusion
 
 Il va falloir que j’apprenne à être plus autonome le plus rapidement possible car je n’aurai pas toujours quelqu’un derrière mon épaule pour mon montrer comment faire chaque chose que je n’ai pas déjà fait auparavant.
+
 Apprendre  être plus autonome va également pouvoir m’aider à travailler plus vite et à savoir où chercher les informations dont j’ai besoin.
