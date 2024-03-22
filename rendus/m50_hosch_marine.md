@@ -78,20 +78,34 @@ Je ne prends pas en compte ici les éléments annexes qui feront également part
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+En réfléchissant sur l'état initial par rapport aux attentes et objectifs fixés, je constate que mon auto-formation dans le domaine de la 3D avec Three.js et A-frame a été une expérience enrichissante mais également exigeante. L'initiative de ce projet était de prendre en main ces technologies pour pouvoir réaliser une interface 3D du cerveau humain dans le cadre des recherches en neuroscience. Au départ, j'avais une bonne compréhension de JavaScript, ce qui m'a permis de m'adapter rapidement aux bases de Three.js. Cependant, malgré mon expérience antérieure avec la visualisation de données, l'apprentissage des aspects spécifiques à la 3D a nécessité plus de temps que prévu. Finalement, en raison de la complexité et du manque de modèles de cerveau adaptés, j'ai décidé de pivoter vers un projet de type jeu vidéo, qui offrait une approche plus réalisable dans le cadre du temps imparti. En effet, dans le cadre du cours de VR, j'ai préféré prendre un sujet plus ludique et plus facile à réaliser pour une expérience de VR. La visualisation d'un cerveau aurait été intéressante mais ne se prêtait pas vraiment aux exigences du cours. 
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Comment fonctionne le framework et les différentes "couches" de la 3D : Suis-je capable d'expliquer comment fonctionne Three.js et comment cela s'intègre avec JavaScript?
+Oui, après une semaine de travail et de recherches, j'ai pu acquérir une compréhension du fonctionnement de A-frame et Three.js. Il agit essentiellement de surcouches JavaScript et HTML qui simplifient l'utilisation de WebGL pour créer des rendus 3D dans un navigateur web.
+
+2. Quelles sont les étapes clés pour initialiser une scène en Three.js?
+Les étapes clés pour initialiser une scène en Three.js comprennent la création d'une scène, d'une caméra, d'une lumière, puis l'ajout d'objets à la scène. Ensuite, la scène doit être rendue pour être affichée.
+
+3. Suis-je capable de décrire le processus d'importation d'un modèle 3D externe dans Three.js?
+Oui, je suis capable de décrire le processus d'importation d'un modèle 3D externe dans Three.js. Cela implique généralement de charger le fichier du modèle, de le traiter éventuellement et de l'ajouter à la scène. Par contre, je n'ai pas pu le faire avec un modèle de cerveau comme prévu initiallement. 
+
+4. Suis-je capable de comprendre les données sorties des IRM et de les intégrer dans une scène avec Three.js?
+Non. Comme décrit plus bas et malgré mes recherches, je n'ai pas encore réussi à trouver une méthode pour importer ces données (stl) dans un environnement JavaScript. Toutefois, j'ai amélioré mes connaissances dans ce domaine et j'ai quelques pistes à explorer pour le faire. 
+
+5. Comment intégrer une visualisation Three.js dans un site web créé en JavaScript?
+Je suis maintenant capable d'intégrer une visualisation Three.js dans un site web en créant un conteneur HTML pour le rendu et en incluant les bibliothèques nécessaires dans le code JavaScript du site, puis en ajoutant le script de rendu de la scène Three.js.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Le temps que j'ai passé à me former sur Three.js et A-frame a été plus important que prévu. Initialement, j'avais estimé que je pourrais acquérir les bases en une semaine, mais j'ai finalement consacré plus de temps, soit environ 50 heures en une semaine, ainsi que quelques heures le week-end. En raison de la complexité des concepts 3D et à la nécessité de comprendre en profondeur le fonctionnement de Three.js pour réaliser le projet mais également parce que j'ai beaucoup travaillé sur mon rendu en VR. En parallèle, j'ai eu un rendez-vous d'une matinée avec ma mandante ainsi que de nombreuses discussions avec elle, ma professeure de TB ainsi que des personnes travaillant dans le domaine pour comprendre les données de IRM et comment les traiter dans un environnement web. Cela m'a pris donc beaucoup d'heures et d'investissement qui finalement n'ont pas réellement abouti vu que je ne sais toujours pas comment je vais pouvoir utiliser ces données dans le cadre de mon TB. 
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+J'ai choisi une méthode qui n'est pas totalement de l'auto-formation vu que je me suis appuyée sur un cours que je devais suivre à la HEIG. Toutefois, ce projet, après les deux matinée de théorie, se faisait en autodidacte mais j'avais la possiblité de demander de l'aide aux deux professeurs qui nous suivaient. Je ne suis pas sûre que j'aurais réussi a faire se travail de façon totalement autonome car j'ai été confrontée à beaucoup de difficulté et j'ai dû demander de l'aide à deux reprises car je me sentais complétement bloquée. J'imagine que le fait de pouvoir me reposer sur des experts était rassurant et que j'aurais peut-être réussi tout de même à le faire seule mais en prenant beaucoup de temps et en devant me confronter à beaucoup de frustrations. 
+Aussi, j'ai été frustrée de ne pas pouvoir trouver un moyen d'utiliser les données slt. J'ai contacté plusieurs personnes pour essayer de comprendre (ma mandante, des chercheurs et amis du CIBM, un contact dans le même domaine, deux élèves de la HEIG et trois professeurs) et malgré cela, je remarque qu'il y a une énorme barrière entre nos deux monde : la recherche et le web. Leur domaine est très clair pour eux et c'est difficile pour eux de comprendre mon problème car ils ne connaissent pas mes contraintes pour intégrer leurs données dans un environnement javascript. C'est pour cela que nous sommes arrivés à la conclusion qu'il faudra démêler tout cela lors de la pré-étude et nous avons également prévu un rendez-vous supplémentaire avec ma mandante et la professeure qui me suit. 
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+Cette expérience m'a appris l'importance de la persévérance et de la collaboration dans un processus d'auto-formation. J'ai réalisé que même avec une bonne base en programmation, l'apprentissage de nouveaux concepts peut prendre du temps et nécessiter une approche méthodique et patiente. En fin de compte, cette expérience m'a permis d'acquérir de nouvelles compétences dans le domaine de la visualisation 3D et je suis contente d'avoir pu acquérir ses connaissances qui seront précieuses pour mon travail de bachelor, même si le produit final a été adapté pour le cours, je vais pouvoir utiliser ces connaissances pour mon TB. Aussi, comme dit plus haut, il y a encore énormément de travail pour pouvoir adapter mes connaissances aux exigences des chercheurs avec qui je vais travailler. 
