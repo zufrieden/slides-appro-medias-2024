@@ -51,7 +51,12 @@ Pour les 2 points il s'agira principalement de recherche, les spécificités des
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Je me doutais que la partie recherche ne me poserait pas de problèmes, je sais ou trouver des informations et c’est un travail que je pense tout le monde peut accomplir. Je savais également que la partie technique me poserait plus de problème car dès que je suis coincé je vais immédiatement chercher de l’aide vers un professeur ou un camarade.
+
+J’ai également réalisé que certains de mes objectifs auraient pu être spécifié, par exemple je n’ai pas spécifié combien de méthode de recherche utilisateurs je voulais découvrir. Je me suis donc automatiquement arrêté à trois.
+
+J’ai aussi pu observer que les articles regorgent d’informations plus importantes et généralement mieux structurée que sur les vidéos.
+À la fin de cette auto-formation, je suis satisfait de mon travail fournit.
 
 ## Réponses aux 5 questions
 
@@ -59,11 +64,21 @@ _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessai
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Environ 30 minutes - 1h par semaine. La partie recherche pour trouver 3 manières, que je ne connais pas déjà, d’identifier ce qui est important pour les clients de ma cible ainsi que trouver différents calendrier/agenda en ligne s’est fait assez rapidement.
+
+J’ai cependant pris plus de temps pour imaginer comment les différentes méthodes de recherche pourraient être utilisable dans le cadre d’un test UX.
+
+Dès le départ j’imaginais bien que la partie recherche ne me prendrait pas trop de temps étant donné qu’internet propose énormément de sources afin de trouver diverses informations détaillées.
+
+Les appels sur Google Calendar m’ont pris le plus de temps. Car bien que google propose de bonnes solutions pour effectuer les différentes commande il faut les trouver et les adapter à notre cas puis identifier et régler les erreurs.
+
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’avantage principal de cette formation est d’apprendre à être autonome qui est d’ailleurs l’un de mes points faibles. Dans le monde du travail il n’y a pas toujours quelqu’un à disposition pour répondre à nos questions et il faut se débrouiller. Cette exercice nous apprends donc comment bien nous documenter et où trouver des informations.
+
+Cependant, le point négatif majeur est que quand on est bloqué il peut se passer beaucoup de temps avant de trouver la réponse à un problème. Ca peut être une grande perte de temps qui pourrait être évitée, surtout si quelqu’un autour de nous pourrait nous débloquer en très peu de temps.
+
 
 ## Conclusion
 
