@@ -60,8 +60,8 @@ J’ai aussi pu observer que les articles regorgent d’informations plus import
 
 ## Réponses aux 5 questions
 
--Quels sont les avantages et désavantages des agenda/calendrier en ligne ?
-### Google Calendar
+### -Quels sont les avantages et désavantages des agenda/calendrier en ligne ?
+#### Google Calendar
 Avantages :
 + Gratuit
 + Interface simple et intuitive
@@ -74,7 +74,7 @@ Désavantages :
 - Impossible de supprimer plusieurs rendez-vous en une seule fois
 - L’interface de la version code d’intégré fait très vieillot
   
-### Calendly
+#### Calendly
 Avantages :
 + Visuellement attractif
 + Mails automatiques
@@ -85,7 +85,7 @@ Désavantages :
 - App mobile assez limitée
 - Ne pas pouvoir modifier une réservation, forcé de la supprimé et d’en faire une nouvelle
 
-### Square Appointments
+#### Square Appointments
 Avantages :
 + Paiement sur la plateforme possible
 + Notifications personnalisable par téléphone et mail.
