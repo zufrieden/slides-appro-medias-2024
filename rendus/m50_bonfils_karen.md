@@ -56,15 +56,15 @@ _En revenant sur mon état initial, je constate que mes attentes étaient élev�
 
 _Certains liens intéressants de vidéos explicatives sur Figma :_
 
-      _- https://www.youtube.com/watch?v=P8O78APM17c&ab_channel=Shmeltstudios_
+ _- https://www.youtube.com/watch?v=P8O78APM17c&ab_channel=Shmeltstudios_
 
-      _- https://www.youtube.com/watch?v=pwlr0vTpRRE&ab_channel=PierrickChevallier%7CPromptAlchemists_
+_- https://www.youtube.com/watch?v=pwlr0vTpRRE&ab_channel=PierrickChevallier%7CPromptAlchemists_
 
-      _- https://www.youtube.com/watch?v=CzhTa6g1bJs&ab_channel=TheCacato%C3%A8sTheory_
+ _- https://www.youtube.com/watch?v=CzhTa6g1bJs&ab_channel=TheCacato%C3%A8sTheory_
 
-      _- https://www.youtube.com/watch?v=8vhhc0J-Mtw&ab_channel=JesseShowalter_
+ _- https://www.youtube.com/watch?v=8vhhc0J-Mtw&ab_channel=JesseShowalter_
 
-      _- https://www.youtube.com/watch?v=ajfKecCyNOs&ab_channel=Ridd_
+_- https://www.youtube.com/watch?v=ajfKecCyNOs&ab_channel=Ridd_
 
 
 ## Réponses aux 5 questions
@@ -80,17 +80,17 @@ _Enfin, les composants intelligents peuvent inclure des interactions et des anim
 
 _Les youtubers que j'ai suivi pour ce projet :_
 
-      _- JessUIdesign ( https://www.youtube.com/@JessUIdesign )_
+ _- JessUIdesign ( https://www.youtube.com/@JessUIdesign )_
 
-      _- mickadoule ( https://www.youtube.com/@mickadoule )_
+ _- mickadoule ( https://www.youtube.com/@mickadoule )_
        
 _Quelques vidéos étudiées :_
 
-       _- https://www.youtube.com/watch?v=hYBd0tTs70Q&ab_channel=DesignWithArash_
+ _- https://www.youtube.com/watch?v=hYBd0tTs70Q&ab_channel=DesignWithArash_
  
-      _- https://www.youtube.com/watch?v=ReNbXhaL3Xk&ab_channel=Figma_
+_- https://www.youtube.com/watch?v=ReNbXhaL3Xk&ab_channel=Figma_
 
-      _- https://www.youtube.com/watch?v=P8O78APM17c&ab_channel=Shmeltstudios_
+_- https://www.youtube.com/watch?v=P8O78APM17c&ab_channel=Shmeltstudios_
 
 _**2)** Les avantages des styles dans Figma sont multiples et ils ont grandement optimisé ma manière de travailler. Tout d'abord, en utilisant des styles pour les éléments comme les couleurs, les typographies et les effets, je peux maintenir une cohérence visuelle dans l'ensemble de mon projet. Par exemple, en définissant un style de couleur pour mes boutons et en l'appliquant à tous les boutons de mon interface, je m'assure que leur apparence reste uniforme, ce qui renforce la perception de professionnalisme et de qualité de mon design._
 
