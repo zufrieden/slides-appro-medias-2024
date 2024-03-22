@@ -83,20 +83,64 @@ Tests et ajustements (5 heures) : Utiliser les dernières heures pour tester la 
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Je ne m’attendais pas forcément à beaucoup plus me former lors de mes recherches, mais je trouve quand même que j’ai pu explorer des pistes et des domaines auxquels je ne m’étais jamais intéressé auparavant et sont très importants pour mon domaine de TB.
+
+Je pense que mes objectifs ont bien été atteints et je suis content de ce que j’ai pu apprendre.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+
+**Comment sécuriser une application Vue.js / Node.js contre les injections SQL ? 
+**
+
+Pour sécuriser mon application Vue.js / Node.js contre les injections SQL, je prends plusieurs mesures. D'abord, côté Node.js, j'utilise des requêtes paramétrées, empêchant les entrées utilisateur d'être interprétées comme du code SQL. Je n'assemble jamais de chaînes pour construire mes requêtes. J'opte également pour des ORM comme Sequelize qui sécurisent automatiquement les requêtes. 
+
+En plus, je valide et nettoie toutes les entrées utilisateur, tant sur Vue.js que sur Node.js, pour qu'elles correspondent au type et format attendus. Je garde mes dépendances à jour pour contrer les vulnérabilités connues.
+
+
+
+**Quelle est l'importance de HTTPS dans le contexte d'une application web sécurisée et comment pouvez-vous implémenter une connexion HTTPS dans votre application Node.js ?
+**
+
+L'usage d'HTTPS, basé sur SSL/TLS, est vital pour crypter les données échangées entre le client et le serveur, prévenant le vol ou la modification des données. HTTPS authentifie aussi les sites web, rassurant les utilisateurs sur la légitimité du serveur. Les navigateurs modernes et Google valorisent les sites en HTTPS, soulignant son importance pour la sécurité, la visibilité et la crédibilité en ligne. 
+
+Pour activer HTTPS dans mon application Node.js, je commence par obtenir un certificat SSL, en achetant ou en générant un certificat auto-signé pour le développement. J'utilise ensuite le module https de Node.js pour configurer le serveur avec les fichiers de certificat et de clé privée.
+Mon serveur écoute sur le port 443, assurant le chiffrement des données. Pour la production, j'utilise un certificat valide pour éviter les avertissements des navigateurs.
+
+
+
+
+**Expliquez le processus de hachage des mots de passe avec bcrypt dans Node.js. Pourquoi est-ce une méthode sûre pour stocker les mots de passe des utilisateurs ?
+**
+
+Utiliser bcrypt pour hacher les mots de passe dans Node.js est ma méthode préférée pour sécuriser les mots de passe. bcrypt ajoute automatiquement un sel unique à chaque mot de passe avant le hachage, rendant chaque hash unique. Cette technique complique énormément la tâche des attaquants qui essaieraient de brute-forcer ou de voler les hachages des mots de passe.
+
+
+
+**Comment pouvez-vous mettre en œuvre la gestion des sessions sécurisées dans une application Vue.js / Node.js ? Décrivez les mécanismes pour gérer les jetons de session et protéger contre le vol de session.
+**
+Pour gérer les sessions de manière sécurisée dans une application Vue.js / Node.js, j'utilise des jetons de session qui expirent après une période d'inactivité ou lors de la déconnexion. Je stocke les informations sensibles côté serveur et non dans le navigateur, et je génère des jetons de session aléatoirement et de longueur suffisante pour prévenir les attaques par force brute. L'utilisation d'HTTPS pour toute communication est essentielle pour sécuriser les jetons lors de leur transmission.
+
+
+
+
+**Qu'est-ce qu'une attaque CSRF et comment pouvez-vous la prévenir dans votre application Vue.js / Node.js ? Expliquez l'utilisation de tokens anti-CSRF pour sécuriser les formulaires.
+**
+
+Pour prévenir les attaques CSRF dans mon application, j'implémente des tokens anti-CSRF dans les formulaires. Ces tokens s'assurent que les requêtes envoyées au serveur viennent bien de l'utilisateur légitime et du site attendu. Pour chaque formulaire ou requête sensible, un token unique est généré côté serveur et vérifié à la soumission. Cette approche empêche les attaquants de soumettre des requêtes malicieuses en se faisant passer pour un utilisateur légitime.
+
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Je pensais prendre beaucoup plus de temps à comprendre et réaliser mes recherches sur ces thèmes de la cybersécurité, mais finalement avec l’aide de Chatgpt la compréhension à été beaucoup plus digestible et donc j’ai pu être plus rapide que ce que j’avais prévu.
+
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Je dirais que les avantages sont de nous pousser à chercher de nouveau thème à explorer ce qu’on ne ferait pas naturellement et aussi le faire de pouvoir s’intéresser d’avantages à des choses connexes qu’on ne connaissait pas auparavant. Pour les désavantages, je dirais la difficulté de pouvoir mettre en pratique directement ce que nous avons pu apprendre et donc le tout reste très théorique.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+J’ai pu apprendre pas mal de choses sur les mesures de sécurité que je devais prendre par la suite lors de mon TB et même de lors de ma carrière de manière générale. Je pense que c’était très pertinent pour moi d'aborder ces sujets qui ne l'auraient pas intéressé au départ.
+C’était ENRICHISSANT !
+
