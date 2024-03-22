@@ -74,9 +74,9 @@ _Tout d'abord, les composants intelligents permettent une réutilisabilité maxi
 
 _De plus, les composants intelligents offrent la possibilité de créer des variantes, ce qui permet de représenter différents états ou styles d'un même élément. Par exemple, pour un bouton, on peut créer des variantes pour les états "normal", "survolé" et "appuyé", simplifiant ainsi la gestion des différents états interactifs dans vos interfaces utilisateur._
 
-_Une autre caractéristique remarquable des composants intelligents est la capacité à inclure des propriétés personnalisables. Cette fonctionnalité permet d'adapter facilement les composants à différentes utilisations sans avoir à créer de multiples versions. On peut concevoir un composant de carte avec des propriétés personnalisables telles que la couleur, la taille et le style du marqueur, offrant ainsi une flexibilité maximale lors de l'intégration de cartes dans vos maquettes.
+_Une autre caractéristique remarquable des composants intelligents est la capacité à inclure des propriétés personnalisables. Cette fonctionnalité permet d'adapter facilement les composants à différentes utilisations sans avoir à créer de multiples versions. On peut concevoir un composant de carte avec des propriétés personnalisables telles que la couleur, la taille et le style du marqueur, offrant ainsi une flexibilité maximale lors de l'intégration de cartes dans vos maquettes._
 
-Enfin, les composants intelligents peuvent inclure des interactions et des animations, ajoutant ainsi une dimension interactive à mes maquettes et prototypes. Un composant de menu déroulant peut être conçu pour s'ouvrir et se fermer de manière fluide en réponse aux actions de l'utilisateur, offrant ainsi une expérience utilisateur plus dynamique et engageante._
+_Enfin, les composants intelligents peuvent inclure des interactions et des animations, ajoutant ainsi une dimension interactive à mes maquettes et prototypes. Un composant de menu déroulant peut être conçu pour s'ouvrir et se fermer de manière fluide en réponse aux actions de l'utilisateur, offrant ainsi une expérience utilisateur plus dynamique et engageante._
 
 _Les youtubers que j'ai suivi pour ce projet :_
 
