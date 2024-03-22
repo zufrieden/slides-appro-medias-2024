@@ -103,6 +103,24 @@ Google Calendar me semble être la meilleur option pour laquelle opter car il es
 ### -Est-ce que j'arrive à faire des requête vers l'api et à fetch des informations ?
 Grâce à la documentation google workspace, j’ai réussi à enregistrer un nouveau rendez-vous ainsi qu’ajouter en description un nom et le type de coiffure qu’il aimerait réaliser. Cependant je n’ai pas réussi à vérifier si une tranche horaire était occupée ou non. Je suis resté bloqué assez longtemps sur cette dernière action et ai essayé de réussir sans aller sur des forums mais uniquement de la documentation.
 
+### -Quelles méthodes sont viables pour obtenir des informations démographique sur un grand échantillon de personne ?
+J’ai identifié 3 méthodes que je ne connaissais pas encore avant de démarrer mes recherches.
+
+#### Card Sorting
+Cette méthode demande aux participants de classer divers fonctionnalités ou éléments qui leurs paraissent plus ou moins primordiaux. Cela va permettre de savoir sur quelles parties de mon site je devrai mettre l’accent. Cela va également me permettre de comprendre comment organiser les contenus, par exemple ce que l’on devra trouver sur la page d’accueil plutôt horaire ou prise de rendez-vous à mettre directement en avant.
+
+#### Start, stop, continue
+Cette méthode demande aux participants d’observer ou tester différentes parties d’un site web puis de les classer dans 3 différentes catégories : start qui va pouvoir représenter un élément manquant, stop si un élément est bloquant ou trop complexe, continue si un élément peut être amélioré ou qu’il n’est pas complet, par exemple manque des filtres dans la partie E-commerce du site.
+
+#### Kano Model
+Cette méthode est utilisée pour classer les caractéristiques d’un produit selon leur impact sur la satisfaction client. Il y a 3 types de caractéristiques.
+
+Caractéristique de base : elles sont essentielles et l'absence causerait une insatisfaction, la présence de celles-ci n'ajoutent pas nécessairement de la satisfaction. Par exemple, un robinet qui fonctionne correctement est une caractéristique de base.
+
+Caractéristiques linéaires : elles sont proportionnellement liées à la satisfaction client. Plus elles sont présentes, plus la satisfaction est grande, et vice versa. Par exemple, la vitesse de connexion Internet peut être une caractéristique linéaire.
+
+Caractéristiques attractives : lorsqu'elles sont présentes, elles suscitent une grande satisfaction, mais leur absence n'entraîne pas nécessairement de l'insatisfaction. Elles sont souvent inattendues mais peuvent surprendre et ravir les utilisateurs. Par exemple, un bonus inattendu offert par un service en ligne.
+
 ### -Une des méthodes de recherche est-elle viable pour tester une maquette web ?
 Deux méthodes identifiées peuvent être utilisée pour demander aux utilisateurs de classer différentes fonctionnalités ou éléments du site. Ils faudra cependant commencer par un test utilisateur afin qu’ils puissent effectuer diverses tâches sur le site puis seulement ensuite leur demander de trier ces éléments.
 
