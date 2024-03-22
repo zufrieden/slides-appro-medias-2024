@@ -111,11 +111,110 @@ Le temps à invstir sera réparti avec plus de précision une fois les deux éta
 
 *Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?*
 
+J’ai remarqué que dans le domaine du marketing et branding il existe des ressources très riches rédigées en anglais. Heureusement, la langue n’a pas constitué un obstacle, mais il est intéressant de relever certaines différences dans les démarches et les technologies décrites dans les articles francophones et anglophones. À l’avenir, je porterai une attention particulière à inclure des sources anglophones dans mes recherches. 
+
+Ce n’est pas la première fois que j’étudie un sujet en autodidacte. Je pense que plus le temps avance, plus les possibilités et les ressources sont multiples et faciles d’accès. J’imagine que dans le domaine de la communication et du marketing ce sont des techniques d’apprentissages que je vais surement continuer à utiliser tout au long de mon parcours professionnel afin de rester à jour sur les tendances et les outils liés à ma future profession.
+
 ## 
 
 ## Réponses aux 5 questions
 
 *Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question.*
+
+### Question 1
+
+*Quelles sont les étapes essentielles dans la mise en place d’une stratégie de marque pour une entreprise, et plus spécifiquement pour une agence de développement web?* 
+
+On peut identifier deux processus différents. Le premier est le processus général de mise en place de la stratégie de branding et comprend 5 étapes générales: 
+
+1. L’analyse du contexte (de l’entreprise, de son environnement/domaine, de ses clients, etc…)
+2. La conception et le développement de la stratégie de marque (essence, positionnement, identité, développement)
+3. La mise en place de la stratégie (communication interne et application aux différents canaux et supports visuels)
+4. Les mesures et l’analyse des résultats (notoriété, image, différenciation, fidélité…)
+5. Les ajustements nécessaires en fonction des résultats (repositionnement, cibles…)
+
+On peut ensuite décomposer les étapes 2 et 3 en plusieurs étapes plus détaillées:
+
+1. Établissement de la base de la marque, le “why” (mission, vision, valeurs)
+2. Définir les segments cibles (empathy map, pains, gains, persona)
+3. Benchmark et analyse des concurrents
+4. Différenciation (Unique Selling Proposition)
+5. Définition de la personnalité de marque (humanisation, capital sympathie)
+6. Définition du ton de communication
+7. Développement du message de marque (perception de la marque)
+8. Création d’une histoire de marque (story telling, humanisation)
+9. Choix du nom et du slogan
+10. Design (identité visuelle, logo, pictos…)
+11. Application des éléments de marque aux canaux de communication et de vente
+12. Mise en place d’une stratégie de communication de la nouvelle marque, renforcement de la notoriété
+
+### Question 2
+
+*À quoi faut-il être attentif lors de l’établissement d’une stratégie de marque, quels sont les pièges à éviter?* 
+
+**Concurrence**: Il ne faut pas élaborer sa marque en fonction de la concurrence. C’est un aspect important du contexte et peut aider à la différenciation du positionnement de l’entreprise, mais on ne doit pas oublier que l’identité de marque s’adresse d’abord aux cibles, soit les prospects et les clients. 
+
+**Promesses:** Il faut faire des promesses réalistes mais tout de même ambitieuses. Si on promet la lune, les cibles seront déçues d’avoir moins. Au contraire, des idées plus ambitieuses, innovatrices vont apporter des résultats bien plus satisfaisant, même si le risque est plus élevé. Il ne faut pas viser la satisfaction des cibles, il faut viser plus haut. Ce n’est pas très démarquant de “juste satisfaire”, c’est beaucoup plus puissant d’enthousiasmer. 
+
+**Cibles:** Si c’est pour tout le monde c’est pour personne. La marque doit s’adresser à quelqu’un de bien particulier, on ne touche pas son audience idéale en tentant de parler à tout le monde. La marque doit être pensée “pour quelqu’un”. 
+
+**Authenticité**: Une marque qui ne tient pas ses promesses, ou dont le fonctionnement n’est pas en adéquation avec les valeurs communiquées sera très vite abandonnée par ses clients. Les cibles attendent, aujourd’hui encore plus qu’avant, de l’honnêteté et de la sincérité de la part des marques pour leur accorder leur confiance.
+
+**Consistance et cohérence:** Tous les éléments de la marque doivent être cohérent pour fonctionner ensemble et transmettre une image efficace. Une image de marque dispersée peut créer de la confusion et rendre le message communiqué inefficace. 
+
+**Flexibilité**: Il faut réussir à penser une marque avec un potentiel évolutif. Dans l’idéal, l’entreprise va continuer à évoluer dans les années suivantes, et son image de marque sera à certains points clés amenés à évoluer avec elle. 
+
+### Question 3
+
+*Quelles méthodes existe-t-il pour assurer une bonne compréhension de l’image que l’entreprise souhaite montrer au grand public?*
+
+Cette question est en partie comprise dans la question 1. Les multiples étapes se font en collaboration avec l’entreprise, et contribuent à la création d’une image de marque fidèle à l’entreprise. 
+
+La question pourrait être modifiée comme suit: 
+
+*Quelles méthodes existe-t-il pour s’assurer que l’image de marque que l’entreprise souhaite communiquée est raccord avec l’image de marque des cibles?* 
+
+On peut faire passer des questionnaires aux cibles pour mesurer la notoriété et l’image de marque d’une entreprise. Plusieurs éléments doivent être inclus: 
+
+- Notoriété spontanée
+- Notoriété assistée
+- Perception de la marque (par attributs)
+
+Une veille sociale permet aussi d’identifier les conversations autour de la marque et ce que les utilisateurs en pense.
+
+L’analyse des habitudes des consommateurs peuvent également apporter des insights sur leur attentes et leurs frustrations potentielles lorsqu’ils sont au contact de la marque. 
+
+### Question 4
+
+*Quelles sont les pratiques et tendances actuelles en termes de design graphique pour le branding d’une entreprise, et plus spécifiquement pour une agence de développement web?* 
+
+Reformulation: *Quelles sont les pratiques et tendances actuelles en termes de design graphique dans le domaine du web developpment?* 
+
+La question est un peu trop spécifique et ne rentre pas vraiment dans le cadre de cette démarche autodidacte. C’est plutôt en effectuant un benchmark approfondi de la concurrence que je pourrais y répondre. J’ai donc plutôt recherché des tendances graphique générales qui sont intéressantes à considérer lors du brand design.
+
+1. Micro-animations et interactions
+2. Scrollytelling
+3. Polices imposantes, expressives, personnalisantes
+4. Bento-box
+5. Mobile friendly (voire même mobile first)
+6. Minimalisme vs maximalisme
+7. Design typographique
+8. Couleurs fortes, contrastes
+
+### Question 5
+
+*Comment créer une identité visuelle forte, efficace et fidèle, qui soit polyvalente et transposable sur tous les supports nécessaires?* 
+
+Cette question reprend aussi des éléments de la question 1, mais d’un point de vue plus orienté design. 
+
+1. Prendre conscience de la manière dont l’identité visuelle doit fidèlement réfléchir l’identité de marque, poser les objectifs de cette nouvelle identité visuelle
+2. Appliquer les règles fondamentales du design
+3. Définir une palette de couleurs (voir le rapport entre couleurs et émotions)
+4. Création d’un logo distinctif et ses variations(simple, doit être scalable, version monochrome, noir, blanc…)
+5. Choix des typographies
+6. Ajout de textures, formes, éléments supplémentaires (ex. pictos)
+7. Tests sur différents supports et différentes variations
+8. Pour maintenir une cohérence: établissement et distribution de guidelines d’application de l’identité visuelle.
 
 ## 
 
@@ -123,14 +222,22 @@ Le temps à invstir sera réparti avec plus de précision une fois les deux éta
 
 *Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi.*
 
+Au final, j’ai passé plus de temps à trouver les ressources d’apprentissage que prévu. J’ai facilement perdu du temps à essayer de trouver “le meilleur” cours ou tutoriel, ou l’article le plus complet. Finalement, j’ai beaucoup parcouru des ressources en diagonales pour voir si elles étaient suffisamment complètes, ce qui fait qu’une fois que je me suis consacrée à l’apprentissage en tant que tel j’avais déjà connaissance de plusieurs des informations générales, ce qui a aussi rendu l’apprentissage un peu moins passionnant. 
+
 ## 
 
 ## Réflexion sur la méthode d'auto-formation
 
 *En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?*
 
+C’est toujours intéressant de voir qu’on est capable d’approfondir un sujet de manière complètement autodidacte. J’avais peur de me retrouver bloquée par des cours payants mais pour finir j’ai trouvé largement assez de ressources intéressantes et de qualité sans devoir payer. 
+
+Je pense que cette expérience aurait été très différente il y a quelque années, sans chatGPT. Je l’ai utilisé comme “enseignant” supplémentaire, et il m’a permis de gagner du temps en recherches. Si je ne comprenais pas bien un élément, je pouvais obtenir une explication différente de la part de ChatGPT, sans devoir passer du temps à chercher un autre article ou vidéo spécifique à l’élément mal compris. J’essaye bien sur de garger un regard critique sur ce que ChatGPT apporte, mais il reste tout de même un outil précieux pour ce genre d’apprentissage autodidacte sur un sujet largement couvert sur internet.
+
 ## 
 
 ## Conclusion
 
 *Quelles leçons avez-vous apprises et pourquoi ?*
+
+Je n’ai pas vraiment eu de surprises ni été confrontée à des obstacles de taille. Comme c’est un exercice que j’avais déjà fait, je savais à peu près à quoi m’attendre. Une piste d’amélioration serait de mieux évaluer le temps nécessaire à la recherche de ressources, et d’équilibrer en fonction le temps consacré à l’apprentissage. Trouver de bonnes ressources demande du temps, mais permet d’être plus efficace dans la phase d’apprentissage, quand à l’inverse, choisir rapidement les ressources fait que l’on s’expose à de potentielles lacunes, pour lesquelles il faut effectuer un nouveau travail de recherches. 
