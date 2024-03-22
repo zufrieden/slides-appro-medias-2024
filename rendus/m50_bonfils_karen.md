@@ -111,7 +111,7 @@ Cependant, malgré ses nombreux avantages, la collaboration en temps réel dans 
 
 De plus, la collaboration en temps réel peut être limitée par la qualité de la connexion Internet. Si l'une des parties impliquées dans la collaboration rencontre des problèmes de connexion ou une connexion lente, cela peut entraîner des retards ou des interruptions dans le processus de collaboration, ce qui peut être frustrant et inefficace.
 
-Enfin, bien que la collaboration en temps réel soit idéale pour les sessions de brainstorming et les révisions rapides, elle peut ne pas convenir à toutes les phases du processus de conception. Parfois, il est préférable de travailler de manière asynchrone, en permettant à chaque membre de l'équipe de contribuer à sa propre vitesse et sur son propre horaire.
+Enfin, bien que la collaboration en temps réel soit idéale pour les sessions de brainstorming et les révisions rapides, elle peut ne pas convenir à toutes les phases du processus de conception. Parfois, il est préférable de travailler de manière asynchrone, en permettant à chaque membre de l'équipe de contribuer à sa propre vitesse et sur son propre horaire._
 
 
 ## Investissement
