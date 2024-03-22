@@ -99,7 +99,7 @@ Pour que nos développeurs préférés puissent développer le design facilement
 
 3. **Quelles sont les étapes (en résumé) pour créer une animation avec des variables différentes dans un prototype Figma ?**
 
-Pour illustrer, prenons l'exemple d'une animation de bouton qui change de couleur et grandit lorsqu'on passe la souris dessus :
+    Pour illustrer, prenons l'exemple d'une animation de bouton qui change de couleur et grandit lorsqu'on passe la souris dessus :
    1. Commencez par dessiner le bouton dans son état normal. Disons un bouton bleu de taille standard.
    2. Copiez le bouton et modifiez cette copie pour refléter l'état après animation. Par exemple, changez la couleur en vert et augmentez légèrement la taille.
    3. Cliquez sur l'icône "Prototype" dans Figma pour passer en mode prototype.
@@ -116,7 +116,7 @@ Pour illustrer, prenons l'exemple d'une animation de bouton qui change de couleu
 
 5. **Quelles sont les bonnes pratiques en termes de nommage des pages et des éléments pour bien organiser les différentes frames ?**
    - Utilisez des noms qui décrivent clairement l'élément ou la page, comme "Accueil_Bouton_Principal".
-   - Oorganiser les documents et les pages par sujet, cela facilite la navigation et la compréhension, aussi l'équipe de travail.
+   - Organiser les documents et les pages par sujet, cela facilite la navigation et la compréhension, aussi pour l'équipe de travail.
 
 
 
@@ -142,4 +142,12 @@ En résumé, l'auto-formation offre une opportunité de personnaliser son appren
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+La flexibilité de pouvoir avancer à mon rythme s'est révélée être un avantage considérable dans cette autoformation. Cela m'a offert une flexibilité totale quant à mon emploi du temps et à mon rythme d'apprentissage. Cependant, cette même flexibilité a révélé mon défaut principal : un manque de discipline personnelle, confirmant ma tendance à être plus productif sous la contrainte d'un cadre structuré. Cette prise de conscience m'a conduit à conclure que, pour moi, l'autoformation devrait représenter une portion modérée de ma formation. L'interaction humaine, le partage d'expériences ou les conseils et astuces obtenus en direct s'avèrent indispensables pour enrichir mon apprentissage.
+
+Malgré ces défis, mon expérience d'autoformation a été globalement positive. Je me suis fixé des objectifs clairs dès le départ, et la satisfaction d'atteindre ces objectifs par mes propres moyens a été particulièrement gratifiante ! J'ai découvert l'importance cruciale de tenir un cahier de notes durant l'autoformation, une pratique qui améliore réellement la mémorisation des informations. De plus, établir et suivre des objectifs précis est essentiel pour mesurer la progression et maintenir la motivation, même face aux frustrations.
+
+De plus, le domaine du design offre une abondance de ressources éducatives accessibles gratuitement, constituant une ressource précieuse pour toute personne qui souhaite apprendre de manière autonome. C'est tout de même une chance de pouvoir autant s'autoformer. Il n'y a pas ou peu de ressources pour bien d'autres domaines d'activité (santé, agriculture...).
+Pour finir, l'échange sous forme d'interview avec un développeur, dans mon cas, s'est avéré très enrichissant, m'offrant des perspectives intéressantes sur le processus de design d'interface et le travail en équipe sur des projets à moyen terme. Pour la petite histoire, j'ai également découvert un nouveau YouTuber UX/UI que j'aime beaucoup et ça, je suis vraiment content.
+
+En vue de mon Travail de Bachelor, je me sens désormais mieux équipé pour concevoir ma maquette interactive. Je suis en mesure d'adopter de bonnes pratiques de design et d'optimiser mon temps de conception. En résumé, cette expérience d'autoformation, malgré ses défis, a été une étape précieuse dans mon développement professionnel, me préparant efficacement pour les projets futurs.
+
