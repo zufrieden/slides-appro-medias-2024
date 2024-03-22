@@ -84,6 +84,4 @@ Cependant, cette approche auto-dirigée a également révélé des défis, notam
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-
 L'auto-formation m'a montré combien il est important de trouver un bon équilibre entre apprendre par les livres et mettre les mains dans le cambouis. J'ai adoré avoir la liberté de découvrir les choses par moi-même, mais j'ai aussi réalisé qu'il fallait se motiver régulièrement pour ne pas passer à côté de points importants. Cette aventure m'a rendu plus flexible et plus indépendant, tout en soulignant le besoin d'avoir un peu de structure et des techniques pour se booster soi-même, afin de tirer le meilleur parti de l'apprentissage en autonomie.
