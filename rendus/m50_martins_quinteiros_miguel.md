@@ -56,9 +56,6 @@ Comme je le pensais avant de réaliser ce travail la différence, en tout cas en
 Il existe beaucoup de sources de documentation concernant le développement en général, surtout sur ces technologies répandues, ce n'était donc pas un soucis de s'y former.
 
 ## Réponses aux 5 questions
-
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
-
 ### Quelle est la différence entre Ionic et React Native?
 |Ionic|React Native|
 | :-: |:-:|
@@ -91,9 +88,6 @@ React Native est à prioriser si :
 - Le choix du framework dépend des besoins et des ambitions de projet. Tous semblent relativement semblables mais peuvent poser problème de par le manque de la gestion de certaines fonctionnalités dont on pourrait avoir besoin.
 
 ## Investissement
-
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
-
 ### Documentation - 12h
 Le temps pour la documentation a bien été respecté, il a cependant été divisé sur plusieurs sessions de 2-3h au fur et à mesure du projet plutôt que d'une traite au début étant donné que c'est une tâche qui peut être lassante si trop intensive.
 
@@ -108,9 +102,6 @@ En ce qui concerne le testing, mon problème majeur a été dû au fait que je n
 Pour ce qui est du rapport, je l'ai rédigé à la fin ce qui a pu être moins optimal étant donné que je n'étais pas dans "le feu de l'action" pour l'écrire. Je devrai faire attention pour mon TB et bien me réserver une après-midi par semaine voir une heure par jour pour au moins écrire dans les grandes lignes ce qui a été fait. Ceci permettra d'éviter des oublis ou des imprécisions.
 
 ## Réflexion sur la méthode d'auto-formation
-
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
-
 |Avantages|Inconvénients|
 | :-: |:-:|
 |Nécessite peu de moyens, surtout si l'on fait de l'auto-formation sur du développement|Demande de la rigueur|
@@ -118,9 +109,6 @@ _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous con
 ||Lorsque quelque chose ne va pas, fouiller les différents forums pour trouver exactement le bon problème dans le bon usecase peut être fastidieux|
 
 ## Conclusion
-
-_Quelles leçons avez-vous apprises et pourquoi ?_
-
 Pour conclure, j'ai pu atteindre mes objectifs ce qui n'a pas forcément été facile durant le "projet" mais ce qui est tout de même gratifiant à la fin. Cela m'a permit de beaucoup apprendre et de m'améliorer sur les frameworks autant que sur le développement d'applications en général.
 
 Les points importants concernant l'auto-formation sont les suivants:
