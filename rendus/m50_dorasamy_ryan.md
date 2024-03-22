@@ -69,6 +69,7 @@ Avantages :
 + Annuler rendez-vous en ligne via Gmail
 + Envoi de rappels possible
 + Ajout description possible
+  
 Désavantages :
 - Impossible de supprimer plusieurs rendez-vous en une seule fois
 - L’interface de la version code d’intégré fait très vieillot
@@ -78,6 +79,7 @@ Avantages :
 + Visuellement attractif
 + Mails automatiques
 + Extensions pour navigateurs
+
 Désavantages :
 - Faible personnalisation
 - App mobile assez limitée
@@ -89,6 +91,7 @@ Avantages :
 + Notifications personnalisable par téléphone et mail.
 + Programme fidélité client
 + Bonne personnalisation UI
+
 Désavantages :
 - Payant
 
