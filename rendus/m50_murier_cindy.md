@@ -48,20 +48,33 @@ Je possède des connaissances de base en JavaScript et en programmation web, mai
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Le bilan entre mes attentes, mes objectifs et la réalité de cette auto-formation est globalement plutôt positif. Bien que je n'avais aucune connaissance de base en GSAP, mes connaissances en JavaScript et en Vue.js m'ont beaucoup aidé pour la prise en main de cette nouvelle bibliothèque. Mon engagement dans ce processus d'apprentissage m'a permis d'acquérir une bonne compréhension des fondamentaux de GSAP. J'ai réussi à créer des animations et à intégrer GSAP dans des projets Vue.js. Les objectifs que je m'étais fixés ont servi de guide et de fil rouge tout au long du processus, ce qui m'a permis de rester concentré et d'atteindre mes buts malgré quelques difficultés.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+***Quelles sont les principales fonctionnalités offertes par GSAP pour la création d'animations web ?***
+GSAP offre une variété de fonctionnalités, telles que l'animation de n'importe quelle propriété CSS, des contrôles de séquence d'animation avancés (timelines), la possibilité de créer des animations complexes avec peu de code, et l'optimisation des performances pour des animations fluides sur divers appareils.
+
+***Comment puis-je intégrer GSAP dans un projet Vue.js existant ?***
+Pour intégrer GSAP dans un projet Vue.js, il suffit d'inclure la bibliothèque via npm ou directement dans un fichier HTML. Il est ensuite possible d'utiliser GSAP dans les méthodes des composants Vue.js pour animer des éléments du DOM.
+
+***Quels sont les principaux avantages de l'utilisation des animations GSAP par rapport aux animations CSS traditionnelles ?***
+GSAP offre des performances supérieures, une plus grande flexibilité dans le contrôle des animations, et la capacité de manipuler et d'animer n'importe quelle propriété CSS. De plus, GSAP assure une compatibilité avec tous les navigateurs, y compris les versions plus anciennes.
+
+***Comment puis-je contrôler la vitesse, l'opacité, et d'autres propriétés des éléments avec GSAP ?***
+Avec GSAP, il est possible de contrôler la vitesse, l'opacité, et d'autres propriétés de plusieurs manières. L'une d'elles est l'utilisation des méthodes .to(), .from(), ou .fromTo(), en spécifiant l'élément cible, la durée de l'animation, et un objet de propriétés et de valeurs. GSAP permet également d'ajuster l'easing, le délai, et d'autres paramètres pour affiner le contrôle des animations.
+
+***Quelles sont les meilleures pratiques pour optimiser les performances des animations GSAP et assurer une expérience utilisateur fluide ?***
+Pour optimiser les performances, il est conseillé de ne pas abuser de will-change, de limiter le nombre d'animations simultanées, et d'utiliser les timelines de GSAP pour une gestion précise et performante des séquences d'animations.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Le temps que j'ai consacré à cette auto-formation a légèrement dépassé les 36 heures initialement prévues, s'établissant finalement autour de 40 heures. Cette augmentation du temps passé est principalement due à la nécessité d'approfondir certains concepts de GSAP et de résoudre des problèmes d'intégration avec Vue.js. Mon expérimentation avec différentes animations et la recherche de solutions aux petits problèmes rencontrés ont également demandé plus de temps que prévu.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation m'a offert une grande flexibilité et m'a permis d'apprendre à mon propre rythme. Cependant, la résolution de certains problèmes rencontrés a parfois pris plus de temps car je ne pouvais pas demander l'aide directe d'un professeur. Mais cela m'a également permis de développer ma capacité à résoudre des problèmes par moi-même. Dans le cadre de ce travail d'autoformation, il était important d'avoir une discipline personnelle et une bonne organisation afin de pouvoir remplir les objectifs fixés.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+Cette expérience d'auto-formation avec GSAP a approfondi ma compréhension des animations web et m'a permis d'acquérir des compétences qui seront très utiles pour mon Travail de Bachelor. J'ai compris l'importance de la patience, de la persévérance, et de l'organisation dans l'apprentissage autonome.
