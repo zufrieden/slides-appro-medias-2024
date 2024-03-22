@@ -76,7 +76,7 @@ Les plugins gratuits offrent souvent des fonctionnalités de base et peuvent êt
 
 ## Investissement
 
-Le temps investi dans cette auto-formation a été moindre que prévu. Au lieu des 36 heures initialement prévues, j'ai pu consacrer environ 25 heures au total en raison d'autres obligations. Cela a entraîné un écart dans la couverture exhaustive des plugins et des sujets abordés.
+Le temps investi dans cette auto-formation a été moindre que prévu. Au lieu des 36 heures initialement prévues, j'ai pu consacrer environ 24 heures au total en raison d'autres obligations. Cela a entraîné un écart dans la couverture exhaustive des plugins et des sujets abordés.
 
 ## Réflexion sur la méthode d'auto-formation
 
