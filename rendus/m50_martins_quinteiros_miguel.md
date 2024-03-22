@@ -44,9 +44,6 @@ Les 8 dernières heures disponibles seront alouées à l'écriture du rapport ai
 # RAPPORT FINAL À RENDRE POUR LE 22 MARS 23h59
 
 ## Retour sur l'état initial
-
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
-
 ### Attentes
 Je voulais surtout tester le framework qu'est React Native afin de pouvoir diversifier mes connaissances en frameworks d'applications hybrides/natives pour me permettre de prendre de l'avance sur l'étape d'analyse du TB.
 
@@ -106,7 +103,7 @@ Le temps de développement a duré environ 10h, le fait d'avoir déjà utilisé 
 ### Testing, débuggage et rapport - 8h
 Le débuggage de l'application, quant à lui, à pris bien plus de temps que prévu sans pour autant me faire dépasser les délais de temps du projet. Le temps économisé sur le développement a pu être bien mit à profit sur cette étape là. Je n'ai pas rencontré de problèmes majeurs qui m'ont réellement bloqué sans vraiment en comprendre la raison, les bugs venaient souvent d'oublis ou de petites différences de fonctionnement entre Ionic et React Native. Ces sessions de débuggage sont arrivées au compte-gouttes.
 
-En ce qui concerne le testing, mon problème majeur a été dû au fait que je ne possédais pas de tag NFC physique pour me faciliter la tâche. J'ai cependant pu le simuler ce qui m'a permit de sauver pas mal de temps et d'éviter d'en acheter uniquement pour le projet. Les fonctionnalités de l'application étant relativement restreintes, le testing a été assez facile à faire. N'ayant pas de formattage de tag NFC imposé, cela a pu s'avérer plus facile, c'est un élément que je devrais prendre en compte pour mon TB.
+En ce qui concerne le testing, mon problème majeur a été dû au fait que je ne possédais pas de tag NFC physique pour me faciliter la tâche. J'ai cependant pu le simuler [grâce à une application](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=fr_CH&gl=US) et à ma carte de crédit ce qui m'a permit de sauver pas mal de temps et d'éviter d'en acheter uniquement pour le projet. Les fonctionnalités de l'application étant relativement restreintes, le testing a été assez facile à faire. N'ayant pas de formattage de tag NFC imposé, cela a pu s'avérer plus facile, c'est un élément que je devrais prendre en compte pour mon TB.
 
 Pour ce qui est du rapport, je l'ai rédigé à la fin ce qui a pu être moins optimal étant donné que je n'étais pas dans "le feu de l'action" pour l'écrire. Je devrai faire attention pour mon TB et bien me réserver une après-midi par semaine voir une heure par jour pour au moins écrire dans les grandes lignes ce qui a été fait. Ceci permettra d'éviter des oublis ou des imprécisions.
 
