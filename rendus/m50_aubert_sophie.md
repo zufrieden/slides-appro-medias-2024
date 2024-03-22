@@ -1,8 +1,8 @@
-# M50-1/2 Aubert Sophie - Exploration et prise en main de l'outil Planable
+# M50-1 Aubert Sophie - Exploration et prise en main de l'outil Planable
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 24 FÉVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est l'exploration et prise en main de l'outil Planable
 
 **_Décrire le sujet_**
 
@@ -56,20 +56,42 @@ A savoir : Identifier les points forts et des points à améliorer, ajuster les 
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Au départ, mes attentes étaient de maîtriser rapidement l'outil "Planable" afin de pouvoir l'utiliser efficacement dans la planification et la gestion de la communication sur les réseaux sociaux pour la boucherie Robellaz. Cet objectif a été atteint grâce à l'interface intuitive et simple de l'application.  Cependant, toutes les fonctionnalités de l'outil ne sont pas accessibles avec l'abonnement gratuit. Mais malgré cela, j'ai pu rapidement maîtriser celles qui étaient disponibles, ce qui m'a permis de commencer à planifier et à gérer la communication sur les réseaux sociaux de manière efficace.
+
+J'ai réalisé que l'objectif de créer et de planifier du contenu pour 3 mois en moins d'une heure était peut-être trop ambitieux. Bien que "Planable" offre une vue d'ensemble complète des publications déjà postées et de celles à venir, ainsi qu'une zone de création simple et efficace, la création de visuels n'est pas une fonctionnalité de l'outil. Cela peut, de ce fait, rapidement rallonger le temps nécessaire à la planification du contenu.
+
+Malgré cette limitation, "Planable" reste un outil intéressant pour la gestion de la communication sur les réseaux sociaux. Sa facilité d'utilisation et sa capacité à fournir une vue d'ensemble claire du calendrier éditorial sont de réels atouts . De plus, la possibilité de moduler facilement le planning de diffusion en fonction des besoins de l'entreprise est très appréciable. Cependant, il est important de prendre en compte le temps supplémentaire nécessaire pour la création de visuels, surtout si l'on vise une planification sur le long terme.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Quelles sont les principales fonctionnalités Planable et comment je les utilise pour planifier et gérer la communication sur les réseaux sociaux ?
+
+Les principales fonctionnalités de Planable incluent la planification de publications, la collaboration d'équipe, l'aperçu visuel du contenu, la gestion des approbations, et l'analyse des performances. Il est ainsi possible de les utiliser en planifiant des posts à l'avance, en travaillant avec d'autres membres de l'équipe sur les publications, en visualisant le calendrier éditorial, en obtenant des approbations internes, et en analysant les statistiques après la publication.
+
+2. Comment est-ce que j'utilise cet outil pour créer et planifier une publication sur les réseaux sociaux ? Décrire les étapes clés du processus ?
+
+Pour créer et planifier une publication sur les réseaux sociaux avec Planable, je commence par sélectionner les réseaux sociaux cibles, puis je crée le contenu en ajoutant du texte (avec l’aide de l’IA intégrée), des images ou des vidéos. Ensuite, je détermine la date et l'heure de publication et je vérifie que la publication automatique à bien été prise en compte. Il est également possible de soumettre la publication pour approbation puis, une fois approuvée, elle sera programmée pour être publiée automatiquement.
+
+3. Comment analyser les performances d'une publication que j'ai créée et planifiée ?
+
+Pour analyser les performances d'une publication, il faut consulter les statistiques fournies par Planable telles que le nombre de vues, de likes, de partages, et les commentaires. 
+
+4. Comment je vais intégrer les fonctionnalités avancées de l'outil comme l'automatisation des publications dans la stratégie de communication de la boucherie Robellaz ?
+
+J'intégrerai les fonctionnalités avancées de Planable telles que l'automatisation des publications en les incorporant dans la stratégie de communication de la boucherie Robellaz pour optimiser la planification et la publication du contenu sur les réseaux sociaux.
+
+5. Est-ce que je peux recommander ou, au contraire, déconseiller l’utilisation de cet outil à la boucherie en le justifiant ?
+
+Je recommanderais l'utilisation de Planable à la boucherie Robellaz car il offre des fonctionnalités intéressantes et faciles d’utilisation pour la planification et la gestion de la communication sur les réseaux sociaux. Cependant, je soulignerais également l'importance de former le personnel à son utilisation pour en tirer pleinement parti.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Comme demandé, j’avais initialement prévu d'investir 36 heures dans l'apprentissage et la maîtrise de l'outil Planable. Cependant, j’ai constater que j'ai réussi à maîtriser ses fonctionnalités en moins de temps que prévu, soit environ 30 heures au total. Il existe en effet plusieurs supports de formation liés à l’application qui aide à l’apprentissage des différentes fonctionnalités. Cependant, l’objectif de créer 3 mois de publication m’a pris énormément et à facilement comblé l’avance gagnée lors de mon auto-formation. 
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation offre effectivement la liberté de progresser à son propre rythme et d'explorer les sujets selon ses besoins. De plus, comme mentionné précédemment, l'outil "Planable" propose de nombreuses ressources pour se former, ce qui rend facile et agréable de trouver des réponses à ses questions. Cependant, l'auto-formation exige une discipline personnelle pour maintenir sa motivation et sa concentration. Travaillant depuis mon domicile, les interruptions telles que le passage du facteur ou les miaulements insistants du chat ont parfois été difficiles à ignorer, ce qui a rendu le maintien de ma concentration problématique. Malgré ces défis, je conserve un avis très positif sur l'auto-formation, tout en reconnaissant que son efficacité doit surement varié en fonction du sujet étudié et de l'environnement de travail.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+Cette expérience m'a appris l'importance de fixer des attentes réalistes lors de l'auto-formation et de prévoir des ajustements en cours de route. J'ai également réalisé l'importance de la pratique régulière pour acquérir une maîtrise effective d'un nouvel outil ou sujet. Enfin, j'ai apprécié l'autonomie offerte par l'auto-formation, mais j'ai aussi pris conscience de la nécessité de rechercher de l'aide et des ressources supplémentaires lorsque cela est nécessaire.
