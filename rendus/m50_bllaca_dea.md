@@ -130,12 +130,13 @@ Le développement d'une stratégie marketing personnalisée pour une entreprise 
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Le temps investi dans ce projet a été légèrement supérieur à ce que j'avais initialement prévu. J'avais envisagé de consacrer environ 10 à 15 heures par semaine au projet, mais en réalité, j'ai parfois dépassé ce nombre d'heures, notamment lors de la phase de recherche et d'analyse des tendances du marché immobilier. Récolter l'opinion des clients de eSMART a été une tâche conséquente car quasi tout le monde avait un emploi du temps chargé, il fallait donc parfois attendre plusieurs semaines avant d'avoir une réponse. Et en plus, il y a une certaine complexité dans le traitement des informations car il y en a beaucoup, ainsi qu'à ma volonté de fournir une analyse approfondie et des recommandations pertinentes pour eSMART.
+
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation s'est avérée être une méthode efficace pour acquérir de nouvelles compétences et approfondir mes connaissances en marketing. La flexibilité offerte par ce mode d'apprentissage m'a permis de travailler à mon propre rythme et de me concentrer sur les domaines qui nécessitaient le plus d'attention. Cependant, cela a également nécessité une discipline personnelle accrue pour gérer efficacement mon temps et maintenir ma motivation tout au long du projet. Cela a été assez complexe malgré tout de jongler entre mon travail, cette recherce, et le reste de mes tâches scolaires. La preuve, j'ai omis de terminé cette partie réfléxion et conclusion à temps (pour vendredi 22 mars 2024).
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+En conclusion, ce projet d'auto-formation m'a permis d'acquérir des compétences précieuses en matière de marketing et de stratégie commerciale, d'approfondir ma compréhension des tendances du marché immobilier, ainsi que apprendre à gérer mon temps et à être plus organisée. J'ai appris l'importance de l'adaptabilité et de la persévérance dans un environnement en constante évolution, ainsi que l'impact que ça a d'être centrée sur le client dans le développement d'une stratégie de co-marketing efficace. Ces leçons seront précieuses pour orienter mes futurs projets et ma carrière professionnelle dans le domaine du marketing.
